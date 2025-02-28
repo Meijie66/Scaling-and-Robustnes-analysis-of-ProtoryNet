@@ -1,0 +1,26 @@
+Unique Sentences and Their Occurrences:
+'a black and white bird with white eyes': 1 times
+'and all black bird with red and yellow side': 1 times
+'a small bird with a black and white coloring and short beak': 1 times
+'this water bird has a black crown and back, yellow and black bill and cream colored throat': 1 times
+'birds beak is small and flat black head and feet are small secondaries is tand orange and brown': 1 times
+'a medium size bird with a short, pointed, orange beak': 1 times
+'this bird has wings that are black and has a thick bill': 1 times
+'this bird is completely black, with a blunt beak': 1 times
+'this bird has wings that are black and has a thickbill': 1 times
+'the bird is light brown in color and has a head that is brown with a thick bill': 1 times
+'this bird is brown with black and has a long, pointy beak': 1 times
+'this bird has wings that are black with a black head': 1 times
+'this is a completely black bird with red and yellow covarts': 1 times
+'this bird has wings that are black and has a yellow and orange patch': 1 times
+'this bird has wings that are grey and has a yellow bill': 1 times
+'the bird has a thick brown neck with a grey beak and a white head': 1 times
+'this gray bird has large webbed feet, a white belly, a white eye, and a short orange bill': 1 times
+'this bird is black with white and has a very short beak': 1 times
+'this particular bird has a belly that is gray and black': 1 times
+'this particular bird has a white belly and breast and black secondaries': 1 times
+
+Summary:
+Total Sentences: 20
+Unique Sentences: 20
+Duplicated Sentences: 0

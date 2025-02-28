@@ -1,0 +1,16 @@
+Unique Sentences and Their Occurrences:
+'this medium-sized bird has spiky crown with black feathers': 1 times
+'tan and brown body with a white body, dark brown feathers and an orange beak': 1 times
+'a small bird with black coloring and an orange wingbar': 1 times
+'this bird has smooth dark-brown feathers and a thick yellowish beak': 1 times
+'this dark colored bird has quite a small head and beak compared to the sized of the rest of its body': 1 times
+'a medium size bird with a short, pointed, orange beak': 1 times
+'this bird has wings that are blue and has yellow eyes': 1 times
+'a big bird with gray feathers and a big gray beak': 1 times
+'this��bird��has��a��dark��brown��body,��black��wings,��and��a��short,��pointed��bill': 1 times
+'the bird has a white eyering and a white breast and belly': 1 times
+
+Summary:
+Total Sentences: 10
+Unique Sentences: 10
+Duplicated Sentences: 0

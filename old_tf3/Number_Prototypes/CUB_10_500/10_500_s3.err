@@ -1,0 +1,424 @@
+2025-01-24 13:15:40.726190: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-01-24 13:15:41.275489: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1510] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 78930 MB memory:  -> device: 0, name: NVIDIA A100 80GB PCIe, pci bus id: 0000:01:00.0, compute capability: 8.0
+2025-01-24 13:15:43.702671: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:185] None of the MLIR Optimization Passes are enabled (registered 2)
+2025-01-24 13:15:46.544600: I tensorflow/stream_executor/cuda/cuda_blas.cc:1760] TensorFloat-32 will be used for the matrix multiplication. This will only be logged once.
+2025-01-24 13:15:59.233909: I tensorflow/stream_executor/cuda/cuda_dnn.cc:369] Loaded cuDNN version 8100
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 12 is empty! self.labels_[self.medoid_indices_[12]] may not be labeled with its corresponding cluster (12).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 17 is empty! self.labels_[self.medoid_indices_[17]] may not be labeled with its corresponding cluster (17).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 19 is empty! self.labels_[self.medoid_indices_[19]] may not be labeled with its corresponding cluster (19).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 21 is empty! self.labels_[self.medoid_indices_[21]] may not be labeled with its corresponding cluster (21).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 23 is empty! self.labels_[self.medoid_indices_[23]] may not be labeled with its corresponding cluster (23).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 24 is empty! self.labels_[self.medoid_indices_[24]] may not be labeled with its corresponding cluster (24).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 31 is empty! self.labels_[self.medoid_indices_[31]] may not be labeled with its corresponding cluster (31).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 32 is empty! self.labels_[self.medoid_indices_[32]] may not be labeled with its corresponding cluster (32).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 37 is empty! self.labels_[self.medoid_indices_[37]] may not be labeled with its corresponding cluster (37).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 38 is empty! self.labels_[self.medoid_indices_[38]] may not be labeled with its corresponding cluster (38).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 44 is empty! self.labels_[self.medoid_indices_[44]] may not be labeled with its corresponding cluster (44).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 51 is empty! self.labels_[self.medoid_indices_[51]] may not be labeled with its corresponding cluster (51).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 52 is empty! self.labels_[self.medoid_indices_[52]] may not be labeled with its corresponding cluster (52).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 53 is empty! self.labels_[self.medoid_indices_[53]] may not be labeled with its corresponding cluster (53).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 55 is empty! self.labels_[self.medoid_indices_[55]] may not be labeled with its corresponding cluster (55).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 58 is empty! self.labels_[self.medoid_indices_[58]] may not be labeled with its corresponding cluster (58).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 62 is empty! self.labels_[self.medoid_indices_[62]] may not be labeled with its corresponding cluster (62).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 66 is empty! self.labels_[self.medoid_indices_[66]] may not be labeled with its corresponding cluster (66).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 67 is empty! self.labels_[self.medoid_indices_[67]] may not be labeled with its corresponding cluster (67).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 74 is empty! self.labels_[self.medoid_indices_[74]] may not be labeled with its corresponding cluster (74).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 75 is empty! self.labels_[self.medoid_indices_[75]] may not be labeled with its corresponding cluster (75).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 76 is empty! self.labels_[self.medoid_indices_[76]] may not be labeled with its corresponding cluster (76).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 80 is empty! self.labels_[self.medoid_indices_[80]] may not be labeled with its corresponding cluster (80).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 81 is empty! self.labels_[self.medoid_indices_[81]] may not be labeled with its corresponding cluster (81).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 82 is empty! self.labels_[self.medoid_indices_[82]] may not be labeled with its corresponding cluster (82).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 84 is empty! self.labels_[self.medoid_indices_[84]] may not be labeled with its corresponding cluster (84).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 88 is empty! self.labels_[self.medoid_indices_[88]] may not be labeled with its corresponding cluster (88).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 93 is empty! self.labels_[self.medoid_indices_[93]] may not be labeled with its corresponding cluster (93).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 97 is empty! self.labels_[self.medoid_indices_[97]] may not be labeled with its corresponding cluster (97).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 98 is empty! self.labels_[self.medoid_indices_[98]] may not be labeled with its corresponding cluster (98).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 100 is empty! self.labels_[self.medoid_indices_[100]] may not be labeled with its corresponding cluster (100).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 101 is empty! self.labels_[self.medoid_indices_[101]] may not be labeled with its corresponding cluster (101).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 105 is empty! self.labels_[self.medoid_indices_[105]] may not be labeled with its corresponding cluster (105).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 107 is empty! self.labels_[self.medoid_indices_[107]] may not be labeled with its corresponding cluster (107).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 108 is empty! self.labels_[self.medoid_indices_[108]] may not be labeled with its corresponding cluster (108).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 109 is empty! self.labels_[self.medoid_indices_[109]] may not be labeled with its corresponding cluster (109).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 110 is empty! self.labels_[self.medoid_indices_[110]] may not be labeled with its corresponding cluster (110).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 112 is empty! self.labels_[self.medoid_indices_[112]] may not be labeled with its corresponding cluster (112).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 113 is empty! self.labels_[self.medoid_indices_[113]] may not be labeled with its corresponding cluster (113).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 114 is empty! self.labels_[self.medoid_indices_[114]] may not be labeled with its corresponding cluster (114).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 115 is empty! self.labels_[self.medoid_indices_[115]] may not be labeled with its corresponding cluster (115).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 116 is empty! self.labels_[self.medoid_indices_[116]] may not be labeled with its corresponding cluster (116).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 117 is empty! self.labels_[self.medoid_indices_[117]] may not be labeled with its corresponding cluster (117).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 119 is empty! self.labels_[self.medoid_indices_[119]] may not be labeled with its corresponding cluster (119).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 121 is empty! self.labels_[self.medoid_indices_[121]] may not be labeled with its corresponding cluster (121).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 122 is empty! self.labels_[self.medoid_indices_[122]] may not be labeled with its corresponding cluster (122).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 123 is empty! self.labels_[self.medoid_indices_[123]] may not be labeled with its corresponding cluster (123).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 124 is empty! self.labels_[self.medoid_indices_[124]] may not be labeled with its corresponding cluster (124).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 126 is empty! self.labels_[self.medoid_indices_[126]] may not be labeled with its corresponding cluster (126).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 127 is empty! self.labels_[self.medoid_indices_[127]] may not be labeled with its corresponding cluster (127).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 128 is empty! self.labels_[self.medoid_indices_[128]] may not be labeled with its corresponding cluster (128).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 133 is empty! self.labels_[self.medoid_indices_[133]] may not be labeled with its corresponding cluster (133).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 136 is empty! self.labels_[self.medoid_indices_[136]] may not be labeled with its corresponding cluster (136).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 139 is empty! self.labels_[self.medoid_indices_[139]] may not be labeled with its corresponding cluster (139).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 140 is empty! self.labels_[self.medoid_indices_[140]] may not be labeled with its corresponding cluster (140).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 141 is empty! self.labels_[self.medoid_indices_[141]] may not be labeled with its corresponding cluster (141).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 142 is empty! self.labels_[self.medoid_indices_[142]] may not be labeled with its corresponding cluster (142).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 143 is empty! self.labels_[self.medoid_indices_[143]] may not be labeled with its corresponding cluster (143).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 146 is empty! self.labels_[self.medoid_indices_[146]] may not be labeled with its corresponding cluster (146).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 153 is empty! self.labels_[self.medoid_indices_[153]] may not be labeled with its corresponding cluster (153).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 155 is empty! self.labels_[self.medoid_indices_[155]] may not be labeled with its corresponding cluster (155).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 158 is empty! self.labels_[self.medoid_indices_[158]] may not be labeled with its corresponding cluster (158).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 160 is empty! self.labels_[self.medoid_indices_[160]] may not be labeled with its corresponding cluster (160).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 161 is empty! self.labels_[self.medoid_indices_[161]] may not be labeled with its corresponding cluster (161).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 165 is empty! self.labels_[self.medoid_indices_[165]] may not be labeled with its corresponding cluster (165).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 166 is empty! self.labels_[self.medoid_indices_[166]] may not be labeled with its corresponding cluster (166).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 167 is empty! self.labels_[self.medoid_indices_[167]] may not be labeled with its corresponding cluster (167).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 169 is empty! self.labels_[self.medoid_indices_[169]] may not be labeled with its corresponding cluster (169).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 170 is empty! self.labels_[self.medoid_indices_[170]] may not be labeled with its corresponding cluster (170).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 171 is empty! self.labels_[self.medoid_indices_[171]] may not be labeled with its corresponding cluster (171).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 172 is empty! self.labels_[self.medoid_indices_[172]] may not be labeled with its corresponding cluster (172).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 174 is empty! self.labels_[self.medoid_indices_[174]] may not be labeled with its corresponding cluster (174).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 176 is empty! self.labels_[self.medoid_indices_[176]] may not be labeled with its corresponding cluster (176).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 177 is empty! self.labels_[self.medoid_indices_[177]] may not be labeled with its corresponding cluster (177).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 179 is empty! self.labels_[self.medoid_indices_[179]] may not be labeled with its corresponding cluster (179).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 181 is empty! self.labels_[self.medoid_indices_[181]] may not be labeled with its corresponding cluster (181).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 182 is empty! self.labels_[self.medoid_indices_[182]] may not be labeled with its corresponding cluster (182).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 184 is empty! self.labels_[self.medoid_indices_[184]] may not be labeled with its corresponding cluster (184).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 185 is empty! self.labels_[self.medoid_indices_[185]] may not be labeled with its corresponding cluster (185).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 189 is empty! self.labels_[self.medoid_indices_[189]] may not be labeled with its corresponding cluster (189).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 191 is empty! self.labels_[self.medoid_indices_[191]] may not be labeled with its corresponding cluster (191).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 192 is empty! self.labels_[self.medoid_indices_[192]] may not be labeled with its corresponding cluster (192).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 199 is empty! self.labels_[self.medoid_indices_[199]] may not be labeled with its corresponding cluster (199).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 201 is empty! self.labels_[self.medoid_indices_[201]] may not be labeled with its corresponding cluster (201).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 202 is empty! self.labels_[self.medoid_indices_[202]] may not be labeled with its corresponding cluster (202).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 207 is empty! self.labels_[self.medoid_indices_[207]] may not be labeled with its corresponding cluster (207).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 208 is empty! self.labels_[self.medoid_indices_[208]] may not be labeled with its corresponding cluster (208).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 209 is empty! self.labels_[self.medoid_indices_[209]] may not be labeled with its corresponding cluster (209).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 211 is empty! self.labels_[self.medoid_indices_[211]] may not be labeled with its corresponding cluster (211).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 213 is empty! self.labels_[self.medoid_indices_[213]] may not be labeled with its corresponding cluster (213).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 214 is empty! self.labels_[self.medoid_indices_[214]] may not be labeled with its corresponding cluster (214).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 215 is empty! self.labels_[self.medoid_indices_[215]] may not be labeled with its corresponding cluster (215).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 216 is empty! self.labels_[self.medoid_indices_[216]] may not be labeled with its corresponding cluster (216).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 218 is empty! self.labels_[self.medoid_indices_[218]] may not be labeled with its corresponding cluster (218).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 224 is empty! self.labels_[self.medoid_indices_[224]] may not be labeled with its corresponding cluster (224).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 225 is empty! self.labels_[self.medoid_indices_[225]] may not be labeled with its corresponding cluster (225).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 227 is empty! self.labels_[self.medoid_indices_[227]] may not be labeled with its corresponding cluster (227).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 230 is empty! self.labels_[self.medoid_indices_[230]] may not be labeled with its corresponding cluster (230).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 232 is empty! self.labels_[self.medoid_indices_[232]] may not be labeled with its corresponding cluster (232).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 233 is empty! self.labels_[self.medoid_indices_[233]] may not be labeled with its corresponding cluster (233).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 234 is empty! self.labels_[self.medoid_indices_[234]] may not be labeled with its corresponding cluster (234).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 240 is empty! self.labels_[self.medoid_indices_[240]] may not be labeled with its corresponding cluster (240).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 244 is empty! self.labels_[self.medoid_indices_[244]] may not be labeled with its corresponding cluster (244).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 247 is empty! self.labels_[self.medoid_indices_[247]] may not be labeled with its corresponding cluster (247).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 248 is empty! self.labels_[self.medoid_indices_[248]] may not be labeled with its corresponding cluster (248).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 249 is empty! self.labels_[self.medoid_indices_[249]] may not be labeled with its corresponding cluster (249).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 253 is empty! self.labels_[self.medoid_indices_[253]] may not be labeled with its corresponding cluster (253).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 256 is empty! self.labels_[self.medoid_indices_[256]] may not be labeled with its corresponding cluster (256).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 264 is empty! self.labels_[self.medoid_indices_[264]] may not be labeled with its corresponding cluster (264).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 265 is empty! self.labels_[self.medoid_indices_[265]] may not be labeled with its corresponding cluster (265).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 270 is empty! self.labels_[self.medoid_indices_[270]] may not be labeled with its corresponding cluster (270).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 273 is empty! self.labels_[self.medoid_indices_[273]] may not be labeled with its corresponding cluster (273).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 274 is empty! self.labels_[self.medoid_indices_[274]] may not be labeled with its corresponding cluster (274).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 276 is empty! self.labels_[self.medoid_indices_[276]] may not be labeled with its corresponding cluster (276).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 279 is empty! self.labels_[self.medoid_indices_[279]] may not be labeled with its corresponding cluster (279).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 280 is empty! self.labels_[self.medoid_indices_[280]] may not be labeled with its corresponding cluster (280).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 285 is empty! self.labels_[self.medoid_indices_[285]] may not be labeled with its corresponding cluster (285).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 287 is empty! self.labels_[self.medoid_indices_[287]] may not be labeled with its corresponding cluster (287).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 289 is empty! self.labels_[self.medoid_indices_[289]] may not be labeled with its corresponding cluster (289).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 290 is empty! self.labels_[self.medoid_indices_[290]] may not be labeled with its corresponding cluster (290).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 291 is empty! self.labels_[self.medoid_indices_[291]] may not be labeled with its corresponding cluster (291).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 293 is empty! self.labels_[self.medoid_indices_[293]] may not be labeled with its corresponding cluster (293).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 295 is empty! self.labels_[self.medoid_indices_[295]] may not be labeled with its corresponding cluster (295).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 296 is empty! self.labels_[self.medoid_indices_[296]] may not be labeled with its corresponding cluster (296).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 298 is empty! self.labels_[self.medoid_indices_[298]] may not be labeled with its corresponding cluster (298).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 299 is empty! self.labels_[self.medoid_indices_[299]] may not be labeled with its corresponding cluster (299).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 301 is empty! self.labels_[self.medoid_indices_[301]] may not be labeled with its corresponding cluster (301).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 302 is empty! self.labels_[self.medoid_indices_[302]] may not be labeled with its corresponding cluster (302).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 303 is empty! self.labels_[self.medoid_indices_[303]] may not be labeled with its corresponding cluster (303).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 304 is empty! self.labels_[self.medoid_indices_[304]] may not be labeled with its corresponding cluster (304).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 315 is empty! self.labels_[self.medoid_indices_[315]] may not be labeled with its corresponding cluster (315).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 319 is empty! self.labels_[self.medoid_indices_[319]] may not be labeled with its corresponding cluster (319).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 320 is empty! self.labels_[self.medoid_indices_[320]] may not be labeled with its corresponding cluster (320).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 322 is empty! self.labels_[self.medoid_indices_[322]] may not be labeled with its corresponding cluster (322).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 324 is empty! self.labels_[self.medoid_indices_[324]] may not be labeled with its corresponding cluster (324).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 326 is empty! self.labels_[self.medoid_indices_[326]] may not be labeled with its corresponding cluster (326).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 330 is empty! self.labels_[self.medoid_indices_[330]] may not be labeled with its corresponding cluster (330).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 332 is empty! self.labels_[self.medoid_indices_[332]] may not be labeled with its corresponding cluster (332).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 333 is empty! self.labels_[self.medoid_indices_[333]] may not be labeled with its corresponding cluster (333).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 334 is empty! self.labels_[self.medoid_indices_[334]] may not be labeled with its corresponding cluster (334).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 335 is empty! self.labels_[self.medoid_indices_[335]] may not be labeled with its corresponding cluster (335).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 336 is empty! self.labels_[self.medoid_indices_[336]] may not be labeled with its corresponding cluster (336).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 337 is empty! self.labels_[self.medoid_indices_[337]] may not be labeled with its corresponding cluster (337).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 339 is empty! self.labels_[self.medoid_indices_[339]] may not be labeled with its corresponding cluster (339).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 341 is empty! self.labels_[self.medoid_indices_[341]] may not be labeled with its corresponding cluster (341).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 342 is empty! self.labels_[self.medoid_indices_[342]] may not be labeled with its corresponding cluster (342).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 345 is empty! self.labels_[self.medoid_indices_[345]] may not be labeled with its corresponding cluster (345).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 346 is empty! self.labels_[self.medoid_indices_[346]] may not be labeled with its corresponding cluster (346).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 348 is empty! self.labels_[self.medoid_indices_[348]] may not be labeled with its corresponding cluster (348).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 351 is empty! self.labels_[self.medoid_indices_[351]] may not be labeled with its corresponding cluster (351).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 352 is empty! self.labels_[self.medoid_indices_[352]] may not be labeled with its corresponding cluster (352).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 354 is empty! self.labels_[self.medoid_indices_[354]] may not be labeled with its corresponding cluster (354).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 356 is empty! self.labels_[self.medoid_indices_[356]] may not be labeled with its corresponding cluster (356).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 359 is empty! self.labels_[self.medoid_indices_[359]] may not be labeled with its corresponding cluster (359).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 360 is empty! self.labels_[self.medoid_indices_[360]] may not be labeled with its corresponding cluster (360).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 361 is empty! self.labels_[self.medoid_indices_[361]] may not be labeled with its corresponding cluster (361).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 363 is empty! self.labels_[self.medoid_indices_[363]] may not be labeled with its corresponding cluster (363).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 365 is empty! self.labels_[self.medoid_indices_[365]] may not be labeled with its corresponding cluster (365).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 366 is empty! self.labels_[self.medoid_indices_[366]] may not be labeled with its corresponding cluster (366).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 367 is empty! self.labels_[self.medoid_indices_[367]] may not be labeled with its corresponding cluster (367).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 368 is empty! self.labels_[self.medoid_indices_[368]] may not be labeled with its corresponding cluster (368).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 370 is empty! self.labels_[self.medoid_indices_[370]] may not be labeled with its corresponding cluster (370).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 372 is empty! self.labels_[self.medoid_indices_[372]] may not be labeled with its corresponding cluster (372).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 376 is empty! self.labels_[self.medoid_indices_[376]] may not be labeled with its corresponding cluster (376).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 378 is empty! self.labels_[self.medoid_indices_[378]] may not be labeled with its corresponding cluster (378).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 379 is empty! self.labels_[self.medoid_indices_[379]] may not be labeled with its corresponding cluster (379).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 380 is empty! self.labels_[self.medoid_indices_[380]] may not be labeled with its corresponding cluster (380).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 381 is empty! self.labels_[self.medoid_indices_[381]] may not be labeled with its corresponding cluster (381).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 382 is empty! self.labels_[self.medoid_indices_[382]] may not be labeled with its corresponding cluster (382).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 383 is empty! self.labels_[self.medoid_indices_[383]] may not be labeled with its corresponding cluster (383).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 384 is empty! self.labels_[self.medoid_indices_[384]] may not be labeled with its corresponding cluster (384).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 387 is empty! self.labels_[self.medoid_indices_[387]] may not be labeled with its corresponding cluster (387).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 388 is empty! self.labels_[self.medoid_indices_[388]] may not be labeled with its corresponding cluster (388).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 389 is empty! self.labels_[self.medoid_indices_[389]] may not be labeled with its corresponding cluster (389).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 390 is empty! self.labels_[self.medoid_indices_[390]] may not be labeled with its corresponding cluster (390).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 391 is empty! self.labels_[self.medoid_indices_[391]] may not be labeled with its corresponding cluster (391).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 392 is empty! self.labels_[self.medoid_indices_[392]] may not be labeled with its corresponding cluster (392).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 393 is empty! self.labels_[self.medoid_indices_[393]] may not be labeled with its corresponding cluster (393).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 394 is empty! self.labels_[self.medoid_indices_[394]] may not be labeled with its corresponding cluster (394).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 395 is empty! self.labels_[self.medoid_indices_[395]] may not be labeled with its corresponding cluster (395).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 396 is empty! self.labels_[self.medoid_indices_[396]] may not be labeled with its corresponding cluster (396).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 397 is empty! self.labels_[self.medoid_indices_[397]] may not be labeled with its corresponding cluster (397).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 399 is empty! self.labels_[self.medoid_indices_[399]] may not be labeled with its corresponding cluster (399).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 400 is empty! self.labels_[self.medoid_indices_[400]] may not be labeled with its corresponding cluster (400).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 401 is empty! self.labels_[self.medoid_indices_[401]] may not be labeled with its corresponding cluster (401).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 402 is empty! self.labels_[self.medoid_indices_[402]] may not be labeled with its corresponding cluster (402).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 403 is empty! self.labels_[self.medoid_indices_[403]] may not be labeled with its corresponding cluster (403).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 404 is empty! self.labels_[self.medoid_indices_[404]] may not be labeled with its corresponding cluster (404).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 405 is empty! self.labels_[self.medoid_indices_[405]] may not be labeled with its corresponding cluster (405).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 406 is empty! self.labels_[self.medoid_indices_[406]] may not be labeled with its corresponding cluster (406).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 407 is empty! self.labels_[self.medoid_indices_[407]] may not be labeled with its corresponding cluster (407).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 410 is empty! self.labels_[self.medoid_indices_[410]] may not be labeled with its corresponding cluster (410).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 422 is empty! self.labels_[self.medoid_indices_[422]] may not be labeled with its corresponding cluster (422).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 423 is empty! self.labels_[self.medoid_indices_[423]] may not be labeled with its corresponding cluster (423).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 424 is empty! self.labels_[self.medoid_indices_[424]] may not be labeled with its corresponding cluster (424).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 425 is empty! self.labels_[self.medoid_indices_[425]] may not be labeled with its corresponding cluster (425).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 427 is empty! self.labels_[self.medoid_indices_[427]] may not be labeled with its corresponding cluster (427).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 433 is empty! self.labels_[self.medoid_indices_[433]] may not be labeled with its corresponding cluster (433).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 437 is empty! self.labels_[self.medoid_indices_[437]] may not be labeled with its corresponding cluster (437).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 438 is empty! self.labels_[self.medoid_indices_[438]] may not be labeled with its corresponding cluster (438).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 441 is empty! self.labels_[self.medoid_indices_[441]] may not be labeled with its corresponding cluster (441).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 442 is empty! self.labels_[self.medoid_indices_[442]] may not be labeled with its corresponding cluster (442).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 443 is empty! self.labels_[self.medoid_indices_[443]] may not be labeled with its corresponding cluster (443).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 444 is empty! self.labels_[self.medoid_indices_[444]] may not be labeled with its corresponding cluster (444).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 448 is empty! self.labels_[self.medoid_indices_[448]] may not be labeled with its corresponding cluster (448).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 455 is empty! self.labels_[self.medoid_indices_[455]] may not be labeled with its corresponding cluster (455).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 457 is empty! self.labels_[self.medoid_indices_[457]] may not be labeled with its corresponding cluster (457).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 463 is empty! self.labels_[self.medoid_indices_[463]] may not be labeled with its corresponding cluster (463).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 499 is empty! self.labels_[self.medoid_indices_[499]] may not be labeled with its corresponding cluster (499).
+  "its corresponding cluster ({k}).".format(k=k)

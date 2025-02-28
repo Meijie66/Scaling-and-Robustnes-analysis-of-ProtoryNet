@@ -1,0 +1,40 @@
+Unique Sentences and Their Occurrences:
+'medium to large grey and black bird with long black beak': 1 times
+'this bird is black with a red beak and has a very short beak': 1 times
+'this bird is black and gray in color, with a large curved beak': 1 times
+'this bird is white and black in color with a large curved beak, and dark eye rings': 1 times
+'this bird has black winds and a white body with a long curved beak': 2 times
+'this bird is black with grey and has a very short beak': 1 times
+'this all-black bird has a long tail and a short black beak': 1 times
+'this bird has black plumage, with a large head and a large black, curved beak': 11 times
+'this bird has a long black crest and an orange beak': 1 times
+'this bird has a black head and has a short bright orange pointed bill': 1 times
+'this bird has a dark grey crown with a light grey belly and white and black beak': 1 times
+'this is a large white bird, with dark grey wings, and a curved bill': 1 times
+'black head and body, red eyes. wide tail': 1 times
+'this mottled white and black bird has white eyes, a white throat, and a stubby dark orange beak': 1 times
+'this black bird has a white belly and a small, round beak': 2 times
+'this black and white bird has a white throat, small beak, speckled belly, and white eyering': 3 times
+'this bird is black with white on its stomach and a short beak': 2 times
+'this is a grey bird with a white breast and eye and a black beak': 1 times
+'this bird has black plumage, with a large orange beak and white stripes on its head': 1 times
+'this bird has grey black wings, crown and rump, with a short stout beak': 1 times
+'this bird is black with red and has a long, pointy beak': 1 times
+'a black bird with an orange beak and a white stripe coming from its white eyes': 1 times
+'this bird has a unique white eye, and a pointed orange beak': 1 times
+'this bird has a large beak and is brown with a white ring on its face': 1 times
+'this bird has a black head and a gray nape, with a large beak': 1 times
+'this��bird��has��a��dark��brown��body,��black��wings,��and��a��short,��pointed��bill': 2 times
+'an all black bird with a orange short slightly round bill': 1 times
+'this bird has a black head and rectrices with white in its wings, a yellow ey, and a pointed beak': 1 times
+'this bird is white and gray in color, with a long curled beak': 1 times
+'this black bird features a pop of bright orange with its beak and a very pronounced crown feather': 1 times
+'a black bird with a long tail and a large gray beak': 1 times
+'this bird is black with white on its stomach and has a long, pointy beak': 1 times
+'a large white bird with gray wings, a short tail, a long neck, and a long beak with a downward curve': 1 times
+'this is a black bird with a grey face and a large beak': 1 times
+
+Summary:
+Total Sentences: 50
+Unique Sentences: 34
+Duplicated Sentences: 16

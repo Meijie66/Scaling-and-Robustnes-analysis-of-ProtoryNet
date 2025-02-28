@@ -1,0 +1,22 @@
+Unique Sentences and Their Occurrences:
+'this bird has a white chest, black wings and small curved orange beak': 3 times
+'this bird is all black with an orange beak and a bit of white between the head and beak': 2 times
+'this bird has a large beak and has all black feathers': 10 times
+'bird has a short wide orange beak with white eyes, and a plume of feathers arching over the bill': 1 times
+'this bird is brown with black feet and has a very short beak': 1 times
+'this bird has wings that are black and white with a short orange beak': 2 times
+'this web-footed bird has a short beak, white eyes, and grey and white mottled feathers': 1 times
+'this bird has a short orange bill, and a black head': 2 times
+'this bird has a black crown as well as a small black bill': 1 times
+'this bird has wings that are black and white and has a yellow bill': 1 times
+'this bird has a black head and a gray nape, with a large beak': 1 times
+'this bird has gray feathers, large feet, white eyes and a bright orange beak': 1 times
+'this black and white bird has a white throat, small beak, speckled belly, and white eyering': 1 times
+'a large bird with a brown coloring and orange beak': 1 times
+'this bird is grey and has a very large wing span with a very long beak': 1 times
+'this bird is black with white on its feathers and has a long, pointy beak': 1 times
+
+Summary:
+Total Sentences: 30
+Unique Sentences: 16
+Duplicated Sentences: 14

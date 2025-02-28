@@ -1,0 +1,1010 @@
+Num GPUs Available:  1
+shuffle:                                                 image  ...                               file_name
+0   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Laysan_Albatross_0051_1020.jpg
+1   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0055_570.jpg
+2   <PIL.Image.Image image mode=RGB size=500x416 a...  ...  Black_Footed_Albatross_0010_796097.jpg
+3   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0040_472.jpg
+4   <PIL.Image.Image image mode=RGB size=450x500 a...  ...  Black_Footed_Albatross_0077_796114.jpg
+5   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0083_756.jpg
+6   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0039_924.jpg
+7   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0014_89.jpg
+8   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0013_910.jpg
+9   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0071_796113.jpg
+10  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0023_796059.jpg
+11  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...     Black_Footed_Albatross_0067_170.jpg
+12  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0036_796127.jpg
+13  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0044_784.jpg
+14  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0039_796132.jpg
+15  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0063_796141.jpg
+16  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0056_500.jpg
+17  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0079_796122.jpg
+18  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0068_726.jpg
+19  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0071_792.jpg
+20  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0073_927.jpg
+21  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0040_796066.jpg
+22  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0081_800.jpg
+23  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0074_59.jpg
+24  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0061_563.jpg
+25  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0025_571.jpg
+26  <PIL.Image.Image image mode=RGB size=500x385 a...  ...  Black_Footed_Albatross_0068_796135.jpg
+27  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...     Black_Footed_Albatross_0031_100.jpg
+28  <PIL.Image.Image image mode=RGB size=500x391 a...  ...  Black_Footed_Albatross_0051_796103.jpg
+29  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0080_796096.jpg
+30  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0069_796139.jpg
+31  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Laysan_Albatross_0094_1013.jpg
+32  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0047_619.jpg
+33  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0057_796106.jpg
+34  <PIL.Image.Image image mode=RGB size=500x383 a...  ...  Black_Footed_Albatross_0032_796115.jpg
+35  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0029_482.jpg
+36  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...     Black_Footed_Albatross_0081_426.jpg
+37  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0007_796138.jpg
+38  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0041_796108.jpg
+39  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0089_796069.jpg
+40  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0047_796064.jpg
+41  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0018_492.jpg
+42  <PIL.Image.Image image mode=RGB size=500x332 a...  ...     Black_Footed_Albatross_0038_212.jpg
+43  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0085_564.jpg
+44  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0092_834.jpg
+45  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0076_671.jpg
+46  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0060_796076.jpg
+47  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0099_869.jpg
+48  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Laysan_Albatross_0003_1033.jpg
+49  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0056_796078.jpg
+50  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0006_702.jpg
+51  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0100_735.jpg
+52  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0088_883.jpg
+53  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0005_565.jpg
+54  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0017_796098.jpg
+55  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0009_34.jpg
+56  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0019_796104.jpg
+57  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0096_673.jpg
+58  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0065_809.jpg
+59  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0050_870.jpg
+
+[60 rows x 4 columns]
+shuffle:                                                 image  ...                               file_name
+0   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0042_801.jpg
+1   <PIL.Image.Image image mode=RGB size=500x340 a...  ...           Laysan_Albatross_0049_918.jpg
+2   <PIL.Image.Image image mode=RGB size=500x375 a...  ...  Black_Footed_Albatross_0003_796136.jpg
+3   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0033_658.jpg
+4   <PIL.Image.Image image mode=RGB size=500x375 a...  ...  Black_Footed_Albatross_0082_796121.jpg
+5   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0080_821.jpg
+6   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0028_643.jpg
+7   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0005_796090.jpg
+8   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0012_696.jpg
+9   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...     Black_Footed_Albatross_0076_417.jpg
+10  <PIL.Image.Image image mode=RGB size=500x357 a...  ...  Black_Footed_Albatross_0016_796067.jpg
+11  <PIL.Image.Image image mode=RGB size=240x187 a...  ...  Black_Footed_Albatross_0061_796082.jpg
+12  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0026_796095.jpg
+13  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0034_628.jpg
+14  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0035_796140.jpg
+15  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0058_796074.jpg
+16  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0053_543.jpg
+17  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0085_92.jpg
+18  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0060_777.jpg
+19  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0064_674.jpg
+20  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0070_788.jpg
+21  <PIL.Image.Image image mode=RGB size=448x272 a...  ...  Black_Footed_Albatross_0037_796120.jpg
+22  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0079_506.jpg
+23  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0078_796126.jpg
+24  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0058_637.jpg
+25  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0021_737.jpg
+26  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0064_796101.jpg
+27  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0024_796089.jpg
+28  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0046_18.jpg
+29  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0086_796062.jpg
+30  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0065_796068.jpg
+31  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0098_621.jpg
+32  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0035_876.jpg
+33  <PIL.Image.Image image mode=RGB size=500x275 a...  ...  Black_Footed_Albatross_0050_796125.jpg
+34  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0025_796057.jpg
+35  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Laysan_Albatross_0023_1059.jpg
+36  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0088_796133.jpg
+37  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0001_796111.jpg
+38  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0042_796071.jpg
+39  <PIL.Image.Image image mode=RGB size=216x136 a...  ...  Black_Footed_Albatross_0090_796077.jpg
+40  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0045_796129.jpg
+41  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0017_614.jpg
+42  <PIL.Image.Image image mode=RGB size=500x375 a...  ...  Black_Footed_Albatross_0033_796086.jpg
+43  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0082_524.jpg
+44  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0093_725.jpg
+45  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0075_668.jpg
+46  <PIL.Image.Image image mode=RGB size=455x450 a...  ...  Black_Footed_Albatross_0053_796109.jpg
+47  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0103_504.jpg
+48  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0001_545.jpg
+49  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0049_796063.jpg
+50  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0004_930.jpg
+51  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0104_630.jpg
+52  <PIL.Image.Image image mode=RGB size=500x385 a...  ...           Laysan_Albatross_0091_602.jpg
+53  <PIL.Image.Image image mode=RGB size=500x375 a...  ...          Laysan_Albatross_0002_1027.jpg
+54  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0006_796065.jpg
+55  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0002_55.jpg
+56  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0008_796083.jpg
+57  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0102_611.jpg
+58  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0059_488.jpg
+59  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0037_699.jpg
+
+[60 rows x 4 columns]
+[['a white bird with black feathers and a light beak', 'bird has white body feathers, white breast feather, and very long beak', 'a larger sized white bird that has dark brown wings and a large points bill', 'this bird is white with brown on it and has a long, pointy beak', 'this bird has a brown back and wings, with a white body and tarsi, and a long, thin, but slightly bulbous pink bill', 'large bird with a large long orange bill, white body and dark brown wings', 'this bird has wings that are black and has a big bill', 'the bird has a white throat, brown wingbar and a large curved bill', 'this bird a a big bill white head feathers with black circle around the eyes and white body feathers and black wings', 'this bird is white with black and has a long, pointy beak'], ['this peculiar looking bird has striking feathers that look more like fur with white tips and a very long, hooked beak', 'a bird that looks like it is partly feathers and partly fur and is grey witha large beak', 'this fuzzy bird has furry bits from its crown to its back and belly with intermingled white hairs that give a lightning cloud effect, and a long grey bill', 'this bird is dark gray with some beige intermixed in the crown and wings', 'this is a brown bird with a white eyering and a long downward pointing beak', 'a large bird with a long bill and a white cheek patch', 'this bird has a brown crown as well as a long grey bill', 'this bird has white eye ring, grey and brown secondaries and a white flank', 'this bird has long black bill that is curved downward at the end', 'this bird is gray and brown in color, and has a large curved beak'], ["here we have a bird soaring above the water and it's color is dark brown, he seems to have a long dark colored bill with a white ring around it on the upper part near the bill", 'this large bird is black all over, with a large flattened bill', 'a large bird covered n green feathers except for the bits of white on the edges of its wings, and the circle around its bill', 'this is a large grey bird with a large grey beak', 'this bird is brown and has a black bill with a white bit surrounding it', 'this bird has uniformly brown plumage, with a white ring around the base of its long, brown beak', 'this bird has wings that are brown and has a thick bill', 'this dark brown bird has long, angular wings, short rectrices, and a blunt, medium length black bill', 'this bird has a large beak and is brown with a white ring on its face', 'a large brown and black bird with large thick bill has white stripe along bill'], ['the impressive wingspan on this bird is brown and the body is white. the bill is long', 'the bird has a white head and rump, brown wings and back, and a brown bill', 'the bird has a white crown and a small black bill and large bill', 'a big bird with black and white feathers and a black beak', 'a medium sized bird that has tones of white and dark brown with a long bill', 'a bird with brown wings and a white tail and head', "the wingspan of this bird is longer than the bird's white body and long bill put together", 'a large bird that has a very long wingspan with a white head', 'this bird has wings that are black and has a white belly', 'this bird has wings that are black and has a long bill'], ['this sea bird has a massive, sharp beak, and feathers that are mostly brown except on tail and feathers near the beak', 'a medium sized bird with brown wings and a bill that curves downwards', 'this is a brown bird with a large curved beak', 'this bird is brown with a white tail and has a long, pointy beak', 'this gull is a muddy brown in color, with a long, thick, hooked brown beak and white rectrices', 'this is a brown bird with a short white tail and a large brown beak', 'a bird with a brown bill, white eyering, and brown secondaries', 'this bird is brown throughout and has an angled brown bill', 'this bird has a large and slightly curved brown beak and broad brown wings', 'this bird is brown with white and has a long, pointy beak']]
+[1, 1, 0, 1, 0]
+[['this bill has a very distinctive billwith almost a clamp look at the tip. it starts orange and ends black. the cheek patch and eyebrow are gray and the neck and crown are white', 'this appears to be a big bird, with a long neck, and long beak', 'the bird has a grey throat with grey and yellow colored base of bill but black tip of the bill', 'this bird has a white body, black wing, and long hooked bill', 'this large bird has a very soft appearance and has a long, down-pointed sharp beak', 'this bird is white with grey and has a long, pointy beak', 'this bird has wings that are white and has an orange bill', 'a bird with a large bill, white crown, and large black eyes', 'this bird is white in color, with a gray beak', 'this grey and white bird has long sharp orange bill'], ['a large water bird with a white body and wide brown wings, with a beak that hooks downward', 'a white swimming bird with a wide black wing span and an long orange beak', 'this is a white bird with dark grey wings and an orange beak', 'this bird is white and black in color with a curved long beak, and black eye rings', 'this large bird has a large orange bill, a white neck, belly, & breast and black wings', 'this particular bird has a white body with dark gray wings and a long tan bill', 'this bird is white and black in color, with a long orange beak', 'this bird has wings that are black and has a white belly', 'this bird has a white crown, brown primaries, and a white belly', 'this large bird has a white body, gray wings, and a large orange beak'], ['the large brown bird has a big bill and white throat', 'this medium sized bird is primarily black and has a large wingspan and a long black bill with a strip of white at the beginning of it', 'this bird has crown, a black bill, and a large wingspan', 'this bird features a broad wingspan and a slightly curved, dark bill', 'this larger bird is black and has a large black beak', 'this bird is mostly black with white around the base of the large curved bill', 'this is a mostly black and grey bird with a spectrum of white and grey secondaries and wingbars', 'this bird is all black and has a long, pointy beak', 'a medium sized bird with a long bill and brown wings', 'this bird is black with white and has a long, pointy beak'], ['the bill is light orange, long, and curved at the end, the head, neck, throat, chest and belly are white and the wings are dark grey', 'a large bird with white crown and black eyebrow having large bill and black secondaries and primaries', 'this bird is black and white in color, with a orange beak and a black eye ring', 'this is a white bird with an orange bill and black on the wingbars', 'this bird has white body, black wing, and long hooked bill', 'this bird has a white head, neck, belly, vent and tarsus, with black and grey feathers covering the rest of its body', 'this bird has wings that are grey and has a white belly', 'this bird has a large white body with black wings and long beak', 'this bird has wings that are black and has a white belly', 'this bird has wings that are grey and has a white belly'], ['a black bird with large wing and a large beak and normal sized head', 'this long winged bird is dark brown with a distinctive white upper covertail, and also has a bill curved down at its tip', 'a large bird with an expansive wing span covered in brown feathers except for the white wing bars, and black and white tail', "this bird has a black overall body color with a patch of white at the base of it's tail", "this large and sleek bird is dark with some white coloring on its rump and around it's bill", 'this bird has wings that are black with a white spot on its tail', 'this bird has a brown crown as well as a white and black rump', 'this bird has wings that are black and has a long bill', 'this bird has a black crown as well as a white rump', 'a large bird with a black coloring and long pointed beak']]
+[1, 1, 0, 1, 0]
+module https://tfhub.dev/google/universal-sentence-encoder/4 loaded
+sample_sentences: a white bird with black feathers and a light beak
+tf.Tensor(
+[[-0.02324563  0.05203567  0.04380197 ...  0.02343914 -0.01627549
+   0.02370965]
+ [-0.06224908  0.0433353   0.02198697 ...  0.01901531 -0.01281203
+   0.04360215]
+ [-0.04244007  0.00589466  0.07150964 ... -0.06612496 -0.04787847
+   0.05249988]
+ ...
+ [-0.05039376  0.05711081  0.0527043  ...  0.00164975 -0.03683754
+  -0.01321493]
+ [-0.05627307  0.04822513  0.02911231 ...  0.00238785 -0.05530234
+  -0.01550542]
+ [-0.05039449  0.06983289 -0.02036653 ...  0.02218384 -0.02947378
+  -0.0338656 ]], shape=(600, 512), dtype=float32)
+(10, 512)
+Total trainable parameters in the proto_layer: 5120
+[db] model.input =  KerasTensor(type_spec=TensorSpec(shape=(None,), dtype=tf.string, name='input_1'), name='input_1', description="created by layer 'input_1'")
+[db] protoLayerName =  proto_layer
+[db] protoLayer =  <protorynet_2_old.ProtoryNet.createModel.<locals>.prototypeLayer object at 0x7f379934b0f0>
+[db] protoLayer.output =  (<KerasTensor: shape=(None, None, 10) dtype=float32 (created by layer 'proto_layer')>, <KerasTensor: shape=(10, 512) dtype=float32 (created by layer 'proto_layer')>)
+[db] distanceLayer.output =  KerasTensor(type_spec=TensorSpec(shape=(None, None, 10), dtype=tf.float32, name=None), name='distance_layer/PartitionedCall:0', description="created by layer 'distance_layer'")
+Model: "custom_model"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input_1 (InputLayer)         [(None,)]                 0         
+_________________________________________________________________
+keras_layer (KerasLayer)     (None, 512)               256797824 
+_________________________________________________________________
+tf.expand_dims (TFOpLambda)  (1, None, 512)            0         
+_________________________________________________________________
+proto_layer (prototypeLayer) ((None, None, 10), (10, 5 5120      
+_________________________________________________________________
+distance_layer (distanceLaye (None, None, 10)          0         
+_________________________________________________________________
+lstm (LSTM)                  [(None, None, 128), (None 71168     
+_________________________________________________________________
+tf.__operators__.getitem (Sl (None, 128)               0         
+_________________________________________________________________
+dense (Dense)                (None, 1)                 129       
+_________________________________________________________________
+tf.compat.v1.squeeze (TFOpLa (1,)                      0         
+_________________________________________________________________
+model (Functional)           ((None, None, 10), (10, 5 256802944 
+_________________________________________________________________
+model_1 (Functional)         (None, None, 10)          256802944 
+=================================================================
+Total params: 256,874,241
+Trainable params: 256,874,241
+Non-trainable params: 0
+_________________________________________________________________
+Epoch  0
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.72141/1 [==============================] - 6s 6s/step - loss: 0.7214
+Evaluating y_pred, y  [0.48311046] 0 1
+Evaluating y_pred, y  [0.49022084] 0 0
+Evaluate on valid set:  0.5166666666666667
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:24:25.432988
+date and time = 23_01_2025_01_24_25
+just saved
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.68981/1 [==============================] - 0s 34ms/step - loss: 0.6898
+Evaluating y_pred, y  [0.49449587] 0 1
+Evaluating y_pred, y  [0.49018532] 0 0
+Evaluate on valid set:  0.5333333333333333
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:24:30.678120
+date and time = 23_01_2025_01_24_30
+just saved
+Epoch  1
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.70151/1 [==============================] - 0s 34ms/step - loss: 0.7015
+Evaluating y_pred, y  [0.50012475] 1 1
+Evaluating y_pred, y  [0.48888296] 0 0
+Evaluate on valid set:  0.6
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:24:35.841509
+date and time = 23_01_2025_01_24_35
+just saved
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.65911/1 [==============================] - 0s 34ms/step - loss: 0.6591
+Evaluating y_pred, y  [0.49793687] 0 1
+Evaluating y_pred, y  [0.49458396] 0 0
+Evaluate on valid set:  0.6333333333333333
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:24:41.005415
+date and time = 23_01_2025_01_24_41
+just saved
+Epoch  2
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.72121/1 [==============================] - 0s 34ms/step - loss: 0.7212
+Evaluating y_pred, y  [0.5054964] 1 1
+Evaluating y_pred, y  [0.49594605] 0 0
+Evaluate on valid set:  0.6666666666666666
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:24:46.397540
+date and time = 23_01_2025_01_24_46
+just saved
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.69111/1 [==============================] - 0s 34ms/step - loss: 0.6911
+Evaluating y_pred, y  [0.53275347] 1 1
+Evaluating y_pred, y  [0.4996356] 0 0
+Evaluate on valid set:  0.55
+Epoch  3
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.64481/1 [==============================] - 0s 38ms/step - loss: 0.6448
+Evaluating y_pred, y  [0.5364259] 1 1
+Evaluating y_pred, y  [0.4978543] 0 0
+Evaluate on valid set:  0.55
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.61311/1 [==============================] - 0s 40ms/step - loss: 0.6131
+Evaluating y_pred, y  [0.540945] 1 1
+Evaluating y_pred, y  [0.5032854] 1 0
+Evaluate on valid set:  0.6333333333333333
+Epoch  4
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.77011/1 [==============================] - 0s 41ms/step - loss: 0.7701
+Evaluating y_pred, y  [0.5184947] 1 1
+Evaluating y_pred, y  [0.4500275] 0 0
+Evaluate on valid set:  0.6
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.55621/1 [==============================] - 0s 40ms/step - loss: 0.5562
+Evaluating y_pred, y  [0.5288532] 1 1
+Evaluating y_pred, y  [0.45245406] 0 0
+Evaluate on valid set:  0.65
+Epoch  5
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.78511/1 [==============================] - 0s 39ms/step - loss: 0.7851
+Evaluating y_pred, y  [0.53410554] 1 1
+Evaluating y_pred, y  [0.44687805] 0 0
+Evaluate on valid set:  0.6666666666666666
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.53951/1 [==============================] - 0s 40ms/step - loss: 0.5395
+Evaluating y_pred, y  [0.5462323] 1 1
+Evaluating y_pred, y  [0.45021272] 0 0
+Evaluate on valid set:  0.6333333333333333
+Epoch  6
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.76001/1 [==============================] - 0s 42ms/step - loss: 0.7600
+Evaluating y_pred, y  [0.55486107] 1 1
+Evaluating y_pred, y  [0.4422364] 0 0
+Evaluate on valid set:  0.6333333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.49741/1 [==============================] - 0s 41ms/step - loss: 0.4974
+Evaluating y_pred, y  [0.5491416] 1 1
+Evaluating y_pred, y  [0.43908623] 0 0
+Evaluate on valid set:  0.7
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:25:40.636734
+date and time = 23_01_2025_01_25_40
+just saved
+Epoch  7
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.65471/1 [==============================] - 0s 41ms/step - loss: 0.6547
+Evaluating y_pred, y  [0.5950254] 1 1
+Evaluating y_pred, y  [0.44073653] 0 0
+Evaluate on valid set:  0.7
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.37011/1 [==============================] - 0s 45ms/step - loss: 0.3701
+Evaluating y_pred, y  [0.63610375] 1 1
+Evaluating y_pred, y  [0.48150092] 0 0
+Evaluate on valid set:  0.7166666666666667
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:25:53.253964
+date and time = 23_01_2025_01_25_53
+just saved
+Epoch  8
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.24611/1 [==============================] - 0s 41ms/step - loss: 0.2461
+Evaluating y_pred, y  [0.784933] 1 1
+Evaluating y_pred, y  [0.7186321] 1 0
+Evaluate on valid set:  0.5
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.06011/1 [==============================] - 0s 44ms/step - loss: 1.0601
+Evaluating y_pred, y  [0.6689289] 1 1
+Evaluating y_pred, y  [0.64442956] 1 0
+Evaluate on valid set:  0.5
+Epoch  9
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.51041/1 [==============================] - 0s 37ms/step - loss: 0.5104
+Evaluating y_pred, y  [0.6039381] 1 1
+Evaluating y_pred, y  [0.5843467] 1 0
+Evaluate on valid set:  0.5
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.85301/1 [==============================] - 0s 39ms/step - loss: 0.8530
+Evaluating y_pred, y  [0.5880462] 1 1
+Evaluating y_pred, y  [0.56848633] 1 0
+Evaluate on valid set:  0.5
+Epoch  10
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.57431/1 [==============================] - 0s 39ms/step - loss: 0.5743
+Evaluating y_pred, y  [0.5669675] 1 1
+Evaluating y_pred, y  [0.53103894] 1 0
+Evaluate on valid set:  0.48333333333333334
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.73831/1 [==============================] - 0s 44ms/step - loss: 0.7383
+Evaluating y_pred, y  [0.56596863] 1 1
+Evaluating y_pred, y  [0.52614707] 1 0
+Evaluate on valid set:  0.5
+Epoch  11
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.59441/1 [==============================] - 0s 37ms/step - loss: 0.5944
+Evaluating y_pred, y  [0.55604655] 1 1
+Evaluating y_pred, y  [0.5131957] 1 0
+Evaluate on valid set:  0.5666666666666667
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.70851/1 [==============================] - 0s 41ms/step - loss: 0.7085
+Evaluating y_pred, y  [0.5638001] 1 1
+Evaluating y_pred, y  [0.5130275] 1 0
+Evaluate on valid set:  0.55
+Epoch  12
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.58641/1 [==============================] - 0s 48ms/step - loss: 0.5864
+Evaluating y_pred, y  [0.5604217] 1 1
+Evaluating y_pred, y  [0.5016982] 1 0
+Evaluate on valid set:  0.5833333333333334
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.61701/1 [==============================] - 0s 41ms/step - loss: 0.6170
+Evaluating y_pred, y  [0.57286507] 1 1
+Evaluating y_pred, y  [0.47278833] 0 0
+Evaluate on valid set:  0.6
+Epoch  13
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.56771/1 [==============================] - 0s 40ms/step - loss: 0.5677
+Evaluating y_pred, y  [0.57121736] 1 1
+Evaluating y_pred, y  [0.4514202] 0 0
+Evaluate on valid set:  0.65
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.59481/1 [==============================] - 0s 37ms/step - loss: 0.5948
+Evaluating y_pred, y  [0.59292096] 1 1
+Evaluating y_pred, y  [0.43741214] 0 0
+Evaluate on valid set:  0.6666666666666666
+Epoch  14
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.60251/1 [==============================] - 0s 38ms/step - loss: 0.6025
+Evaluating y_pred, y  [0.6046947] 1 1
+Evaluating y_pred, y  [0.33268663] 0 0
+Evaluate on valid set:  0.7
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.19241/1 [==============================] - 0s 40ms/step - loss: 0.1924
+Evaluating y_pred, y  [0.5410027] 1 1
+Evaluating y_pred, y  [0.27714714] 0 0
+Evaluate on valid set:  0.6833333333333333
+Epoch  15
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.48581/1 [==============================] - 0s 38ms/step - loss: 0.4858
+Evaluating y_pred, y  [0.55355626] 1 1
+Evaluating y_pred, y  [0.20544346] 0 0
+Evaluate on valid set:  0.7166666666666667
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01111/1 [==============================] - 0s 38ms/step - loss: 0.0111
+Evaluating y_pred, y  [0.5986106] 1 1
+Evaluating y_pred, y  [0.15664183] 0 0
+Evaluate on valid set:  0.7166666666666667
+Epoch  16
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.17361/1 [==============================] - 0s 39ms/step - loss: 0.1736
+Evaluating y_pred, y  [0.4289975] 0 1
+Evaluating y_pred, y  [0.01872039] 0 0
+Evaluate on valid set:  0.6833333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.00761/1 [==============================] - 0s 39ms/step - loss: 0.0076
+Evaluating y_pred, y  [0.39442527] 0 1
+Evaluating y_pred, y  [0.01333163] 0 0
+Evaluate on valid set:  0.7333333333333333
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:27:41.357299
+date and time = 23_01_2025_01_27_41
+just saved
+Epoch  17
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.18131/1 [==============================] - 0s 40ms/step - loss: 0.1813
+Evaluating y_pred, y  [0.48989734] 0 1
+Evaluating y_pred, y  [0.16498871] 0 0
+Evaluate on valid set:  0.7333333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01061/1 [==============================] - 0s 45ms/step - loss: 0.0106
+Evaluating y_pred, y  [0.49097246] 0 1
+Evaluating y_pred, y  [0.02316117] 0 0
+Evaluate on valid set:  0.75
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:27:53.325401
+date and time = 23_01_2025_01_27_53
+just saved
+Epoch  18
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.15571/1 [==============================] - 0s 38ms/step - loss: 0.1557
+Evaluating y_pred, y  [0.8239114] 1 1
+Evaluating y_pred, y  [0.6017508] 1 0
+Evaluate on valid set:  0.55
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.04521/1 [==============================] - 0s 41ms/step - loss: 0.0452
+Evaluating y_pred, y  [0.6482238] 1 1
+Evaluating y_pred, y  [0.22615917] 0 0
+Evaluate on valid set:  0.7166666666666667
+Epoch  19
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.12531/1 [==============================] - 0s 37ms/step - loss: 0.1253
+Evaluating y_pred, y  [0.6411848] 1 1
+Evaluating y_pred, y  [0.15171064] 0 0
+Evaluate on valid set:  0.7333333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.03181/1 [==============================] - 0s 42ms/step - loss: 0.0318
+Evaluating y_pred, y  [0.7170625] 1 1
+Evaluating y_pred, y  [0.16156459] 0 0
+Evaluate on valid set:  0.7166666666666667
+Epoch  20
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.05891/1 [==============================] - 0s 39ms/step - loss: 1.0589
+Evaluating y_pred, y  [0.6698318] 1 1
+Evaluating y_pred, y  [0.07357544] 0 0
+Evaluate on valid set:  0.75
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.00991/1 [==============================] - 0s 40ms/step - loss: 0.0099
+Evaluating y_pred, y  [0.7442157] 1 1
+Evaluating y_pred, y  [0.11385011] 0 0
+Evaluate on valid set:  0.7333333333333333
+Epoch  21
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.07331/1 [==============================] - 0s 42ms/step - loss: 0.0733
+Evaluating y_pred, y  [0.7450724] 1 1
+Evaluating y_pred, y  [0.07768379] 0 0
+Evaluate on valid set:  0.7333333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01621/1 [==============================] - 0s 40ms/step - loss: 0.0162
+Evaluating y_pred, y  [0.8237958] 1 1
+Evaluating y_pred, y  [0.1885271] 0 0
+Evaluate on valid set:  0.7333333333333333
+Epoch  22
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 2.88401/1 [==============================] - 0s 40ms/step - loss: 2.8840
+Evaluating y_pred, y  [0.79809356] 1 1
+Evaluating y_pred, y  [0.11355308] 0 0
+Evaluate on valid set:  0.7
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.02331/1 [==============================] - 0s 39ms/step - loss: 0.0233
+Evaluating y_pred, y  [0.8116279] 1 1
+Evaluating y_pred, y  [0.16083153] 0 0
+Evaluate on valid set:  0.7166666666666667
+Epoch  23
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.05691/1 [==============================] - 0s 40ms/step - loss: 0.0569
+Evaluating y_pred, y  [0.79126674] 1 1
+Evaluating y_pred, y  [0.1042079] 0 0
+Evaluate on valid set:  0.75
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01311/1 [==============================] - 0s 37ms/step - loss: 0.0131
+Evaluating y_pred, y  [0.8435517] 1 1
+Evaluating y_pred, y  [0.17696953] 0 0
+Evaluate on valid set:  0.75
+Epoch  24
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.43921/1 [==============================] - 0s 38ms/step - loss: 0.4392
+Evaluating y_pred, y  [0.7944957] 1 1
+Evaluating y_pred, y  [0.11054652] 0 0
+Evaluate on valid set:  0.75
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.04881/1 [==============================] - 0s 38ms/step - loss: 0.0488
+Evaluating y_pred, y  [0.84394336] 1 1
+Evaluating y_pred, y  [0.17403239] 0 0
+Evaluate on valid set:  0.7833333333333333
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:29:17.218827
+date and time = 23_01_2025_01_29_17
+just saved
+Epoch  25
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.09471/1 [==============================] - 0s 39ms/step - loss: 0.0947
+Evaluating y_pred, y  [0.8089057] 1 1
+Evaluating y_pred, y  [0.14132878] 0 0
+Evaluate on valid set:  0.7666666666666667
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01441/1 [==============================] - 0s 40ms/step - loss: 0.0144
+Evaluating y_pred, y  [0.8709881] 1 1
+Evaluating y_pred, y  [0.19517908] 0 0
+Evaluate on valid set:  0.7833333333333333
+Epoch  26
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.04591/1 [==============================] - 0s 38ms/step - loss: 0.0459
+Evaluating y_pred, y  [0.860865] 1 1
+Evaluating y_pred, y  [0.13464785] 0 0
+Evaluate on valid set:  0.7666666666666667
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.04191/1 [==============================] - 0s 37ms/step - loss: 0.0419
+Evaluating y_pred, y  [0.87806714] 1 1
+Evaluating y_pred, y  [0.16650271] 0 0
+Evaluate on valid set:  0.7666666666666667
+Epoch  27
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.31521/1 [==============================] - 0s 40ms/step - loss: 0.3152
+Evaluating y_pred, y  [0.8659715] 1 1
+Evaluating y_pred, y  [0.15972139] 0 0
+Evaluate on valid set:  0.75
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01201/1 [==============================] - 0s 39ms/step - loss: 0.0120
+Evaluating y_pred, y  [0.9006035] 1 1
+Evaluating y_pred, y  [0.18205112] 0 0
+Evaluate on valid set:  0.7833333333333333
+Epoch  28
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.02541/1 [==============================] - 0s 39ms/step - loss: 0.0254
+Evaluating y_pred, y  [0.8729115] 1 1
+Evaluating y_pred, y  [0.14147277] 0 0
+Evaluate on valid set:  0.7833333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.02601/1 [==============================] - 0s 38ms/step - loss: 0.0260
+Evaluating y_pred, y  [0.9189563] 1 1
+Evaluating y_pred, y  [0.21037726] 0 0
+Evaluate on valid set:  0.7666666666666667
+Epoch  29
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.03371/1 [==============================] - 0s 47ms/step - loss: 0.0337
+Evaluating y_pred, y  [0.91068774] 1 1
+Evaluating y_pred, y  [0.17785391] 0 0
+Evaluate on valid set:  0.7833333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01311/1 [==============================] - 0s 38ms/step - loss: 0.0131
+Evaluating y_pred, y  [0.9079291] 1 1
+Evaluating y_pred, y  [0.1522528] 0 0
+Evaluate on valid set:  0.8
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:30:16.902310
+date and time = 23_01_2025_01_30_16
+just saved
+Epoch  30
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.04971/1 [==============================] - 0s 39ms/step - loss: 0.0497
+Evaluating y_pred, y  [0.9049825] 1 1
+Evaluating y_pred, y  [0.11613078] 0 0
+Evaluate on valid set:  0.7833333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01911/1 [==============================] - 0s 39ms/step - loss: 0.0191
+Evaluating y_pred, y  [0.94117033] 1 1
+Evaluating y_pred, y  [0.15003973] 0 0
+Evaluate on valid set:  0.7833333333333333
+Epoch  31
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.08931/1 [==============================] - 0s 37ms/step - loss: 0.0893
+Evaluating y_pred, y  [0.9226647] 1 1
+Evaluating y_pred, y  [0.16051432] 0 0
+Evaluate on valid set:  0.8166666666666667
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:30:34.767261
+date and time = 23_01_2025_01_30_34
+just saved
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.02671/1 [==============================] - 0s 40ms/step - loss: 0.0267
+Evaluating y_pred, y  [0.936215] 1 1
+Evaluating y_pred, y  [0.33965594] 0 0
+Evaluate on valid set:  0.7666666666666667
+Epoch  32
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.07041/1 [==============================] - 0s 39ms/step - loss: 0.0704
+Evaluating y_pred, y  [0.9488608] 1 1
+Evaluating y_pred, y  [0.32944295] 0 0
+Evaluate on valid set:  0.8
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01321/1 [==============================] - 0s 38ms/step - loss: 0.0132
+Evaluating y_pred, y  [0.9484099] 1 1
+Evaluating y_pred, y  [0.28539124] 0 0
+Evaluate on valid set:  0.8
+Epoch  33
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.42171/1 [==============================] - 0s 39ms/step - loss: 0.4217
+Evaluating y_pred, y  [0.9565751] 1 1
+Evaluating y_pred, y  [0.32179245] 0 0
+Evaluate on valid set:  0.8166666666666667
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01051/1 [==============================] - 0s 39ms/step - loss: 0.0105
+Evaluating y_pred, y  [0.9418482] 1 1
+Evaluating y_pred, y  [0.3341718] 0 0
+Evaluate on valid set:  0.8166666666666667
+Epoch  34
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.13911/1 [==============================] - 0s 39ms/step - loss: 0.1391
+Evaluating y_pred, y  [0.9425627] 1 1
+Evaluating y_pred, y  [0.33565775] 0 0
+Evaluate on valid set:  0.7833333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.00911/1 [==============================] - 0s 37ms/step - loss: 0.0091
+Evaluating y_pred, y  [0.9577598] 1 1
+Evaluating y_pred, y  [0.1897655] 0 0
+Evaluate on valid set:  0.8166666666666667
+Epoch  35
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00911/1 [==============================] - 0s 40ms/step - loss: 0.0091
+Evaluating y_pred, y  [0.9688016] 1 1
+Evaluating y_pred, y  [0.1907115] 0 0
+Evaluate on valid set:  0.7833333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.00931/1 [==============================] - 0s 41ms/step - loss: 0.0093
+Evaluating y_pred, y  [0.9664876] 1 1
+Evaluating y_pred, y  [0.19400929] 0 0
+Evaluate on valid set:  0.8166666666666667
+Epoch  36
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.01511/1 [==============================] - 0s 40ms/step - loss: 0.0151
+Evaluating y_pred, y  [0.9631239] 1 1
+Evaluating y_pred, y  [0.16483401] 0 0
+Evaluate on valid set:  0.8166666666666667
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.00971/1 [==============================] - 0s 38ms/step - loss: 0.0097
+Evaluating y_pred, y  [0.97428405] 1 1
+Evaluating y_pred, y  [0.18524541] 0 0
+Evaluate on valid set:  0.8
+Epoch  37
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.03671/1 [==============================] - 0s 38ms/step - loss: 0.0367
+Evaluating y_pred, y  [0.9704649] 1 1
+Evaluating y_pred, y  [0.17306858] 0 0
+Evaluate on valid set:  0.8333333333333334
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:31:46.523054
+date and time = 23_01_2025_01_31_46
+just saved
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01011/1 [==============================] - 0s 39ms/step - loss: 0.0101
+Evaluating y_pred, y  [0.9718237] 1 1
+Evaluating y_pred, y  [0.24241392] 0 0
+Evaluate on valid set:  0.8333333333333334
+Epoch  38
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.01601/1 [==============================] - 0s 39ms/step - loss: 0.0160
+Evaluating y_pred, y  [0.9782341] 1 1
+Evaluating y_pred, y  [0.24346776] 0 0
+Evaluate on valid set:  0.8333333333333334
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.01781/1 [==============================] - 0s 37ms/step - loss: 0.0178
+Evaluating y_pred, y  [0.98313427] 1 1
+Evaluating y_pred, y  [0.20243347] 0 0
+Evaluate on valid set:  0.8166666666666667
+Epoch  39
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.03351/1 [==============================] - 0s 45ms/step - loss: 0.0335
+Evaluating y_pred, y  [0.9866888] 1 1
+Evaluating y_pred, y  [0.19612008] 0 0
+Evaluate on valid set:  0.8
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.00861/1 [==============================] - 0s 41ms/step - loss: 0.0086
+Evaluating y_pred, y  [0.9893974] 1 1
+Evaluating y_pred, y  [0.04769756] 0 0
+Evaluate on valid set:  0.85
+This is the best eval res, saving the model...
+saving model now = 2025-01-23 01:32:16.491952
+date and time = 23_01_2025_01_32_16
+just saved
+Epoch  40
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00911/1 [==============================] - 0s 40ms/step - loss: 0.0091
+Evaluating y_pred, y  [0.99029845] 1 1
+Evaluating y_pred, y  [0.04463914] 0 0
+Evaluate on valid set:  0.8333333333333334
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.00671/1 [==============================] - 0s 62ms/step - loss: 0.0067
+Evaluating y_pred, y  [0.9913891] 1 1
+Evaluating y_pred, y  [0.05178104] 0 0
+Evaluate on valid set:  0.85
+Epoch  41
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.03551/1 [==============================] - 0s 39ms/step - loss: 0.0355
+Evaluating y_pred, y  [0.9926439] 1 1
+Evaluating y_pred, y  [0.05237249] 0 0
+Evaluate on valid set:  0.8333333333333334
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.00771/1 [==============================] - 0s 41ms/step - loss: 0.0077
+Evaluating y_pred, y  [0.9944312] 1 1
+Evaluating y_pred, y  [0.05023035] 0 0
+Evaluate on valid set:  0.8333333333333334
+Epoch  42
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.58091/1 [==============================] - 0s 39ms/step - loss: 0.5809
+Evaluating y_pred, y  [0.40173116] 0 1
+Evaluating y_pred, y  [0.28573978] 0 0
+Evaluate on valid set:  0.6833333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.81531/1 [==============================] - 0s 39ms/step - loss: 0.8153
+Evaluating y_pred, y  [0.6259158] 1 1
+Evaluating y_pred, y  [0.4865227] 0 0
+Evaluate on valid set:  0.8
+Epoch  43
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.23461/1 [==============================] - 0s 38ms/step - loss: 0.2346
+Evaluating y_pred, y  [0.61239564] 1 1
+Evaluating y_pred, y  [0.6315383] 1 0
+Evaluate on valid set:  0.7166666666666667
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.80131/1 [==============================] - 0s 40ms/step - loss: 0.8013
+Evaluating y_pred, y  [0.58013576] 1 1
+Evaluating y_pred, y  [0.56625414] 1 0
+Evaluate on valid set:  0.7166666666666667
+Epoch  44
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.09261/1 [==============================] - 0s 39ms/step - loss: 0.0926
+Evaluating y_pred, y  [0.5544785] 1 1
+Evaluating y_pred, y  [0.5157009] 1 0
+Evaluate on valid set:  0.7166666666666667
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.32511/1 [==============================] - 0s 38ms/step - loss: 0.3251
+Evaluating y_pred, y  [0.63062966] 1 1
+Evaluating y_pred, y  [0.57809955] 1 0
+Evaluate on valid set:  0.75
+Epoch  45
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.08161/1 [==============================] - 0s 38ms/step - loss: 0.0816
+Evaluating y_pred, y  [0.51281184] 1 1
+Evaluating y_pred, y  [0.41806567] 0 0
+Evaluate on valid set:  0.7666666666666667
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.22131/1 [==============================] - 0s 46ms/step - loss: 0.2213
+Evaluating y_pred, y  [0.7021436] 1 1
+Evaluating y_pred, y  [0.6115149] 1 0
+Evaluate on valid set:  0.7333333333333333
+Epoch  46
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.06621/1 [==============================] - 0s 38ms/step - loss: 0.0662
+Evaluating y_pred, y  [0.59037757] 1 1
+Evaluating y_pred, y  [0.45025635] 0 0
+Evaluate on valid set:  0.7333333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.93791/1 [==============================] - 0s 38ms/step - loss: 0.9379
+Evaluating y_pred, y  [0.632374] 1 1
+Evaluating y_pred, y  [0.4641819] 0 0
+Evaluate on valid set:  0.7333333333333333
+Epoch  47
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.02361/1 [==============================] - 0s 43ms/step - loss: 0.0236
+Evaluating y_pred, y  [0.52242243] 1 1
+Evaluating y_pred, y  [0.3592287] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.17201/1 [==============================] - 0s 43ms/step - loss: 0.1720
+Evaluating y_pred, y  [0.6060631] 1 1
+Evaluating y_pred, y  [0.46499762] 0 0
+Evaluate on valid set:  0.8
+Epoch  48
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.02341/1 [==============================] - 0s 40ms/step - loss: 0.0234
+Evaluating y_pred, y  [0.432044] 0 1
+Evaluating y_pred, y  [0.7658953] 1 0
+Evaluate on valid set:  0.7333333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.24071/1 [==============================] - 0s 39ms/step - loss: 0.2407
+Evaluating y_pred, y  [0.20380524] 0 1
+Evaluating y_pred, y  [0.5241535] 1 0
+Evaluate on valid set:  0.7
+Epoch  49
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00891/1 [==============================] - 0s 42ms/step - loss: 0.0089
+Evaluating y_pred, y  [0.33981463] 0 1
+Evaluating y_pred, y  [0.7329919] 1 0
+Evaluate on valid set:  0.7333333333333333
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.08801/1 [==============================] - 0s 41ms/step - loss: 0.0880
+Evaluating y_pred, y  [0.7938747] 1 1
+Evaluating y_pred, y  [0.25010404] 0 0
+Evaluate on valid set:  0.7166666666666667
+Epoch  50
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00811/1 [==============================] - 0s 37ms/step - loss: 0.0081
+Evaluating y_pred, y  [0.86942303] 1 1
+Evaluating y_pred, y  [0.4426125] 0 0
+Evaluate on valid set:  0.75
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.25201/1 [==============================] - 0s 37ms/step - loss: 0.2520
+Evaluating y_pred, y  [0.9132707] 1 1
+Evaluating y_pred, y  [0.60464966] 1 0
+Evaluate on valid set:  0.7833333333333333
+Epoch  51
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.02241/1 [==============================] - 0s 39ms/step - loss: 0.0224
+Evaluating y_pred, y  [0.912919] 1 1
+Evaluating y_pred, y  [0.3625804] 0 0
+Evaluate on valid set:  0.8
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.08871/1 [==============================] - 0s 39ms/step - loss: 0.0887
+Evaluating y_pred, y  [0.94644487] 1 1
+Evaluating y_pred, y  [0.39413026] 0 0
+Evaluate on valid set:  0.8166666666666667
+Epoch  52
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00671/1 [==============================] - 0s 39ms/step - loss: 0.0067
+Evaluating y_pred, y  [0.93172693] 1 1
+Evaluating y_pred, y  [0.22973639] 0 0
+Evaluate on valid set:  0.8166666666666667
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.04111/1 [==============================] - 0s 39ms/step - loss: 0.0411
+Evaluating y_pred, y  [0.8897761] 1 1
+Evaluating y_pred, y  [0.17620538] 0 0
+Evaluate on valid set:  0.8166666666666667
+Epoch  53
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00921/1 [==============================] - 0s 40ms/step - loss: 0.0092
+Evaluating y_pred, y  [0.982698] 1 1
+Evaluating y_pred, y  [0.05530008] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.11961/1 [==============================] - 0s 42ms/step - loss: 0.1196
+Evaluating y_pred, y  [0.99558204] 1 1
+Evaluating y_pred, y  [0.27977833] 0 0
+Evaluate on valid set:  0.8166666666666667
+Epoch  54
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.05201/1 [==============================] - 0s 38ms/step - loss: 0.0520
+Evaluating y_pred, y  [0.81855804] 1 1
+Evaluating y_pred, y  [0.20235814] 0 0
+Evaluate on valid set:  0.8333333333333334
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.09551/1 [==============================] - 0s 39ms/step - loss: 0.0955
+Evaluating y_pred, y  [0.98693186] 1 1
+Evaluating y_pred, y  [0.3926212] 0 0
+Evaluate on valid set:  0.8166666666666667
+Epoch  55
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.01661/1 [==============================] - 0s 38ms/step - loss: 0.0166
+Evaluating y_pred, y  [0.98662204] 1 1
+Evaluating y_pred, y  [0.3144754] 0 0
+Evaluate on valid set:  0.8166666666666667
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.63291/1 [==============================] - 0s 37ms/step - loss: 0.6329
+Evaluating y_pred, y  [0.98539543] 1 1
+Evaluating y_pred, y  [0.28380656] 0 0
+Evaluate on valid set:  0.8166666666666667
+Epoch  56
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00761/1 [==============================] - 0s 38ms/step - loss: 0.0076
+Evaluating y_pred, y  [0.9718096] 1 1
+Evaluating y_pred, y  [0.06942461] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.05851/1 [==============================] - 0s 39ms/step - loss: 0.0585
+Evaluating y_pred, y  [0.98494935] 1 1
+Evaluating y_pred, y  [0.26129702] 0 0
+Evaluate on valid set:  0.8
+Epoch  57
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00871/1 [==============================] - 0s 40ms/step - loss: 0.0087
+Evaluating y_pred, y  [0.9772764] 1 1
+Evaluating y_pred, y  [0.14016563] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.07491/1 [==============================] - 0s 43ms/step - loss: 0.0749
+Evaluating y_pred, y  [0.9881272] 1 1
+Evaluating y_pred, y  [0.32342863] 0 0
+Evaluate on valid set:  0.8
+Epoch  58
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.83861/1 [==============================] - 0s 37ms/step - loss: 0.8386
+Evaluating y_pred, y  [0.9720148] 1 1
+Evaluating y_pred, y  [0.09876232] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.76201/1 [==============================] - 0s 37ms/step - loss: 0.7620
+Evaluating y_pred, y  [0.9830035] 1 1
+Evaluating y_pred, y  [0.34583104] 0 0
+Evaluate on valid set:  0.7666666666666667
+Epoch  59
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.03541/1 [==============================] - 0s 39ms/step - loss: 0.0354
+Evaluating y_pred, y  [0.9314497] 1 1
+Evaluating y_pred, y  [0.08261789] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.02831/1 [==============================] - 0s 41ms/step - loss: 0.0283
+Evaluating y_pred, y  [0.97701454] 1 1
+Evaluating y_pred, y  [0.12382554] 0 0
+Evaluate on valid set:  0.85
+Epoch  60
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00691/1 [==============================] - 0s 38ms/step - loss: 0.0069
+Evaluating y_pred, y  [0.96902925] 1 1
+Evaluating y_pred, y  [0.05986726] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.02251/1 [==============================] - 0s 38ms/step - loss: 0.0225
+Evaluating y_pred, y  [0.95223075] 1 1
+Evaluating y_pred, y  [0.07934844] 0 0
+Evaluate on valid set:  0.8333333333333334
+Epoch  61
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.01081/1 [==============================] - 0s 40ms/step - loss: 0.0108
+Evaluating y_pred, y  [0.9163491] 1 1
+Evaluating y_pred, y  [0.04156898] 0 0
+Evaluate on valid set:  0.8333333333333334
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.07731/1 [==============================] - 0s 39ms/step - loss: 0.0773
+Evaluating y_pred, y  [0.98253745] 1 1
+Evaluating y_pred, y  [0.33545244] 0 0
+Evaluate on valid set:  0.7666666666666667
+Epoch  62
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00721/1 [==============================] - 0s 40ms/step - loss: 0.0072
+Evaluating y_pred, y  [0.9507302] 1 1
+Evaluating y_pred, y  [0.1341611] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.04191/1 [==============================] - 0s 41ms/step - loss: 0.0419
+Evaluating y_pred, y  [0.9684872] 1 1
+Evaluating y_pred, y  [0.16995314] 0 0
+Evaluate on valid set:  0.85
+Epoch  63
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00711/1 [==============================] - 0s 39ms/step - loss: 0.0071
+Evaluating y_pred, y  [0.95414543] 1 1
+Evaluating y_pred, y  [0.10058185] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.05051/1 [==============================] - 0s 41ms/step - loss: 0.0505
+Evaluating y_pred, y  [0.98086506] 1 1
+Evaluating y_pred, y  [0.23333718] 0 0
+Evaluate on valid set:  0.7833333333333333
+Epoch  64
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00681/1 [==============================] - 0s 42ms/step - loss: 0.0068
+Evaluating y_pred, y  [0.96229285] 1 1
+Evaluating y_pred, y  [0.09903228] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.03701/1 [==============================] - 0s 38ms/step - loss: 0.0370
+Evaluating y_pred, y  [0.9335621] 1 1
+Evaluating y_pred, y  [0.17494282] 0 0
+Evaluate on valid set:  0.85
+Epoch  65
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00971/1 [==============================] - 0s 41ms/step - loss: 0.0097
+Evaluating y_pred, y  [0.9330535] 1 1
+Evaluating y_pred, y  [0.15321714] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.05231/1 [==============================] - 0s 39ms/step - loss: 0.0523
+Evaluating y_pred, y  [0.96492195] 1 1
+Evaluating y_pred, y  [0.28396657] 0 0
+Evaluate on valid set:  0.7833333333333333
+Epoch  66
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.03071/1 [==============================] - 0s 38ms/step - loss: 0.0307
+Evaluating y_pred, y  [0.89867336] 1 1
+Evaluating y_pred, y  [0.0698644] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.02471/1 [==============================] - 0s 41ms/step - loss: 0.0247
+Evaluating y_pred, y  [0.90522754] 1 1
+Evaluating y_pred, y  [0.11727092] 0 0
+Evaluate on valid set:  0.85
+Epoch  67
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00731/1 [==============================] - 0s 38ms/step - loss: 0.0073
+Evaluating y_pred, y  [0.92507625] 1 1
+Evaluating y_pred, y  [0.09830213] 0 0
+Evaluate on valid set:  0.85
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.08011/1 [==============================] - 0s 62ms/step - loss: 0.0801
+Evaluating y_pred, y  [0.97432816] 1 1
+Evaluating y_pred, y  [0.41528568] 0 0
+Evaluate on valid set:  0.7833333333333333
+Epoch  68
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00701/1 [==============================] - 0s 43ms/step - loss: 0.0070
+Evaluating y_pred, y  [0.9356035] 1 1
+Evaluating y_pred, y  [0.14424811] 0 0
+Evaluate on valid set:  0.8333333333333334
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.02701/1 [==============================] - 0s 38ms/step - loss: 0.0270
+Evaluating y_pred, y  [0.94311756] 1 1
+Evaluating y_pred, y  [0.14114153] 0 0
+Evaluate on valid set:  0.8333333333333334
+Epoch  69
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.00691/1 [==============================] - 0s 43ms/step - loss: 0.0069
+Evaluating y_pred, y  [0.9535026] 1 1
+Evaluating y_pred, y  [0.11855617] 0 0
+Evaluate on valid set:  0.8333333333333334
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.27741/1 [==============================] - 0s 38ms/step - loss: 0.2774
+Evaluating y_pred, y  [0.9996753] 1 1
+Evaluating y_pred, y  [0.08556022] 0 0
+Evaluate on valid set:  0.8166666666666667

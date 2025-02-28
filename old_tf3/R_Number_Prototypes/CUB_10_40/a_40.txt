@@ -1,0 +1,22 @@
+Unique Sentences and Their Occurrences:
+'this bird has wings that are grey and has a long black bill': 17 times
+'this bird has wings that are black and has a red and yellow blotch': 1 times
+'this bird has wings that are brown and has a long black bill': 4 times
+'this is a large bird with a mostly grey bird with a yellow beak and black and white wings': 5 times
+'this bird has wings that are black and has a long black bill': 1 times
+'this bird has a white body and black wings, this bird's bill is long and slightly curved downward': 1 times
+'this bird has wings that are black and has an orange bill': 1 times
+'this bird has wings that are black and white and has a yellow bill': 1 times
+'this bird has a black bill and broad, grey wings and a grey body': 1 times
+'this black and white bird has a white throat, small beak, speckled belly, and white eyering': 2 times
+'this bird is black and orange in color, with a black beak': 1 times
+'this bird has wings that are brown and has a black bill': 1 times
+'this bird has a white belly with a black back and face': 1 times
+'this bird is brown with black on its wings and has a long, pointy beak': 1 times
+'this bird has wings that are black and white with a short orange beak': 1 times
+'this small bird has a black & blue colored body, and a black bill': 1 times
+
+Summary:
+Total Sentences: 40
+Unique Sentences: 16
+Duplicated Sentences: 24

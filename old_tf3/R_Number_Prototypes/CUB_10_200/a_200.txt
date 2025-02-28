@@ -1,0 +1,33 @@
+Unique Sentences and Their Occurrences:
+'this bird is black in color, and has a bright orange beak': 4 times
+'this black bird has white eyes and black plumage on top of a bright orange shortened beak': 87 times
+'this bird has black plumage, with a large orange beak and white stripes on its head': 10 times
+'this is a black and white bird with a large orange beak': 3 times
+'this black and gray bird has a very short orange beak': 6 times
+'this bird has wings that are black and white with a short orange beak': 4 times
+'this is a black bird with a white eye and a large orange beak': 8 times
+'this bird is brown with some white and has a long, pointy beak': 5 times
+'this bird is all black with an orange beak and a bit of white between the head and beak': 23 times
+'this bird has a short orange bill and a large white eye with a white and brown mottled throat': 16 times
+'this bird is black, white, and brown in color with a stubby beak and black eye rings': 2 times
+'this is a brown and black bird with a yellow eye and an orange beak': 2 times
+'this black colored bird has a bright orange beak and white eyes': 2 times
+'this bird is black and gray in color, and has a bright orange beak': 9 times
+'this bird is white and black in color, with a stubby orange and black beak': 1 times
+'this bird has a short orange bill, a black head, and a black and white mottled body': 1 times
+'this bird has wings that are brown and white and has a long bill': 2 times
+'this bird is black and gray in color, with a large curved beak': 2 times
+'this bird is black with white and has a long, pointy beak': 2 times
+'this bird is black, white, and gray in color, with a orange and black beak': 1 times
+'this bird is gray and black in color, with a large black beak': 1 times
+'this bird has an all black body with a large orange beak and a white eye': 4 times
+'this bird has a white body and head, brown wings, and a long slightly curved orange beak': 1 times
+'the bird is black with orange and yellow wingbars and a thin black beak': 1 times
+'this black bird has sparse plumage and a thick brown beak': 1 times
+'this bird is black with white on its chest and has a very short beak': 1 times
+'this bird is white with black on its head and has a very short beak': 1 times
+
+Summary:
+Total Sentences: 200
+Unique Sentences: 27
+Duplicated Sentences: 173

@@ -1,0 +1,35 @@
+Unique Sentences and Their Occurrences:
+'this bird has black plumage, with a large head and a large black, curved beak': 6 times
+'this is a black bird with long wings and a black beak': 1 times
+'this bird has black wings and a solid black head': 2 times
+'this is a large grey bird with a large downward pointing beak': 1 times
+'this is a large grey bird with a black wing and head and a long and pointy black beak': 1 times
+'this is a grey bird with large feet and a large black beak': 1 times
+'this bird has a blunt orange beak with mostly black above the neck, the belly is solid white': 1 times
+'this black and white bird has a white throat, small beak, speckled belly, and white eyering': 1 times
+'this is a brown bird with a large pointed black beak': 3 times
+'this bird has wings that are black with a long orange beak': 1 times
+'this small bird has a black & blue colored body, and a black bill': 1 times
+'this is a black bird with a long tail feather and a large black beak': 1 times
+'this bird has a black crown with black belly and black sides': 1 times
+'a large bird with a white belly, black and white wings with a long beak': 1 times
+'this bird has very long black wings, with a long black bill': 2 times
+'this is a black bird with a large downward pointing black beak': 1 times
+'this bird has a large beak and has all black feathers': 1 times
+'this bird is white and black in color, with a large white beak': 1 times
+'this bird has a black head and a gray nape, with a large beak': 2 times
+'a large dark brown gray bird with a black beak': 1 times
+'this bird has a black bill, a black breast,and a black wing': 1 times
+'this bird has long black and white wings, with a very long bill': 1 times
+'this bird has large black wings and a white underbelly as well as a medium sized beak': 2 times
+'this is a black bird with a long black tail wing and a pointy beak': 1 times
+'this bird has a black crown, black primaries, and a white belly': 1 times
+'this is a grey bird with a black head and a large black beak': 1 times
+'this bird has a black head, a long black bill, and a large wingspan': 1 times
+'the bird has a wide wing span, with a grayish body feather with a long beak': 1 times
+'this bird has a black crown with a short orange beak and black throat': 1 times
+
+Summary:
+Total Sentences: 40
+Unique Sentences: 29
+Duplicated Sentences: 11

@@ -1,0 +1,27 @@
+Unique Sentences and Their Occurrences:
+'this black and white bird has a white throat, small beak, speckled belly, and white eyering': 34 times
+'this bird has a gray and white belly and a small orange beak': 38 times
+'this is a grey bird with a black head and a large black beak': 1 times
+'a large gray and white bird with a long neck, a short tail and a wide beak with a gray tip': 1 times
+'this bird has a white chest, black wings and small curved orange beak': 5 times
+'this bird is grey with white and has a long, pointy beak': 1 times
+'the bird had a white and grey speckled chest with a short orange beak': 3 times
+'this bird is black with a white chest and has a very short beak': 2 times
+'the bird has a thick brown neck with a grey beak and a white head': 1 times
+'this is a grey bird with large feet and a large black beak': 2 times
+'this is a dark grey bird with a long black beak and white feet': 1 times
+'a large bird with a long curved downward beak, with a gray and white body and a white face': 1 times
+'a bird with a large beak, grey head with a white belly and dark grey wings': 1 times
+'this bird is black with a red beak and has a very short beak': 2 times
+'this bird has a orange beak, black throat, and a black and white belly': 1 times
+'a large bird with a white belly, black and white wings with a long beak': 1 times
+'this bird is grey with black and has a very short beak': 1 times
+'this bird has a white breast, a black head, a short red beak, and webbed feet': 1 times
+'bird has a short wide orange beak with white eyes, and a plume of feathers arching over the bill': 1 times
+'the bird has a grey body and a white and grey speckled chest along with an orange beak': 1 times
+'this bird is black with grey on its chest and has a very short beak': 1 times
+
+Summary:
+Total Sentences: 100
+Unique Sentences: 21
+Duplicated Sentences: 79

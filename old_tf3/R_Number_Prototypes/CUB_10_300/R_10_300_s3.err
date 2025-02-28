@@ -1,0 +1,28 @@
+2025-02-18 06:26:54.669877: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2025-02-18 06:26:55.542272: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1510] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 78930 MB memory:  -> device: 0, name: NVIDIA A100 80GB PCIe, pci bus id: 0000:c1:00.0, compute capability: 8.0
+2025-02-18 06:26:58.837924: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:185] None of the MLIR Optimization Passes are enabled (registered 2)
+2025-02-18 06:27:02.518999: I tensorflow/stream_executor/cuda/cuda_blas.cc:1760] TensorFloat-32 will be used for the matrix multiplication. This will only be logged once.
+2025-02-18 06:27:15.798731: I tensorflow/stream_executor/cuda/cuda_dnn.cc:369] Loaded cuDNN version 8100
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 65 is empty! self.labels_[self.medoid_indices_[65]] may not be labeled with its corresponding cluster (65).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 146 is empty! self.labels_[self.medoid_indices_[146]] may not be labeled with its corresponding cluster (146).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 163 is empty! self.labels_[self.medoid_indices_[163]] may not be labeled with its corresponding cluster (163).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 172 is empty! self.labels_[self.medoid_indices_[172]] may not be labeled with its corresponding cluster (172).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 214 is empty! self.labels_[self.medoid_indices_[214]] may not be labeled with its corresponding cluster (214).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 216 is empty! self.labels_[self.medoid_indices_[216]] may not be labeled with its corresponding cluster (216).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 222 is empty! self.labels_[self.medoid_indices_[222]] may not be labeled with its corresponding cluster (222).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 228 is empty! self.labels_[self.medoid_indices_[228]] may not be labeled with its corresponding cluster (228).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 255 is empty! self.labels_[self.medoid_indices_[255]] may not be labeled with its corresponding cluster (255).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 287 is empty! self.labels_[self.medoid_indices_[287]] may not be labeled with its corresponding cluster (287).
+  "its corresponding cluster ({k}).".format(k=k)
+/home/limei/miniconda3/envs/old-tf/lib/python3.6/site-packages/sklearn_extra/cluster/_k_medoids.py:333: UserWarning: Cluster 297 is empty! self.labels_[self.medoid_indices_[297]] may not be labeled with its corresponding cluster (297).
+  "its corresponding cluster ({k}).".format(k=k)

@@ -1,0 +1,16 @@
+Unique Sentences and Their Occurrences:
+'this is a black bird with a white eye and a large orange beak': 1 times
+'this bird is black with white and has a long, pointy beak': 1 times
+'a small bird with a black and white coloring and short beak': 1 times
+'this bird has a black crown as well as a small black bill': 1 times
+'this is a large grey bird with a large grey beak': 1 times
+'a medium size bird with a short, pointed, orange beak': 1 times
+'this bird has wings that are black and has a thick bill': 1 times
+'this bird has a white body and head with black feathers and a long pointy beak': 1 times
+'a large bird with a white belly, black and white wings with a long beak': 1 times
+'the bird has a white eyering and a small peach bill': 1 times
+
+Summary:
+Total Sentences: 10
+Unique Sentences: 10
+Duplicated Sentences: 0

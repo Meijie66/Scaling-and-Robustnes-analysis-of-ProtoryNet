@@ -1,0 +1,38 @@
+Unique Sentences and Their Occurrences:
+'a black bird with a long tail and a large gray beak': 6 times
+'this bird is black with a red beak and has a very short beak': 115 times
+'this bird has black plumage, with a large head and a large black, curved beak': 4 times
+'this bird has very long black wings, with a long black bill': 24 times
+'this bird is nearly all black with a short pointy bill': 1 times
+'this bird has a mostly dark grey body, long neck, and short pointy bill': 10 times
+'this bird has a short, bright orange bill with a long black neck and a white breast and belly': 1 times
+'this bird is black with big wings and has a long, pointy beak': 6 times
+'this bird has wings that are grey and has a long black bill': 1 times
+'this bird has long black and white wings, with a very long bill': 1 times
+'this bird is black with long tail feathers and has a very short beak': 3 times
+'this is a large bird with dark grey wings, a white body and a large bill': 1 times
+'this is a black bird with a long black tail feather and a large beak': 2 times
+'this large bird has a white body, black wing and tail, and long hooked bill': 1 times
+'this is a large bird with a mostly grey bird with a yellow beak and black and white wings': 1 times
+'this is a dark grey bird with a long black beak and white feet': 3 times
+'a small black bird with light yellow eyes and a black beak': 1 times
+'this bird is grey with black and has a very short beak': 1 times
+'this bird is brown with black feet and has a very short beak': 1 times
+'this bird is brown with short wings and has a long, pointy beak': 2 times
+'this large bird has a white body, grey wing, and long hooked yellow bill': 1 times
+'this bird is black with a big wingspan and has a very short beak': 1 times
+'this bird is grey with long wings and has a long, pointy beak': 1 times
+'this bird is grey with black and has a long, pointy beak': 2 times
+'a dark grey bird with white eyes and a very short red beak': 1 times
+'this is a black bird with a long black tail wing and a pointy beak': 2 times
+'this bird has large feet with a shorter beak and a white and black body': 1 times
+'a black bird with a large round beak': 1 times
+'this is a grey bird with black feet and a large beak': 2 times
+'this is a dark brown bird, with short wings, and a yellow bill': 1 times
+'a large dark brown gray bird with a black beak': 1 times
+'this bird has wings that are black and has a long black bill': 1 times
+
+Summary:
+Total Sentences: 200
+Unique Sentences: 32
+Duplicated Sentences: 168

@@ -1,0 +1,52 @@
+Unique Sentences and Their Occurrences:
+'a medium sized bird with a bill that curves downward, with a brown body': 4 times
+'a bird with an orange thick bill and a black coat with white at its throat': 2 times
+'this bird has a medium black bill, black tarsuses and feet, and a dark blue crown': 2 times
+'a bird with an orange beak, black head and neck with black wings': 3 times
+'the bird has a black body with a white chest and grey webbed feet': 1 times
+'a bird with a large triangular bill, black covering its body except for the red on its coverts': 4 times
+'a white and black bird with black eyes sitting on the ground': 1 times
+'a bird with a very large downward hooked triangular bill and ruffled black covering its body': 5 times
+'medium to large grey and black bird with long black beak': 1 times
+'the bird has a puffy black belly and black back': 2 times
+'this bird is all black, with black webbed feet, a black plume, and orange beak': 5 times
+'this large bird has a grey body, black crown, and long hooked bill': 3 times
+'the bird spreads its wings while gliding over the surface of the water': 1 times
+'a bird with an all black body with bright red coverts, and black tarsus': 1 times
+'this bird is black with red and has a long, pointy beak': 2 times
+'this bird is grey with long wings and has a long, pointy beak': 1 times
+'a medium sized bird that has a shiny coat with a medium sized bill': 1 times
+'the bird entire body is black and eyes are yellow': 1 times
+'this bird has black eye with brown color body and black feet': 1 times
+'a medium bird with with black crown and black throat with grey breast and side and orange bill': 1 times
+'a large bird with a black head and rump and grey body': 2 times
+'the birds has a black head with a grey throat, nape, back and side': 3 times
+'this large bird has a white dorsal with a black belly, while flying above the water': 1 times
+'the bird has black crown, throat and rectrices, remaining part of the body are covered in gray': 2 times
+'a bird with a large, downward curved orange bill, white breast and black wings': 2 times
+'medium sized all black bird with spots of dark blue and medium sized black bill': 1 times
+'a close up of a bird face with a large downward curved yellow beak, the head and chest are white': 3 times
+'the wholly black bird features a strong, thick beak and beady black eyes': 1 times
+'this bird has a black body with an orange beak': 1 times
+'a bird with a red vovert, large triangular bill and all black plumage': 1 times
+'this bird has mainly black feathers, with an orange and yellow splash on its shoulders': 3 times
+'this bird is completely black with the exception of red and yellow on its coverts': 1 times
+'a medium sized bird with a grey belly, and a bill that curves downwards': 1 times
+'the belly and chest are primarily white with brown speckles that stop at the a white throat': 1 times
+'the bird has a black body and nape, as well as black tarsus and feet': 2 times
+'a large bird with a white body and black wings': 2 times
+'a medium sized bird with a with a long bill,and black wings': 2 times
+'a bird that looks like it is partly feathers and partly fur and is grey witha large beak': 1 times
+'this larger bird has a white breast with black spots and a red beak': 1 times
+'a brown bird with a long black beak and brown breast': 1 times
+'black head and body, red eyes. wide tail': 1 times
+'this bird is black with grey and has a long, pointy beak': 1 times
+'a black bird with a round body, yellow eyes, black bill, and black tarsus': 1 times
+'this is a black bird with a prominent feather on its head and a long neck': 1 times
+'this is a grey bird with a white breast and eye and a black beak': 1 times
+'a large bird with a grey belly, and large black wings': 1 times
+
+Summary:
+Total Sentences: 80
+Unique Sentences: 46
+Duplicated Sentences: 34

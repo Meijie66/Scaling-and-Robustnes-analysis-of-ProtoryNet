@@ -1,0 +1,19 @@
+Unique Sentences and Their Occurrences:
+'this bird is white and black in color, and has a orange beak': 189 times
+'this bird has wings that are black with an orange beak': 55 times
+'this bird has wings that are black and white with a short orange beak': 195 times
+'this bird is black and orange in color, with a black beak': 42 times
+'this bird has wings that are black and has a orange and yellow spot': 3 times
+'this bird is black with white on its stomach and a short beak': 3 times
+'this bird has wings that are black and has a white belly': 3 times
+'this bird is black in color with a black beak, and black eye rings': 2 times
+'this bird is all black and has a long, pointy beak': 2 times
+'this bird is black in color, and has a bright orange beak': 2 times
+'this bird has wings that are black and has a orange bill': 2 times
+'this bird has a curved orange beak and a black body': 1 times
+'this bird has wings that are black and has a short bill': 1 times
+
+Summary:
+Total Sentences: 500
+Unique Sentences: 13
+Duplicated Sentences: 487
