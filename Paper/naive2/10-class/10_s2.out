@@ -1,0 +1,54 @@
+shuffle:                                                  image  ...                               file_name
+0    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...         Rhinoceros_Auklet_0017_2155.jpg
+1    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Red_Winged_Blackbird_0061_4196.jpg
+2    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...            Least_Auklet_0057_795126.jpg
+3    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...         Groove_Billed_Ani_0090_1567.jpg
+4    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...            Crested_Auklet_0029_1824.jpg
+..                                                 ...  ...                                     ...
+295  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Brewer_Blackbird_0111_2613.jpg
+296  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0006_702.jpg
+297  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Red_Winged_Blackbird_0028_4709.jpg
+298  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0019_796104.jpg
+299  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Brewer_Blackbird_0103_2273.jpg
+
+[300 rows x 4 columns]
+shuffle:                                                  image  ...                               file_name
+0    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0060_777.jpg
+1    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...       Rhinoceros_Auklet_0003_797535.jpg
+2    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Red_Winged_Blackbird_0013_5762.jpg
+3    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0046_18.jpg
+4    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Red_Winged_Blackbird_0045_4526.jpg
+..                                                 ...  ...                                     ...
+238  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0005_796090.jpg
+239  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0004_930.jpg
+240  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0065_796068.jpg
+241  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0008_796083.jpg
+242  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0002_55.jpg
+
+[243 rows x 4 columns]
+(543, 1373)
+(1373,)
+(1373,)
+(1373,)
+[7, 9, 5, 3, 4, 0, 5, 3, 9, 9]
+len x_train: (300, 1373)
+type y_train[0]: <class 'int'>
+Accuracy: 0.83
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.73      0.53      0.62        30
+           1       0.74      0.93      0.82        30
+           2       0.62      0.64      0.63        28
+           3       0.94      0.97      0.95        30
+           4       1.00      0.71      0.83        14
+           5       0.85      1.00      0.92        11
+           6       0.77      1.00      0.87        23
+           7       0.93      0.72      0.81        18
+           8       0.93      0.86      0.89        29
+           9       1.00      0.97      0.98        30
+
+    accuracy                           0.83       243
+   macro avg       0.85      0.83      0.83       243
+weighted avg       0.84      0.83      0.83       243
+

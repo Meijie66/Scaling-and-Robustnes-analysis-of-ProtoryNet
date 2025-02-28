@@ -1,0 +1,49 @@
+shuffle:                                                  image  ...                        file_name
+0    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...   Laysan_Albatross_0094_1013.jpg
+1    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...    Laysan_Albatross_0006_702.jpg
+2    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...    Laysan_Albatross_0076_671.jpg
+3    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...    Sooty_Albatross_0055_1160.jpg
+4    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Sooty_Albatross_0017_796349.jpg
+..                                                 ...  ...                              ...
+145  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...   Crested_Auklet_0013_794914.jpg
+146  <PIL.Image.Image image mode=RGB size=334x500 a...  ...   Crested_Auklet_0010_794907.jpg
+147  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Sooty_Albatross_0021_796339.jpg
+148  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...    Sooty_Albatross_0031_1066.jpg
+149  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...   Crested_Auklet_0003_794962.jpg
+
+[150 rows x 4 columns]
+shuffle:                                                  image  ...                               file_name
+0    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Crested_Auklet_0036_794905.jpg
+1    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...         Groove_Billed_Ani_0010_1704.jpg
+2    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...         Sooty_Albatross_0029_796357.jpg
+3    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0042_796071.jpg
+4    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...         Groove_Billed_Ani_0094_1540.jpg
+..                                                 ...  ...                                     ...
+127  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...         Sooty_Albatross_0020_796359.jpg
+128  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Crested_Auklet_0041_794910.jpg
+129  <PIL.Image.Image image mode=RGB size=500x335 a...  ...         Sooty_Albatross_0007_796372.jpg
+130  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Sooty_Albatross_0024_1161.jpg
+131  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Crested_Auklet_0028_794951.jpg
+
+[132 rows x 4 columns]
+(282, 1006)
+(1006,)
+(1006,)
+(1006,)
+[1, 1, 1, 2, 2, 1, 2, 0, 1, 3]
+len x_train: (150, 1006)
+type y_train[0]: <class 'int'>
+Accuracy: 0.80
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.73      0.53      0.62        30
+           1       0.70      0.93      0.80        30
+           2       0.67      0.64      0.65        28
+           3       1.00      1.00      1.00        30
+           4       1.00      0.93      0.96        14
+
+    accuracy                           0.80       132
+   macro avg       0.82      0.81      0.81       132
+weighted avg       0.80      0.80      0.79       132
+

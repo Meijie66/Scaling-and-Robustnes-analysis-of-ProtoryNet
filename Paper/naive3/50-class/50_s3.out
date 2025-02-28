@@ -1,0 +1,94 @@
+shuffle:                                                   image  ...                                  file_name
+0     <PIL.Image.Image image mode=RGB size=334x500 a...  ...             Crested_Auklet_0010_794907.jpg
+1     <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...            Least_Flycatcher_0034_30151.jpg
+2     <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...              Laysan_Albatross_0065_809.jpg
+3     <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...             Laysan_Albatross_0003_1033.jpg
+4     <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...            Northern_Flicker_0057_28606.jpg
+...                                                 ...  ...                                        ...
+1495  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...             Northern_Fulmar_0083_43618.jpg
+1496  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...        Yellow_Breasted_Chat_0062_21673.jpg
+1497  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...             Crested_Auklet_0003_794962.jpg
+1498  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Yellow_Bellied_Flycatcher_0006_795473.jpg
+1499  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...            Brandt_Cormorant_0070_23137.jpg
+
+[1500 rows x 4 columns]
+shuffle:                                                   image  ...                                file_name
+0     <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...                  Bobolink_0035_11117.jpg
+1     <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...   Gray_Crowned_Rosy_Finch_0040_26985.jpg
+2     <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Gray_Crowned_Rosy_Finch_0053_797276.jpg
+3     <PIL.Image.Image image mode=RGB size=500x333 a...  ...             American_Crow_0048_25062.jpg
+4     <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Painted_Bunting_0013_15294.jpg
+...                                                 ...  ...                                      ...
+1375  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...       Boat_Tailed_Grackle_0075_33839.jpg
+1376  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Brandt_Cormorant_0036_22937.jpg
+1377  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Crested_Auklet_0028_794951.jpg
+1378  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...                   Gadwall_0082_31301.jpg
+1379  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Bronzed_Cowbird_0091_796212.jpg
+
+[1380 rows x 4 columns]
+(2880, 2965)
+(2965,)
+(2965,)
+(2965,)
+[4, 38, 1, 1, 35, 18, 44, 19, 20, 10]
+len x_train: (1500, 2965)
+type y_train[0]: <class 'int'>
+Accuracy: 0.76
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.75      0.50      0.60        30
+           1       0.57      0.83      0.68        30
+           2       0.55      0.57      0.56        28
+           3       0.89      0.83      0.86        30
+           4       0.85      0.79      0.81        14
+           5       0.91      0.91      0.91        11
+           6       0.79      1.00      0.88        23
+           7       0.92      0.67      0.77        18
+           8       0.62      0.62      0.62        29
+           9       0.94      0.97      0.95        30
+          10       0.68      0.50      0.58        30
+          11       0.96      0.92      0.94        26
+          12       0.93      0.87      0.90        30
+          13       0.85      0.93      0.89        30
+          14       0.90      0.93      0.91        28
+          15       1.00      0.89      0.94        28
+          16       1.00      0.81      0.90        27
+          17       0.82      0.93      0.87        15
+          18       0.81      0.86      0.83        29
+          19       0.72      0.90      0.80        29
+          20       0.88      0.93      0.90        30
+          21       0.96      0.92      0.94        26
+          22       0.54      0.48      0.51        29
+          23       0.71      0.91      0.80        22
+          24       0.76      0.43      0.55        30
+          25       1.00      0.93      0.97        30
+          26       0.52      0.37      0.43        30
+          27       0.97      0.97      0.97        29
+          28       0.50      0.73      0.59        30
+          29       0.48      0.40      0.44        30
+          30       0.68      0.70      0.69        30
+          31       0.53      0.83      0.64        23
+          32       0.65      0.52      0.58        29
+          33       0.81      0.72      0.76        29
+          34       0.89      0.80      0.84        30
+          35       0.91      1.00      0.95        30
+          36       0.40      0.62      0.49        29
+          37       0.92      0.73      0.81        30
+          38       0.38      0.38      0.38        29
+          39       0.48      0.53      0.51        30
+          40       0.76      0.93      0.84        30
+          41       0.83      1.00      0.91        30
+          42       0.77      0.34      0.48        29
+          43       0.92      0.73      0.81        30
+          44       0.92      0.73      0.81        30
+          45       0.75      1.00      0.86        30
+          46       0.85      0.97      0.91        30
+          47       0.97      0.97      0.97        30
+          48       0.73      0.53      0.62        30
+          49       0.83      0.90      0.86        21
+
+    accuracy                           0.76      1380
+   macro avg       0.77      0.77      0.76      1380
+weighted avg       0.77      0.76      0.76      1380
+

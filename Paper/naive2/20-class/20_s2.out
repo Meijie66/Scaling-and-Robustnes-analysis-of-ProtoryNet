@@ -1,0 +1,64 @@
+shuffle:                                                  image  ...                           file_name
+0    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Painted_Bunting_0066_15241.jpg
+1    <PIL.Image.Image image mode=RGB size=415x271 a...  ...   Rhinoceros_Auklet_0024_797529.jpg
+2    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...       Lazuli_Bunting_0082_15047.jpg
+3    <PIL.Image.Image image mode=RGB size=337x500 a...  ...      Crested_Auklet_0057_794932.jpg
+4    <PIL.Image.Image image mode=RGB size=500x393 a...  ...             Cardinal_0057_17128.jpg
+..                                                 ...  ...                                 ...
+595  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Brewer_Blackbird_0111_2613.jpg
+596  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...       Laysan_Albatross_0006_702.jpg
+597  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Red_Winged_Blackbird_0028_4709.jpg
+598  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...     Spotted_Catbird_0011_796815.jpg
+599  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Brewer_Blackbird_0103_2273.jpg
+
+[600 rows x 4 columns]
+shuffle:                                                  image  ...                               file_name
+0    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0058_796074.jpg
+1    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Indigo_Bunting_0053_13391.jpg
+2    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...         Groove_Billed_Ani_0059_1480.jpg
+3    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...         Rhinoceros_Auklet_0042_2101.jpg
+4    <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...             Gray_Catbird_0039_21040.jpg
+..                                                 ...  ...                                     ...
+510  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...         Sooty_Albatross_0076_796365.jpg
+511  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Rusty_Blackbird_0075_6717.jpg
+512  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0004_930.jpg
+513  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...   Yellow_Headed_Blackbird_0024_8586.jpg
+514  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Rusty_Blackbird_0057_6935.jpg
+
+[515 rows x 4 columns]
+(1115, 1910)
+(1910,)
+(1910,)
+(1910,)
+[15, 7, 14, 4, 16, 17, 14, 14, 10, 14]
+len x_train: (600, 1910)
+type y_train[0]: <class 'int'>
+Accuracy: 0.87
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.53      0.60        30
+           1       0.72      0.93      0.81        30
+           2       0.61      0.61      0.61        28
+           3       0.90      0.93      0.92        30
+           4       0.85      0.79      0.81        14
+           5       0.71      0.91      0.80        11
+           6       0.79      1.00      0.88        23
+           7       1.00      0.72      0.84        18
+           8       0.75      0.83      0.79        29
+           9       0.97      0.97      0.97        30
+          10       0.95      0.63      0.76        30
+          11       0.96      1.00      0.98        26
+          12       0.96      0.90      0.93        30
+          13       0.97      0.97      0.97        30
+          14       0.93      0.96      0.95        28
+          15       1.00      0.89      0.94        28
+          16       1.00      0.93      0.96        27
+          17       0.88      1.00      0.94        15
+          18       0.84      0.90      0.87        29
+          19       0.94      1.00      0.97        29
+
+    accuracy                           0.87       515
+   macro avg       0.87      0.87      0.86       515
+weighted avg       0.87      0.87      0.87       515
+

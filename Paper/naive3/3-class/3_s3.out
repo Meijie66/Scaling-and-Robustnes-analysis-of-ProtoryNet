@@ -1,0 +1,47 @@
+shuffle:                                                 image  ...                               file_name
+0   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0041_796108.jpg
+1   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0061_563.jpg
+2   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0013_910.jpg
+3   <PIL.Image.Image image mode=RGB size=500x334 a...  ...         Sooty_Albatross_0019_796391.jpg
+4   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Sooty_Albatross_0043_1076.jpg
+..                                                ...  ...                                     ...
+85  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0005_565.jpg
+86  <PIL.Image.Image image mode=RGB size=500x411 a...  ...         Sooty_Albatross_0025_796361.jpg
+87  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...         Sooty_Albatross_0021_796339.jpg
+88  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Sooty_Albatross_0031_1066.jpg
+89  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0050_870.jpg
+
+[90 rows x 4 columns]
+shuffle:                                                 image  ...                               file_name
+0   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0042_796071.jpg
+1   <PIL.Image.Image image mode=RGB size=500x340 a...  ...           Laysan_Albatross_0049_918.jpg
+2   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Sooty_Albatross_0046_1211.jpg
+3   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Sooty_Albatross_0003_1078.jpg
+4   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0086_796062.jpg
+..                                                ...  ...                                     ...
+83  <PIL.Image.Image image mode=RGB size=500x375 a...  ...          Laysan_Albatross_0002_1027.jpg
+84  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...         Sooty_Albatross_0020_796359.jpg
+85  <PIL.Image.Image image mode=RGB size=500x335 a...  ...         Sooty_Albatross_0007_796372.jpg
+86  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Sooty_Albatross_0024_1161.jpg
+87  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0037_699.jpg
+
+[88 rows x 4 columns]
+(178, 717)
+(717,)
+(717,)
+(717,)
+[0, 1, 1, 2, 2, 1, 2, 0, 0, 1]
+len x_train: (90, 717)
+type y_train[0]: <class 'int'>
+Accuracy: 0.73
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.74      0.57      0.64        30
+           1       0.74      0.93      0.82        30
+           2       0.70      0.68      0.69        28
+
+    accuracy                           0.73        88
+   macro avg       0.73      0.73      0.72        88
+weighted avg       0.73      0.73      0.72        88
+

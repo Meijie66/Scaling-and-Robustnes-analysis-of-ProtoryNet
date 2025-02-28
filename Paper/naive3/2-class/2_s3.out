@@ -1,0 +1,144 @@
+shuffle:                                                 image  ...                               file_name
+0   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Laysan_Albatross_0051_1020.jpg
+1   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0055_570.jpg
+2   <PIL.Image.Image image mode=RGB size=500x416 a...  ...  Black_Footed_Albatross_0010_796097.jpg
+3   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0040_472.jpg
+4   <PIL.Image.Image image mode=RGB size=450x500 a...  ...  Black_Footed_Albatross_0077_796114.jpg
+5   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0083_756.jpg
+6   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0039_924.jpg
+7   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0014_89.jpg
+8   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0013_910.jpg
+9   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0071_796113.jpg
+10  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0023_796059.jpg
+11  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...     Black_Footed_Albatross_0067_170.jpg
+12  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0036_796127.jpg
+13  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0044_784.jpg
+14  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0039_796132.jpg
+15  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0063_796141.jpg
+16  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0056_500.jpg
+17  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0079_796122.jpg
+18  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0068_726.jpg
+19  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0071_792.jpg
+20  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0073_927.jpg
+21  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0040_796066.jpg
+22  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0081_800.jpg
+23  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0074_59.jpg
+24  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0061_563.jpg
+25  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0025_571.jpg
+26  <PIL.Image.Image image mode=RGB size=500x385 a...  ...  Black_Footed_Albatross_0068_796135.jpg
+27  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...     Black_Footed_Albatross_0031_100.jpg
+28  <PIL.Image.Image image mode=RGB size=500x391 a...  ...  Black_Footed_Albatross_0051_796103.jpg
+29  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0080_796096.jpg
+30  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0069_796139.jpg
+31  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Laysan_Albatross_0094_1013.jpg
+32  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0047_619.jpg
+33  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0057_796106.jpg
+34  <PIL.Image.Image image mode=RGB size=500x383 a...  ...  Black_Footed_Albatross_0032_796115.jpg
+35  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0029_482.jpg
+36  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...     Black_Footed_Albatross_0081_426.jpg
+37  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0007_796138.jpg
+38  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0041_796108.jpg
+39  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0089_796069.jpg
+40  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0047_796064.jpg
+41  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0018_492.jpg
+42  <PIL.Image.Image image mode=RGB size=500x332 a...  ...     Black_Footed_Albatross_0038_212.jpg
+43  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0085_564.jpg
+44  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0092_834.jpg
+45  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0076_671.jpg
+46  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0060_796076.jpg
+47  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0099_869.jpg
+48  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Laysan_Albatross_0003_1033.jpg
+49  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0056_796078.jpg
+50  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0006_702.jpg
+51  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0100_735.jpg
+52  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0088_883.jpg
+53  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0005_565.jpg
+54  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0017_796098.jpg
+55  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0009_34.jpg
+56  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0019_796104.jpg
+57  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0096_673.jpg
+58  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0065_809.jpg
+59  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0050_870.jpg
+
+[60 rows x 4 columns]
+shuffle:                                                 image  ...                               file_name
+0   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0042_801.jpg
+1   <PIL.Image.Image image mode=RGB size=500x340 a...  ...           Laysan_Albatross_0049_918.jpg
+2   <PIL.Image.Image image mode=RGB size=500x375 a...  ...  Black_Footed_Albatross_0003_796136.jpg
+3   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0033_658.jpg
+4   <PIL.Image.Image image mode=RGB size=500x375 a...  ...  Black_Footed_Albatross_0082_796121.jpg
+5   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0080_821.jpg
+6   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0028_643.jpg
+7   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0005_796090.jpg
+8   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0012_696.jpg
+9   <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...     Black_Footed_Albatross_0076_417.jpg
+10  <PIL.Image.Image image mode=RGB size=500x357 a...  ...  Black_Footed_Albatross_0016_796067.jpg
+11  <PIL.Image.Image image mode=RGB size=240x187 a...  ...  Black_Footed_Albatross_0061_796082.jpg
+12  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0026_796095.jpg
+13  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0034_628.jpg
+14  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0035_796140.jpg
+15  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0058_796074.jpg
+16  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0053_543.jpg
+17  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0085_92.jpg
+18  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0060_777.jpg
+19  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0064_674.jpg
+20  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0070_788.jpg
+21  <PIL.Image.Image image mode=RGB size=448x272 a...  ...  Black_Footed_Albatross_0037_796120.jpg
+22  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0079_506.jpg
+23  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0078_796126.jpg
+24  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0058_637.jpg
+25  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0021_737.jpg
+26  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0064_796101.jpg
+27  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0024_796089.jpg
+28  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0046_18.jpg
+29  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0086_796062.jpg
+30  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0065_796068.jpg
+31  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0098_621.jpg
+32  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0035_876.jpg
+33  <PIL.Image.Image image mode=RGB size=500x275 a...  ...  Black_Footed_Albatross_0050_796125.jpg
+34  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0025_796057.jpg
+35  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...          Laysan_Albatross_0023_1059.jpg
+36  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0088_796133.jpg
+37  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0001_796111.jpg
+38  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0042_796071.jpg
+39  <PIL.Image.Image image mode=RGB size=216x136 a...  ...  Black_Footed_Albatross_0090_796077.jpg
+40  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0045_796129.jpg
+41  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0017_614.jpg
+42  <PIL.Image.Image image mode=RGB size=500x375 a...  ...  Black_Footed_Albatross_0033_796086.jpg
+43  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0082_524.jpg
+44  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0093_725.jpg
+45  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0075_668.jpg
+46  <PIL.Image.Image image mode=RGB size=455x450 a...  ...  Black_Footed_Albatross_0053_796109.jpg
+47  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0103_504.jpg
+48  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0001_545.jpg
+49  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0049_796063.jpg
+50  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0004_930.jpg
+51  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0104_630.jpg
+52  <PIL.Image.Image image mode=RGB size=500x385 a...  ...           Laysan_Albatross_0091_602.jpg
+53  <PIL.Image.Image image mode=RGB size=500x375 a...  ...          Laysan_Albatross_0002_1027.jpg
+54  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0006_796065.jpg
+55  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...      Black_Footed_Albatross_0002_55.jpg
+56  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...  Black_Footed_Albatross_0008_796083.jpg
+57  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0102_611.jpg
+58  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0059_488.jpg
+59  <PIL.JpegImagePlugin.JpegImageFile image mode=...  ...           Laysan_Albatross_0037_699.jpg
+
+[60 rows x 4 columns]
+(120, 586)
+(586,)
+(586,)
+(586,)
+[1, 1, 0, 1, 0, 1, 1, 0, 1, 0]
+len x_train: (60, 586)
+type y_train[0]: <class 'int'>
+Accuracy: 0.67
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.66      0.70      0.68        30
+           1       0.68      0.63      0.66        30
+
+    accuracy                           0.67        60
+   macro avg       0.67      0.67      0.67        60
+weighted avg       0.67      0.67      0.67        60
+
