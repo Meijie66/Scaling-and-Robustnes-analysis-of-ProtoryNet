@@ -1,0 +1,12 @@
+Unique Sentences and Their Occurrences:
+'this bird is black with white and has a long, pointy beak': 14 times
+'this is a black bird with a white belly and a large orange beak': 1 times
+'this bird is black with white on its stomach and a short beak': 1 times
+'this bird is black with white and has a very short beak': 1 times
+'this bird is black with white on its chest and has a very short beak': 2 times
+'this bird is brown with some white and has a long, pointy beak': 1 times
+
+Summary:
+Total Sentences: 20
+Unique Sentences: 6
+Duplicated Sentences: 14

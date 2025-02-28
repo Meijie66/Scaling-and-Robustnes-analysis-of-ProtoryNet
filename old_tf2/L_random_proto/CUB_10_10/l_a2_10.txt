@@ -1,0 +1,16 @@
+Unique Sentences and Their Occurrences:
+'a medium sized bird with a bill that curves downwards, and a white belly': 1 times
+'bird has brown body feathers, brown breast feathers, and brown beak': 1 times
+'this��bird��has��a��dark��brown��body,��black��wings,��and��a��short,��pointed��bill': 1 times
+'a large grey bird, with a white head and belly, and a large curved bill': 1 times
+'this bird has wings that are black and has a thickbill': 1 times
+'a strange looking black bird,the bird eyes are white': 1 times
+'this bird has a black crown as well as a black bill': 1 times
+'a medium sized grey bird with a bright orange bill': 1 times
+'this grey bird has very long wings': 1 times
+'this bird is grey and has a very large wing span with a very long beak': 1 times
+
+Summary:
+Total Sentences: 10
+Unique Sentences: 10
+Duplicated Sentences: 0

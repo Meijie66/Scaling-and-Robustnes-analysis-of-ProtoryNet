@@ -1,0 +1,23 @@
+Unique Sentences and Their Occurrences:
+'this is a black bird with a white spot on the head and a white breast with an orange beak': 75 times
+'this is a bird with a white belly, black back, white eye and an orange beak': 13 times
+'a small bird with an orange bill, white belly and breast, and black wings and back': 49 times
+'this is a bird with a white belly, black wings and head and an orange beak': 33 times
+'this is a grey bird with large feet, a white eye and an orange beak': 1 times
+'this bird has a grey body with black wings speckled with white dots, and an orange bill': 9 times
+'this bird has a short, bright orange bill with a long black neck and a white breast and belly': 4 times
+'a black bird with an orange beak and a white stripe coming from its white eyes': 4 times
+'a bird with a large beak, grey head with a white belly and dark grey wings': 3 times
+'bird has a short wide orange beak with white eyes, and a plume of feathers arching over the bill': 2 times
+'this is a grey bird with a white breast and eye and a black beak': 1 times
+'this bird has a white belly and grey wings and crown with an orange bill': 1 times
+'this bird has a dark brown and white belly with grey feet and dark brown crown': 1 times
+'this is a grey bird with a white eye and a large orange beak': 1 times
+'this bird has a white breast and belly with grey wings and a grey crown': 1 times
+'this bird has black plumage, with a large orange beak and white stripes on its head': 1 times
+'a black bird with a short orange beak, a white eye, and a black feather on the top of its head': 1 times
+
+Summary:
+Total Sentences: 200
+Unique Sentences: 17
+Duplicated Sentences: 183

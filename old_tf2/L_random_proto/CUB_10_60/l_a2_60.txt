@@ -1,0 +1,33 @@
+Unique Sentences and Their Occurrences:
+'this bird is white with black on its head and has a very short beak': 1 times
+'this bird has a black head and a gray nape, with a large beak': 16 times
+'this is a black bird with a large black beak': 2 times
+'this is a black and blue bird with a white eye and a pointed beak': 2 times
+'this bird has a black head and back, with gray wings, tail, and beak': 4 times
+'this bird is black with green and has a long, pointy beak': 2 times
+'this bird has a orange and black bill and a white breast': 2 times
+'this bird has a short, rounded bill, and a dark brown head': 4 times
+'this bird has a white belly, black head and back with a short orange bill': 2 times
+'this bird is black and gray in color, with a large curved beak': 4 times
+'this bird is completely black with a bright yellow eye': 1 times
+'this is a black bird with a white eye and a large beak': 2 times
+'this is a black bird with a gray bill with a orange and white on the wingbar': 2 times
+'this bird has a pointed black and white bill, with a black breast': 1 times
+'this bird has a white head and a big orange bill': 1 times
+'this bird is white and brown in color with a curved orange beak and white eye ring': 1 times
+'this grey bird has white on his wingtips when in flight and a darker gray curved beak': 1 times
+'this bird has black plumage, with a large head and a large black, curved beak': 1 times
+'this bird has a long black bill and a brown body': 1 times
+'this black bird has a large set of eyes and a long, curving beak': 2 times
+'this bird is black with white on its chest and head and has a long, pointy beak': 2 times
+'this bird is black with green eyes and has a long, pointy beak': 1 times
+'this black colored bird has a bright orange beak and white eyes': 1 times
+'this bird is grey with white and has a long, pointy beak': 1 times
+'duck with brown body brown head': 1 times
+'this bird has black wings and a solid black head': 1 times
+'this bird has a gray and white belly and a small orange beak': 1 times
+
+Summary:
+Total Sentences: 60
+Unique Sentences: 27
+Duplicated Sentences: 33

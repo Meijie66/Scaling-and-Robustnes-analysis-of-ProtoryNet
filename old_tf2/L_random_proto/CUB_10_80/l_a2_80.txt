@@ -1,0 +1,26 @@
+Unique Sentences and Their Occurrences:
+'this bird has a white body, brown wings and an orange beak': 7 times
+'a mostly brown colored bird with white head and long beak': 21 times
+'this bird has brown wings and a white head with an orange beak': 21 times
+'this bird is large with a white head and chest and brown wings and an orange beak': 9 times
+'this black bird has an orange beak slightly pointing downwards, and a white malar stripe': 1 times
+'this is a bird with a white breast, black back and an orange beak': 1 times
+'this bird is white and brown in color, with a stubby beak': 1 times
+'this bird is all black with an orange beak and a bit of white between the head and beak': 1 times
+'this bird is brown, white, and red in color, with a sharp black beak': 1 times
+'a black bird with an orange beak and a white stripe coming from its white eyes': 5 times
+'this bird is black with big wings and has a long, pointy beak': 1 times
+'this bird has a unique white eye, and a pointed orange beak': 2 times
+'this is a black bird with a white belly and a large orange beak': 1 times
+'this bird has black plumage, with a large head and a large black, curved beak': 2 times
+'this is a black and blue bird with a white eye and a pointed beak': 1 times
+'this is a black bird with a white eye and a large orange beak': 1 times
+'this bird is grey and has a very large wing span with a very long beak': 1 times
+'this bird has black winds and a white body with a long curved beak': 1 times
+'this is a black bird with a white spot on the head and a white breast with an orange beak': 1 times
+'this bird has a white body and head, brown wings, and a long slightly curved orange beak': 1 times
+
+Summary:
+Total Sentences: 80
+Unique Sentences: 20
+Duplicated Sentences: 60

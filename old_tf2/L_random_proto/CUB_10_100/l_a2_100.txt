@@ -1,0 +1,30 @@
+Unique Sentences and Their Occurrences:
+'this bird has a black head and back, with gray wings, tail, and beak': 40 times
+'a black bird with a long tail and a large gray beak': 17 times
+'this bird has a long beak with a black and white body': 3 times
+'a bird with an orange beak, black head and neck with black wings': 1 times
+'this bird has a black head and a gray nape, with a large beak': 7 times
+'a dark black and grey feathered bird with a bright beak': 5 times
+'this is a large bird with a mostly grey bird with a yellow beak and black and white wings': 1 times
+'a black and white bird with a short blunt orange beak': 1 times
+'a nearly all black bird with a hit of orange on its wing, and a short white beak': 1 times
+'black bird with a short pointed back beak and long black tail feathers': 1 times
+'a grey bird with a black back and a small white beak': 6 times
+'this bird with white eyerings is a sleek black on its head, body, wings, tail, and bill': 1 times
+'a dark grey bird with wiry feathers and a curved beak': 1 times
+'the bird is grey with a black head and a black beak with a small eye': 1 times
+'this bird has large black wings and a white underbelly as well as a medium sized beak': 1 times
+'this is a black bird with a large white beak': 2 times
+'a black bird with a sharp black beak and red and white on its wingbars': 1 times
+'this bird is white with black on its head and has a very short beak': 1 times
+'this is a small grey bird with a large curved beak': 1 times
+'a grayish black bird with white eyes and orange stubby beak that has a tuft of gray feathers on it': 3 times
+'a large bird with a white belly, black and white wings with a long beak': 1 times
+'light gray bird with a large wingspan tinged with white that has a black face and beak': 1 times
+'small black bird with long tail feathers and a short beak': 1 times
+'this bird has black plumage, with a large head and a large black, curved beak': 2 times
+
+Summary:
+Total Sentences: 100
+Unique Sentences: 24
+Duplicated Sentences: 76

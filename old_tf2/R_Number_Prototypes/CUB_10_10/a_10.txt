@@ -1,0 +1,16 @@
+Unique Sentences and Their Occurrences:
+'this bird has wings that are black and has a thick bill': 1 times
+'bird has black body feathers, white breast feather, and short beak': 1 times
+'this bird is black with white and has a long, pointy beak': 1 times
+'a large grey bird, with a white head and belly, and a large curved bill': 1 times
+'this bird has wings that are black and has a white belly': 1 times
+'this black bird has white eyes and black plumage on top of a bright orange shortened beak': 1 times
+'this bird has a black crown as well as a small black bill': 1 times
+'a medium sized bird with black feet and a black breast and belly with a orange and black beak': 1 times
+'this bird has a large grey head with a orange pointed bill': 1 times
+'this bird is grey and has a very large wing span with a very long beak': 1 times
+
+Summary:
+Total Sentences: 10
+Unique Sentences: 10
+Duplicated Sentences: 0

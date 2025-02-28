@@ -1,0 +1,26 @@
+Unique Sentences and Their Occurrences:
+'this bird is black in color, with a black beak and a black eye ring': 47 times
+'this bird is all black, with black webbed feet, a black plume, and orange beak': 24 times
+'this bird is black in color with a vibrant orange beak, and black eye rings': 22 times
+'this bird is black in color with a large brown beak and black eye rings': 19 times
+'this bird has an all black body with a navy blue crested head and long pointy beak': 1 times
+'this bird is black in color with a sharp black beak, and black eye rings': 3 times
+'this brown bird has webbed feet and a black beak': 1 times
+'this bird has a black crown, an orange bill, and a long neck': 2 times
+'this bird is black and red in color with a black beak, and black eye rings': 3 times
+'this bird is generally black in color, with a strange black beak and a black eye ring': 8 times
+'this is a large grey bird with a black wing and head and a long and pointy black beak': 2 times
+'this bird is black and blue in color with a sharp black beak, and black eye rings': 5 times
+'a large bird has a stumpy bill, large tufts of black feathers on its breast, and a black crown': 4 times
+'this bird is black with green eyes and has a long, pointy beak': 1 times
+'this bird is black, white, and brown in color with a stubby beak and black eye rings': 1 times
+'this bird has a black shiny body and feathers, a small pointy black bill and bright yellow eyes': 3 times
+'this bird has wings that are black and has a big bill': 1 times
+'this is a grey bird with a black head and a large black beak': 1 times
+'this bird has a black crown, an orange bill, and black webbed feet': 1 times
+'this bird is black in color with a brown beak, and black eye rings': 1 times
+
+Summary:
+Total Sentences: 150
+Unique Sentences: 20
+Duplicated Sentences: 130

@@ -1,0 +1,39 @@
+Unique Sentences and Their Occurrences:
+'a small bird has a short neck with a black breast, a black crown, and black secondaries': 1 times
+'bird has black body feathers, black breast feather, and pointed beak': 1 times
+'this is a black bird with a white belly and a red beka': 2 times
+'this is a dark black bird with a white breast and a short, squat bright orange bill': 7 times
+'the bird had a white and grey speckled chest with a short orange beak': 1 times
+'this bird is mostly grey with a short bright orange bill': 1 times
+'this bird has a black crown as well as a black belly': 1 times
+'this is a brown bird with a short white tail and a large brown beak': 1 times
+'the bird has a white eyering and white breast, belly, abdomen area but with a lot of black patches': 1 times
+'a larger bird with a white belly and breast, a longer wingspan, and a long, narrow bill': 1 times
+'this bird has a short, bright orange bill with a long black neck and a white breast and belly': 1 times
+'this bird is black it has a very large beak it looks to be a large bird': 1 times
+'this bird has smooth brown body, with a black bill and a white eyering': 1 times
+'this bird is mostly grey with webbed feet, and blunt orange bill': 1 times
+'this bird is brown with a long wingspan and has a very short beak': 1 times
+'this is a bird with a white breast, black back and a large pointed beak': 1 times
+'this bird is mostly gray with a long hooked black bill': 1 times
+'this bird has a black head, orange beak, and white breast and belly': 1 times
+'this bird has a grey body with black wings speckled with white dots, and an orange bill': 1 times
+'this gull is a muddy brown in color, with a long, thick, hooked brown beak and white rectrices': 1 times
+'this is a black bird with a thick orange beak that has a white piece at the base of it': 1 times
+'this bird has a black overall color, with the exception of its eyering, feet and base of the bill': 1 times
+'this large bird has a large bill and is light brown to tan in color with darker primaries': 1 times
+'this bird has smooth brown feathers and a large, long black bill': 1 times
+'this is a bird with a white belly, black back and a black head': 1 times
+'this bird is white and black in color with a long dull ended beak and black eye rings': 1 times
+'this bird is a very dark blue with a black head and beak, while it's eyes are white': 1 times
+'this bird has a blunt orange beak with mostly black above the neck, the belly is solid white': 1 times
+'an exotic looking brown bird with a white highlight on its face and orange beak': 1 times
+'a bird with a brown bill, white eyering, and brown secondaries': 1 times
+'this bird has a black head and body with a white belly': 1 times
+'this is a brown and black bird with a brown bill and a white side': 1 times
+'this is a black bird with a white belly and a white eye': 1 times
+
+Summary:
+Total Sentences: 40
+Unique Sentences: 33
+Duplicated Sentences: 7

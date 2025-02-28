@@ -1,0 +1,26 @@
+Unique Sentences and Their Occurrences:
+'this is a grey bird with black feet and a large beak': 31 times
+'this bird is black with long tail feathers and has a very short beak': 11 times
+'this is a black bird with a white belly and a large orange beak': 13 times
+'this bird has a white body and head with black feathers and a long pointy beak': 1 times
+'this black bird has white eyes and black plumage on top of a bright orange shortened beak': 17 times
+'this bird is all black with an orange beak and a bit of white between the head and beak': 10 times
+'this bird has a orange beak, black throat, and a black and white belly': 1 times
+'this bird is all black with a large beak and long tail': 2 times
+'this is a black bird with a white eye and a large orange beak': 2 times
+'this is a dark grey bird with a long black beak and white feet': 1 times
+'this bird is black with white on its stomach and a short beak': 1 times
+'this bird has black plumage, with a large head and a large black, curved beak': 1 times
+'this bird has a black head and a gray nape, with a large beak': 2 times
+'this bird is black and gray in color, and has a bright orange beak': 1 times
+'this bird is black in color, and has a bright orange beak': 1 times
+'this bird is brown with black on its wings and has a long, pointy beak': 1 times
+'this is a white bird with a black wing and a large beak': 1 times
+'this bird is brown with some white and has a long, pointy beak': 1 times
+'this is a grey bird with a black head and a large black beak': 1 times
+'this bird is brown with white and has a long, pointy beak': 1 times
+
+Summary:
+Total Sentences: 100
+Unique Sentences: 20
+Duplicated Sentences: 80

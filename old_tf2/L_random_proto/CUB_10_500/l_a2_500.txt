@@ -1,0 +1,46 @@
+Unique Sentences and Their Occurrences:
+'this bird has wings that are black and white with a short orange beak': 212 times
+'this bird has wings that are black and has a grey belly': 68 times
+'this bird is brown with black feet and has a very short beak': 88 times
+'this bird has wings that are black and has a big bill': 9 times
+'this bird is white with black and has a long, pointy beak': 1 times
+'the bird is all black, medium length pointed beak, with grey feet': 1 times
+'this bird has wings that are grey and has a long black bill': 18 times
+'this bird has wings that are black and has a long neck': 8 times
+'this bird has wings that are black and has a short bill': 14 times
+'this bird is brown with black on its wings and has a long, pointy beak': 3 times
+'this bird has wings that are black and has a white bill': 6 times
+'this bird is all black and has a very short beak': 1 times
+'this bird has wings that are brown and has a short bill': 1 times
+'this bird has wings that are black and has a white belly': 12 times
+'this bird is mostly dark grey and has a white ring around its bill': 3 times
+'this bird has wings that are black and white and has a small bill': 7 times
+'this bird has wings that are black and has a thick bill': 6 times
+'this bird has wings that are black and has a white belly and red bill': 5 times
+'this bird is black with a big wingspan and has a very short beak': 2 times
+'this bird has a large beak and has all black feathers': 3 times
+'this bird has wings that are black and has a long black bill': 2 times
+'this bird has wings that are black and has a yellow bill': 3 times
+'this bird has wings that are brown and has a long black bill': 4 times
+'this bird is black with white and has a long, pointy beak': 2 times
+'this bird is brown in color, and has a black beak': 5 times
+'this bird is black with white on its feathers and has a long, pointy beak': 1 times
+'this bird is brown with short wings and has a long, pointy beak': 1 times
+'this bird has wings that are black and has a small bill': 2 times
+'this bird has wings that are black and has a red bill': 1 times
+'this bird has large black wings and a white underbelly as well as a medium sized beak': 1 times
+'this bird is light brown, and has a long neck and a pointy bill': 1 times
+'this bird has a long wingspan, a white belly, and a yellow bill': 1 times
+'this bird is jet black everywhere and has a medium sized beak': 1 times
+'this bird has wings that are black and has a flat bill': 1 times
+'this bird is black with a white chest and has a very short beak': 1 times
+'this bird is brown with black and has a long, pointy beak': 1 times
+'this bird has wings that are black and has a orange bill': 1 times
+'this bird is black and red in color, and has a black beak': 1 times
+'this bird is black in color, and has a curved and black beak': 1 times
+'this bird has wings that are brown and has a large yellow bill': 1 times
+
+Summary:
+Total Sentences: 500
+Unique Sentences: 40
+Duplicated Sentences: 460
