@@ -1,0 +1,34 @@
+Unique Sentences and Their Occurrences:
+'this all-black bird has a long tail and a short black beak': 1 times
+'this bird is black all over with shiny feathers and a little bit of red on the coverlet': 1 times
+'this bird has a short beak and is black everywhere': 3 times
+'this is a black bird with a white belly and a white eye': 1 times
+'this is a black bird with a long black tail feather and a large beak': 1 times
+'this bird is white and black in color, and has a orange beak': 1 times
+'this bird has wings that are black and has a thick bill': 1 times
+'this bird is black with white on its stomach and a short beak': 1 times
+'the bird has black secondaries, a red wingbar and black crown': 1 times
+'the impressive wingspan on this bird is brown and the body is white. the bill is long': 1 times
+'this bird is entirely black, with a rounded beak and lengthy tail feathers': 1 times
+'this bird is white with black on its head and has a very short beak': 1 times
+'this bird is black and white in color with a sharp black beak and black eye ring': 1 times
+'this bird is black and gray in color, with a black beak': 1 times
+'this bird is grey and has a very large wing span with a very long beak': 1 times
+'this is a black bird with white stripes and a white throat and eye': 1 times
+'this black bird has a sharp beak and white eyering': 1 times
+'this bird is all black and has a long, pointy beak': 1 times
+'this is a medium sized brown bird, with a long pointed bill': 1 times
+'this bird is white and gray in color, with a long curled beak': 1 times
+'a black bird with a short orange beak, a white eye, and a black feather on the top of its head': 1 times
+'this bird is entirely black with a long, sharp beak and a broad wingspan': 1 times
+'the bird has a black crown and a black breast as well': 1 times
+'the bird is black with a long wing span and short beak': 1 times
+'the bird has a white eyering, long outer rectrices, black breast and black back': 1 times
+'this black bird has a thick, dark beak and sparse, spiked head feathers': 1 times
+'a larger black and grey bird with an orange beak': 1 times
+'this bird is black and white in color with a orange beak, and white eye rings': 1 times
+
+Summary:
+Total Sentences: 30
+Unique Sentences: 28
+Duplicated Sentences: 2

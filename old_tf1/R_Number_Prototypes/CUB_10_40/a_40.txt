@@ -1,0 +1,26 @@
+Unique Sentences and Their Occurrences:
+'this is a black bird with a white belly and a large orange beak': 4 times
+'this bird is black with white and has a long, pointy beak': 1 times
+'this bird has wings that are black and white with a short orange beak': 2 times
+'this bird has black plumage, with a large head and a large black, curved beak': 7 times
+'this bird has large black wings and a white underbelly as well as a medium sized beak': 3 times
+'this bird is black with a white chest and has a very short beak': 1 times
+'this bird has a short, bright orange bill with a long black neck and a white breast and belly': 5 times
+'bird has a short wide orange beak with white eyes, and a plume of feathers arching over the bill': 1 times
+'this bird has a white belly and breast with an orange bill and webbed feet': 1 times
+'this bird is large with a white head and chest and brown wings and an orange beak': 2 times
+'this bird is brown with some white and has a long, pointy beak': 1 times
+'this brown bird has a distinctive long sharp bill and this is a large bird': 1 times
+'this bird is black with a big wingspan and has a very short beak': 1 times
+'this bird is grey with long wings and has a long, pointy beak': 3 times
+'a black bird with a short orange beak, a white eye, and a black feather on the top of its head': 1 times
+'this bird is black with big wings and has a long, pointy beak': 2 times
+'this is a black bird with a long black tail feather and a large beak': 1 times
+'this bird is one solid color, black, with black tarus and feet, and bright yellow eyes': 1 times
+'this is a large bird with a mostly grey bird with a yellow beak and black and white wings': 1 times
+'this bird has a white body and head, brown wings, and a long slightly curved orange beak': 1 times
+
+Summary:
+Total Sentences: 40
+Unique Sentences: 20
+Duplicated Sentences: 20

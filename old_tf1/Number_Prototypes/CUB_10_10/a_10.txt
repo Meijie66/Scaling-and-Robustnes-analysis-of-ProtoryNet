@@ -1,0 +1,7 @@
+Unique Sentences and Their Occurrences:
+'this bird is black with white and has a long, pointy beak': 10 times
+
+Summary:
+Total Sentences: 10
+Unique Sentences: 1
+Duplicated Sentences: 9

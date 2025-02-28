@@ -1,0 +1,25 @@
+Unique Sentences and Their Occurrences:
+'the wholly black bird features a strong, thick beak and beady black eyes': 1 times
+'this bird has wings that are black and has a rotund body': 1 times
+'this big bird has a long, black wingbars, and black thigh, body and feet': 1 times
+'this is a plump dark gray bird with a thick beak that is yellow': 1 times
+'medium to large grey and black bird with long black beak': 1 times
+'this bird has wings that are black and has a orange bill': 1 times
+'this bird has wings that are black and has a thick bill': 1 times
+'the bird has orange coverts, black wingbars and a black back': 1 times
+'this black bird has a sharp beak and white eyering': 1 times
+'the bird has a black eyering, short throat and a small bill': 1 times
+'gray spooky looking bird with tuft of hair on top of head with irange beak': 1 times
+'this black bird has a straight beak, black tarsus & feet, and a bright orange covert': 1 times
+'the bird is grey and black with an orange bill and white eyes': 1 times
+'this bird is gray and black in color, with a orange beak': 1 times
+'this is a large grey bird with a large grey beak': 1 times
+'a dark gray bird with white eyes and an orange beak': 1 times
+'this bird has wings that are black and has ahwite eyes': 1 times
+'this bird has gray and white tarsus along with a white belly and black crown': 1 times
+'brown duck playing on the lake making a poodle': 2 times
+
+Summary:
+Total Sentences: 20
+Unique Sentences: 19
+Duplicated Sentences: 1

@@ -1,0 +1,18 @@
+Unique Sentences and Their Occurrences:
+'this bird has a black and dark orange bill, with white eyes': 11 times
+'this is a plump dark gray bird with a thick beak that is yellow': 1 times
+'this is a black bird with white feet and an orange bill': 1 times
+'this bird has a gray and white belly and a small orange beak': 1 times
+'this bird has feathers that are black and has an orange bill': 1 times
+'this bird has a white belly and breast with an orange bill and webbed feet': 14 times
+'this bird has a white belly and a long yellow bill': 4 times
+'this bird has a white belly and grey wings and crown with an orange bill': 1 times
+'this bird has a white head and a big orange bill': 1 times
+'this bird has a white belly and breast, black/webbed feet and a brightly orange colored bill': 2 times
+'this gray winged bird has a white head and rump and black retrices': 1 times
+'this bird is white and black in color, and has a orange beak': 2 times
+
+Summary:
+Total Sentences: 40
+Unique Sentences: 12
+Duplicated Sentences: 28

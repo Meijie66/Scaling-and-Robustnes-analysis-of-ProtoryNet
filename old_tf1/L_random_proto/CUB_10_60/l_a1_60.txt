@@ -1,0 +1,39 @@
+Unique Sentences and Their Occurrences:
+'this bird is small and black with a pointy orange beak': 5 times
+'this bird is white and black in color, and has a orange beak': 1 times
+'this black and white bird is mostly black with flecks of white on the head, chest, throat and feet': 1 times
+'a medium bird with gray feathers and a black beak': 1 times
+'this is a mostly black bird with a bright orange bill, a gray breast, and webbed feet': 1 times
+'a solid black bird with a small head and flat, black beak': 1 times
+'this bird is gray and black in color, with a orange beak': 1 times
+'this bird is black with an orange, short, stubby beak': 9 times
+'this bird is white and black in color with a large black beak curved at the end': 1 times
+'this bird has black plumage, with a large head and a large black, curved beak': 1 times
+'this is a black bird with a white breast and belly, webbed black feet and a red short beak': 2 times
+'this bird is black with grey on its chest and has a very short beak': 8 times
+'this bird is black with white on its chest and has a very short beak': 3 times
+'this bird is brown with black feet and has a very short beak': 2 times
+'this bird is black with a white chest and has a very short beak': 3 times
+'this bird has a gray and white belly and a small orange beak': 1 times
+'small black bird with a short black beak and bright orange wingbars': 1 times
+'this bird is black white white on its chest and has a very short beak': 1 times
+'this bird is black, white, and gray in color, with a orange and black beak': 2 times
+'this bird is mostly gray with a bright orange bill': 1 times
+'this bird is dark blue and purple with a black beak': 1 times
+'medium grey and black bird with medium to long black beak': 1 times
+'bird with a black body with a thick dark grey beak': 2 times
+'a long bodied bird with gray legs, black & white body and a stubby orange beak': 1 times
+'the bird had a white and grey speckled chest with a short orange beak': 1 times
+'medium to large grey and black bird with long black beak': 1 times
+'this bird is black and blue in color, with a large stubby and curved beak': 1 times
+'this bird is completely a color between blue and black, with a small dark purple head': 1 times
+'this bird is white and black in color, with a stubby orange and black beak': 1 times
+'this bird is brown with white on its chest and has a long, pointy beak': 1 times
+'this small bird has a white breast and a small orange beak': 1 times
+'this bird is black witrh blue and has a long, pointy beak': 1 times
+'this bird has a short, stubby gray beak, and webbed gray feet': 1 times
+
+Summary:
+Total Sentences: 60
+Unique Sentences: 33
+Duplicated Sentences: 27

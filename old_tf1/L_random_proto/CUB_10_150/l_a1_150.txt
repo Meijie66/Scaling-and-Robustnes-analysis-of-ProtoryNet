@@ -1,0 +1,40 @@
+Unique Sentences and Their Occurrences:
+'this bird is black with big wings and has a long, pointy beak': 25 times
+'this bird is brown with short wings and has a long, pointy beak': 15 times
+'this bird is grey with long wings and has a long, pointy beak': 5 times
+'this bird is all black with an orange beak and a bit of white between the head and beak': 20 times
+'this is a large bird with a mostly grey bird with a yellow beak and black and white wings': 28 times
+'this bird has wings that are black and white and has a long bill': 1 times
+'this is a dark grey bird with a long black beak and white feet': 5 times
+'this bird has a blunt orange beak and dark brown wings': 1 times
+'this bird is entirely black with a long, sharp beak and a broad wingspan': 1 times
+'this is a grey bird with black feet and a large beak': 3 times
+'this bird has wings that are black and white with a short orange beak': 10 times
+'this bird has wings that are brown and has a long neck': 1 times
+'this bird is completely black and has a very short beak': 2 times
+'a large bird with a white belly, black and white wings with a long beak': 1 times
+'this bird is black with white on its stomach and a short beak': 1 times
+'this bird is black with weird eyes and has a very short beak': 1 times
+'this bird is black with white on its feathers and has a long, pointy beak': 3 times
+'this bird has a large beak and has all black feathers': 1 times
+'this bird is brown with black feet and has a very short beak': 3 times
+'this is a grey bird with black wings and a pointy beak': 1 times
+'this bird is brown with black and has a long, pointy beak': 2 times
+'this is a brown bird with long wings and a large beak': 2 times
+'this bird is white with black and has a long, pointy beak': 1 times
+'this bird is brown with black on its wings and has a long, pointy beak': 5 times
+'this bird is black with white and has a long, pointy beak': 1 times
+'this bird is grey with black and has a very short beak': 2 times
+'this is a white bird with a black wing and a large beak': 1 times
+'this bird is brown with black and has a very short beak': 2 times
+'this is a large grey bird with a black face and beak': 1 times
+'this bird appears black with very long wings, and a long bill': 1 times
+'this bird is black with white and has a very short beak': 1 times
+'this is a grey bird with large feet, a white eye and an orange beak': 1 times
+'this bird has a wide wing span covered in brown, grey and white feathers with a broad, blunt beak': 1 times
+'this bird is white with grey on its wings and has a long, pointy beak': 1 times
+
+Summary:
+Total Sentences: 150
+Unique Sentences: 34
+Duplicated Sentences: 116

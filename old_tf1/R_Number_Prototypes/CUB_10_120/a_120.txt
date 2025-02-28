@@ -1,0 +1,23 @@
+Unique Sentences and Their Occurrences:
+'this bird is black with big wings and has a long, pointy beak': 29 times
+'this bird has a long wingspan, a white belly, and a yellow bill': 7 times
+'this bird is black with white and has a very short beak': 13 times
+'this bird has wings that are black and has a white bill': 4 times
+'this bird is black with white on its feathers and has a long, pointy beak': 1 times
+'this bird has really big wings and has a white belly': 12 times
+'this bird has wings that are grey and has a white belly': 3 times
+'this bird has wings that are black and has a white belly and red bill': 8 times
+'this bird is black with white and has a long, pointy beak': 6 times
+'this bird is white with black and has a very short beak': 13 times
+'this bird has wings that are black and has a white belly': 7 times
+'this bird has wings that are black and white and has a long bill': 7 times
+'this black and gray bird has a very short orange beak': 1 times
+'this bird has wings that are black and white with a short orange beak': 3 times
+'this bird is white with black and has a long, pointy beak': 2 times
+'this bird is black with white on its stomach and a short beak': 3 times
+'this bird is grey with white and has a long, pointy beak': 1 times
+
+Summary:
+Total Sentences: 120
+Unique Sentences: 17
+Duplicated Sentences: 103

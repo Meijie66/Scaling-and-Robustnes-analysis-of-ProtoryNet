@@ -1,0 +1,1519 @@
+Num GPUs Available:  1
+[['a bird with a white belly, and black and white wingbars with a black outer retrices', 'a large bird with a white belly, black and white wings with a long beak', 'this bird has a white body, black eyes, light gray beak and feet, white and black coloring on the underside of the wings and black inner and outer rectrices', 'this bird has really big wings and has a white belly', 'this flying bird is white with a long curved white bill', 'this particular bird has long black wings and a white belly', 'this bird has wings that are black and white and has a long bill', 'this bird is black with white and has a long, pointy beak', 'this bird has wings that are black and has a white belly', 'this bird is white and black in color, and has a light colored beak'], ['a large brown bird with a long and sharply turned down bill', 'this bird is brown with a black back and has a long, pointy beak', 'this bird is white and brown in color with a long beak that is curved at the end', 'this is a brown bird with white on the crown and black on the wingbars', 'this is a brown bird that is large and has a long hooked bill with a little black in the wing feathers', 'this particular bird has a tan body with patches of brown on the secondaries', 'a long curved beaked water bird, its a light creme and orange color with some black on the wings', 'the bird has a thick black beak and a neck that is tan in color', 'this bird has a brown crown, brown primaries, and a brown throat', 'the crown of the bird has various shades of brown and white throughout'], ['this bire has a white body with yellow bill, it has black on top of its wings and body', 'this is a white bird with a large downward pointing orange beak', 'a seagull looking bird with an orange beak and a white body', 'bird with long downward rounded yellow bill, white body, and black wings', 'this white gull has stark black superciliary areas and a long, hooked, faded yellow beak', 'this bird has a long beak and white feathers covering its head and belly with a greyish black cheek patch', 'this is a white bird with gray wings and a light pink beak that curved down at the tip', 'a distinguishing features on this plain white and brown feathered bird, the bill is long and curves downwards', 'this bird has a orange and black bill and a white breast', 'the bird has a long bill with a white crown with black wings'], ['this is a very large bird with a wide wingspan, mostly black with grey wing tips and a large pale grey beak', 'this bird is very dark brown or black, with a pointy light-colored beak', 'this is a black bird with a large white beak', 'this large bird has a mostly black body with a long hooked bill', 'a large bird with a black body and large wings with a pale orange bill', 'this bird is all black and has a long, pointy beak', 'this bird is dark brown in color, with a light colored beak', 'the bird is black all over its body but it has a white beak', 'the long coverts are black, the bill is white and curved at the tip, the rest of the body is black', 'this bird has wings that are black and has a long bill'], ['this bird is brown with a lighter brown crest', 'aquatic large bird with long hooked bill, white face, and brown body', 'bird has brown body feathers, brown breast feathers, and brown beak', 'this bird has a white superciliary and brown all around its body with a long bill', 'this is a brown bird with a white face and a long downward pointing beak', 'this bird is brown with white and has a long, pointy beak', 'brown duck playing on the lake making a poodle', 'this bird has wings that are brown and has a long bill', 'this bird has long brown bill, with a brown body', 'this is a medium sized brown bird, with a long pointed bill']]
+[1, 0, 1, 2, 0]
+[['the body of this bird is white but its wings and rump are dark brown', "this bird as a long white neck and beak, it's cheek is powdered with grey with it's wings and tail black with a light brown tip on each feather", 'a larger water bird with white body, dark brown wings, and orange bill', 'this bird has a white body, black and brown wing, and a long hooked bill', 'medium to large white brown and black bird with long orange and black beak', 'this particular bird has a white belly and sides and dark brown secondaries', 'this bird has a belly that is white with brown secondaries', 'this bird has a long, hooked bill that is mostly orange with black at the tip, and while primarily white in color, it has brown wings', 'this bird has a white crown and breast but dark brown wings and an orange bill', 'a large white water bird with dark brown wings and long, hooked orange bill'], ['a large bird with white head and brown wing bars and a long narrow yellow beak that is hooked at the end', 'a white albatross with brown wings and a peach colored bony beak', 'this bird has a long orange and black beak, with black spots around its eyes and a brown back, with a basic white head', 'this bird has a white breast and a really long bill', 'a large light blue bird, with dark eyes and a yellow long pointed beak', 'this bird is all white and has a long, pointy beak', 'this is a large white bird with a brown colored back and a large light orange bill', 'this bird has wings that are brown and has an orange bill', 'this bird has a long tan bill with a white crown and white throat', 'this bird has wings that are brown and has a long neck'], ['a large sized bird with brown tones in the wings and a large hooked bill', 'a bird with a dark brown face, white chest and nape, and gray wings and tail', 'the bird has a grey overall body color with its head covered in brown feathers', 'this black bird has a wide wingspan and a white accent patch on its throat and the back of its neck', 'this medium sized bird has very slender pointed wings, a long black bill, a brown head with a white back and belly and brown wings', 'long bill, big eyeings, and the bird had grey wingbars', 'this bird has wings that are brown and has a white belly', 'the medium sized bird has has a round head with a long bill, and very large wing spand', 'a grey bird with white neck and brown head, white striped wings and long black bill', 'this bird has a white body with brown wings and a brown head with a long black beak'], ['the bird has a long curved black bill and a black eyering', 'this a dark grey bird with a brown head and a white eye', 'a small bird with a brown head and brown nape, with brown covering the rest of its body, and the head is small compared to the body', 'this is a dark grey bird with a white eye and a large beak', 'this bird is black with long wings and has a long, pointy beak', 'a large brown bird with long wings, a long blunt beak and white around the eyes', 'this is a bird with a long tail and beak with a reddish head and black wings', 'this brown bird has large eyes', 'this bird has wings that are black and has a long bill', 'slate grey smooth feathered bird with a large head and a wide wingspan'], ['the bird has a curved black bill that is long', 'a waterbound bird with a long black beak, and a brown stocky body', 'a large water fowl with a dark grey bill and brown and grey feathers', 'a bird with a large downward curved bill, brown head, and white spots on its brown body', 'the bird has a brown belly brown spotted wing, tail and head', 'a brown bird with a long and flat beak, crown, belly and breast the bill is long and flat', 'the body is brown, the beak is long and gray, the eyeing is black', 'this bird has wings that are brown and has a long bill', 'this bird is brown with white and has a long, pointy beak', 'this bird is mainly brown with flecks of white around its face and a strong, black beak']]
+[1, 1, 2, 2, 0]
+module https://tfhub.dev/google/universal-sentence-encoder/4 loaded
+sample_sentences: a bird with a white belly, and black and white wingbars with a black outer retrices
+tf.Tensor(
+[[-0.06642858  0.02402534 -0.0269826  ... -0.0047215  -0.02654857
+   0.00250822]
+ [-0.05876764  0.02598478  0.03203876 ... -0.01966235 -0.04910273
+   0.0176241 ]
+ [-0.04326161  0.06347029  0.01726673 ...  0.01778596 -0.03441022
+   0.01203727]
+ ...
+ [-0.04990395  0.0598252   0.06586476 ...  0.00226664 -0.04302506
+  -0.00183788]
+ [-0.05165323  0.05139297  0.05707833 ...  0.00549492 -0.03309443
+   0.03263382]
+ [-0.05314713  0.02684108  0.06462091 ... -0.01047989 -0.00255435
+   0.04106818]], shape=(900, 512), dtype=float32)
+(15, 512)
+Total trainable parameters in the proto_layer: 7680
+z: KerasTensor(type_spec=TensorSpec(shape=(3,), dtype=tf.float32, name=None), name='tf.compat.v1.squeeze/Squeeze:0', description="created by layer 'tf.compat.v1.squeeze'")
+[db] model.input =  KerasTensor(type_spec=TensorSpec(shape=(None,), dtype=tf.string, name='input_1'), name='input_1', description="created by layer 'input_1'")
+[db] protoLayerName =  proto_layer
+[db] protoLayer =  <protorynet_3_old.ProtoryNet.createModel.<locals>.prototypeLayer object at 0x7fdcb3976f98>
+[db] protoLayer.output =  (<KerasTensor: shape=(None, None, 15) dtype=float32 (created by layer 'proto_layer')>, <KerasTensor: shape=(15, 512) dtype=float32 (created by layer 'proto_layer')>)
+[db] distanceLayer.output =  KerasTensor(type_spec=TensorSpec(shape=(None, None, 15), dtype=tf.float32, name=None), name='distance_layer/PartitionedCall:0', description="created by layer 'distance_layer'")
+Model: "custom_model"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+input_1 (InputLayer)         [(None,)]                 0         
+_________________________________________________________________
+keras_layer (KerasLayer)     (None, 512)               256797824 
+_________________________________________________________________
+tf.expand_dims (TFOpLambda)  (1, None, 512)            0         
+_________________________________________________________________
+proto_layer (prototypeLayer) ((None, None, 15), (15, 5 7680      
+_________________________________________________________________
+distance_layer (distanceLaye (None, None, 15)          0         
+_________________________________________________________________
+lstm (LSTM)                  [(None, None, 128), (None 73728     
+_________________________________________________________________
+tf.__operators__.getitem (Sl (None, 128)               0         
+_________________________________________________________________
+dense (Dense)                (None, 3)                 387       
+_________________________________________________________________
+tf.compat.v1.squeeze (TFOpLa (3,)                      0         
+_________________________________________________________________
+model (Functional)           ((None, None, 15), (15, 5 256805504 
+_________________________________________________________________
+model_1 (Functional)         (None, None, 15)          256805504 
+=================================================================
+Total params: 256,879,619
+Trainable params: 256,879,619
+Non-trainable params: 0
+_________________________________________________________________
+Epoch  0
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.15031/1 [==============================] - 7s 7s/step - loss: 1.1503
+Evaluating y_pred, y  [0.3525939  0.3132572  0.33414897] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34470537 0.30766454 0.34763008] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.35474205 0.32171702 0.32354096] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.32954545454545453
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:09:21.404476
+date and time = 18_12_2024_14_09_21
+just saved
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.07421/1 [==============================] - 0s 41ms/step - loss: 1.0742
+Evaluating y_pred, y  [0.35191286 0.30463174 0.34345537] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.33963427 0.3213021  0.3390636 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.35679117 0.32005614 0.32315266] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3068181818181818
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.10901/1 [==============================] - 0s 41ms/step - loss: 1.1090
+Evaluating y_pred, y  [0.3616977  0.31212938 0.32617295] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3456145  0.32286802 0.3315175 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.36043632 0.3237829  0.31578076] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:09:35.827223
+date and time = 18_12_2024_14_09_35
+just saved
+Epoch  1
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.13791/1 [==============================] - 0s 41ms/step - loss: 1.1379
+Evaluating y_pred, y  [0.35807905 0.3167517  0.32516924] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34290594 0.3114509  0.3456432 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3553085  0.33008033 0.3146111 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.38636363636363635
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:09:43.233051
+date and time = 18_12_2024_14_09_43
+just saved
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.05791/1 [==============================] - 0s 41ms/step - loss: 1.0579
+Evaluating y_pred, y  [0.36058936 0.31712887 0.32228175] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34207192 0.3099581  0.34797   ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.35831058 0.329792   0.31189746] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.38636363636363635
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.10101/1 [==============================] - 0s 41ms/step - loss: 1.1010
+Evaluating y_pred, y  [0.367721  0.3178069 0.3144721] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3373499  0.30424556 0.35840452] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.36182424 0.32292914 0.31524658] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.375
+Epoch  2
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.17851/1 [==============================] - 0s 42ms/step - loss: 1.1785
+Evaluating y_pred, y  [0.3642581  0.32463953 0.3111024 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.335977   0.31214768 0.35187533] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3586937  0.32719564 0.31411067] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3977272727272727
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:10:05.057322
+date and time = 18_12_2024_14_10_05
+just saved
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.06911/1 [==============================] - 0s 41ms/step - loss: 1.0691
+Evaluating y_pred, y  [0.3674601  0.34147668 0.29106322] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.33730865 0.309765   0.3529263 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3814915  0.34050956 0.27799892] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:10:12.289550
+date and time = 18_12_2024_14_10_12
+just saved
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.05621/1 [==============================] - 0s 41ms/step - loss: 1.0562
+Evaluating y_pred, y  [0.3834767  0.36411127 0.2524121 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.35961023 0.31677425 0.32361552] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.38756776 0.36936527 0.24306695] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3977272727272727
+Epoch  3
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.16461/1 [==============================] - 0s 41ms/step - loss: 1.1646
+Evaluating y_pred, y  [0.37558338 0.39352423 0.23089236] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.35073188 0.32462677 0.32464132] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.37587085 0.3938032  0.23032594] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4659090909090909
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:10:26.998730
+date and time = 18_12_2024_14_10_26
+just saved
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.06081/1 [==============================] - 0s 41ms/step - loss: 1.0608
+Evaluating y_pred, y  [0.3913909  0.40197527 0.20663388] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.33686596 0.3119734  0.35116062] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.39170492 0.40224242 0.2060527 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4318181818181818
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.91821/1 [==============================] - 0s 41ms/step - loss: 0.9182
+Evaluating y_pred, y  [0.41751155 0.41724017 0.1652482 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3973521  0.34798825 0.25465974] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.4178083  0.41746944 0.16472228] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.45454545454545453
+Epoch  4
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.21431/1 [==============================] - 0s 41ms/step - loss: 1.2143
+Evaluating y_pred, y  [0.38508102 0.43856606 0.17635289] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.31844747 0.30458534 0.3769672 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.39926878 0.45650387 0.14422739] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4431818181818182
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.28021/1 [==============================] - 0s 41ms/step - loss: 1.2802
+Evaluating y_pred, y  [0.3931423  0.45497766 0.15188001] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.31595662 0.29618096 0.38786238] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.4073842  0.47678372 0.11583212] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4318181818181818
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.79971/1 [==============================] - 0s 41ms/step - loss: 0.7997
+Evaluating y_pred, y  [0.41789693 0.5031784  0.0789246 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.40600848 0.39513716 0.19885428] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.41794816 0.50345486 0.07859697] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5113636363636364
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:11:03.341578
+date and time = 18_12_2024_14_11_03
+just saved
+Epoch  5
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.09791/1 [==============================] - 0s 41ms/step - loss: 1.0979
+Evaluating y_pred, y  [0.37447253 0.47629178 0.14923573] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.31658685 0.28365517 0.39975804] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.37249815 0.5722178  0.05528408] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4772727272727273
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.47131/1 [==============================] - 0s 42ms/step - loss: 1.4713
+Evaluating y_pred, y  [0.3823909  0.5392402  0.07836888] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3252625  0.28318784 0.3915497 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3725058  0.58168775 0.04580642] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.58021/1 [==============================] - 0s 41ms/step - loss: 0.5802
+Evaluating y_pred, y  [0.37196198 0.59201825 0.03601982] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.41259828 0.45206547 0.13533626] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3718477  0.5922836  0.03586876] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5454545454545454
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:11:25.016860
+date and time = 18_12_2024_14_11_25
+just saved
+Epoch  6
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.07901/1 [==============================] - 0s 41ms/step - loss: 1.0790
+Evaluating y_pred, y  [0.37701708 0.5074065  0.11557645] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3247255  0.2582346  0.41703993] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.33305272 0.6372181  0.0297292 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.48863636363636365
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.01581/1 [==============================] - 0s 41ms/step - loss: 1.0158
+Evaluating y_pred, y  [0.36446387 0.58168197 0.0538541 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3889739  0.368322   0.24270402] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.33677846 0.6352013  0.0280203 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5681818181818182
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:11:39.466170
+date and time = 18_12_2024_14_11_39
+just saved
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.50511/1 [==============================] - 0s 41ms/step - loss: 0.5051
+Evaluating y_pred, y  [0.3387256  0.6371466  0.02412782] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4005915  0.5148197  0.08458884] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.33857092 0.6374087  0.02402042] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5227272727272727
+Epoch  7
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.09181/1 [==============================] - 0s 41ms/step - loss: 1.0918
+Evaluating y_pred, y  [0.38541737 0.51589507 0.09868751] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3345654 0.2313296 0.434105 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.30958146 0.6715168  0.01890174] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5227272727272727
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 3.02861/1 [==============================] - 0s 41ms/step - loss: 3.0286
+Evaluating y_pred, y  [0.05308919 0.01168588 0.93522495] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.05299582 0.0116501  0.93535405] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.10872311 0.03502613 0.85625076] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3181818181818182
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 2.02811/1 [==============================] - 0s 41ms/step - loss: 2.0281
+Evaluating y_pred, y  [0.2694973  0.13667113 0.59383154] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.2693393  0.13646641 0.5941943 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.26904196 0.13604702 0.5949111 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3181818181818182
+Epoch  8
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.62011/1 [==============================] - 0s 41ms/step - loss: 1.6201
+Evaluating y_pred, y  [0.30414027 0.20053056 0.49532914] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.30398598 0.20023742 0.49577656] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.30374968 0.19978826 0.49646205] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3181818181818182
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.14011/1 [==============================] - 0s 42ms/step - loss: 1.1401
+Evaluating y_pred, y  [0.32179025 0.2294851  0.4487247 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.32162255 0.22905806 0.4493194 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.32146862 0.22871886 0.4498125 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3181818181818182
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.38241/1 [==============================] - 0s 42ms/step - loss: 1.3824
+Evaluating y_pred, y  [0.34267166 0.25427973 0.40304863] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3425668  0.25376186 0.40367132] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3447339  0.27967587 0.3755902 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3181818181818182
+Epoch  9
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.24741/1 [==============================] - 0s 41ms/step - loss: 1.2474
+Evaluating y_pred, y  [0.35652924 0.33892012 0.30455068] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3456643  0.2769711  0.37736458] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3634448  0.39643496 0.24012026] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.07781/1 [==============================] - 0s 41ms/step - loss: 1.0778
+Evaluating y_pred, y  [0.33295694 0.31870154 0.34834152] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3427384 0.2814837 0.3757779] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34512725 0.37271664 0.28215617] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.38636363636363635
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.16841/1 [==============================] - 0s 41ms/step - loss: 1.1684
+Evaluating y_pred, y  [0.35892618 0.3449567  0.2961171 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.35266256 0.27937824 0.36795923] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.38523823 0.3822581  0.2325037 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.42045454545454547
+Epoch  10
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.19131/1 [==============================] - 0s 41ms/step - loss: 1.1913
+Evaluating y_pred, y  [0.36198738 0.32534832 0.3126643 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34491068 0.28514862 0.36994073] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.37991226 0.38910303 0.23098478] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4431818181818182
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.04981/1 [==============================] - 0s 41ms/step - loss: 1.0498
+Evaluating y_pred, y  [0.33727995 0.32673287 0.33598718] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34192666 0.27962664 0.37844673] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3426107  0.38509268 0.2722966 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.48863636363636365
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.14711/1 [==============================] - 0s 41ms/step - loss: 1.1471
+Evaluating y_pred, y  [0.3577164  0.31088573 0.33139783] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3475377  0.27928382 0.37317848] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3683841  0.35037917 0.28123677] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+Epoch  11
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.19431/1 [==============================] - 0s 41ms/step - loss: 1.1943
+Evaluating y_pred, y  [0.35206437 0.3133726  0.334563  ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.33836493 0.28645018 0.37518486] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3631866  0.35559332 0.28122014] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.04761/1 [==============================] - 0s 41ms/step - loss: 1.0476
+Evaluating y_pred, y  [0.35156322 0.31160897 0.33682778] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.33537507 0.28055492 0.38407   ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34941694 0.36796543 0.2826176 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4772727272727273
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.12111/1 [==============================] - 0s 41ms/step - loss: 1.1211
+Evaluating y_pred, y  [0.35793558 0.3123466  0.32971781] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.341623   0.27126443 0.3871126 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.36762026 0.35599333 0.27638638] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4659090909090909
+Epoch  12
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.12611/1 [==============================] - 0s 41ms/step - loss: 1.1261
+Evaluating y_pred, y  [0.35198405 0.31229088 0.3357251 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3319133  0.2763534  0.39173335] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34757385 0.38083056 0.27159554] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5113636363636364
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.04091/1 [==============================] - 0s 41ms/step - loss: 1.0409
+Evaluating y_pred, y  [0.35169923 0.30839273 0.33990797] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.32731816 0.25382075 0.41886118] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.346288   0.3785044  0.27520758] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.88861/1 [==============================] - 0s 41ms/step - loss: 0.8886
+Evaluating y_pred, y  [0.35852805 0.30796015 0.3335118 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.332871   0.26432133 0.40280768] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34184858 0.4264088  0.23174264] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5227272727272727
+Epoch  13
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.94701/1 [==============================] - 0s 41ms/step - loss: 0.9470
+Evaluating y_pred, y  [0.32161602 0.38430735 0.29407665] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.32588074 0.27637264 0.39774665] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3150795  0.46770015 0.21722034] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5568181818181818
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.03081/1 [==============================] - 0s 42ms/step - loss: 1.0308
+Evaluating y_pred, y  [0.32077408 0.3844856  0.29474032] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3045009  0.28367683 0.41182226] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3131936  0.47181392 0.21499252] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5681818181818182
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.73701/1 [==============================] - 0s 41ms/step - loss: 0.7370
+Evaluating y_pred, y  [0.30116266 0.45034635 0.24849096] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3087751  0.27946356 0.41176134] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.30950353 0.49599648 0.19450007] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5795454545454546
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:14:19.963384
+date and time = 18_12_2024_14_14_19
+just saved
+Epoch  14
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.74411/1 [==============================] - 0s 41ms/step - loss: 0.7441
+Evaluating y_pred, y  [0.36804804 0.40105376 0.23089819] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34250343 0.25508237 0.40241414] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34739998 0.4546947  0.19790529] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5340909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.85101/1 [==============================] - 0s 42ms/step - loss: 0.8510
+Evaluating y_pred, y  [0.4176778  0.38261685 0.19970538] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.37984195 0.25038743 0.36977062] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3865457 0.4691899 0.1442644] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5454545454545454
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.58371/1 [==============================] - 0s 41ms/step - loss: 0.5837
+Evaluating y_pred, y  [0.4238866  0.3998683  0.17624512] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3638971  0.21419467 0.42190823] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.38075933 0.49590218 0.12333845] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5340909090909091
+Epoch  15
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.57971/1 [==============================] - 0s 41ms/step - loss: 0.5797
+Evaluating y_pred, y  [0.43070403 0.3496394  0.21965656] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3532566  0.19676332 0.44998008] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.31846777 0.5736898  0.10784248] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5568181818181818
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.87971/1 [==============================] - 0s 41ms/step - loss: 0.8797
+Evaluating y_pred, y  [0.413387   0.32544127 0.26117167] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3483814  0.18080959 0.47080904] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3061388  0.6004365  0.09342469] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5454545454545454
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.34231/1 [==============================] - 0s 41ms/step - loss: 0.3423
+Evaluating y_pred, y  [0.42714697 0.3303597  0.24249335] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.364582   0.17031007 0.46510795] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.30002818 0.579308   0.12066384] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5340909090909091
+Epoch  16
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.40551/1 [==============================] - 0s 41ms/step - loss: 0.4055
+Evaluating y_pred, y  [0.36906746 0.399331   0.2316016 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.28569373 0.15976271 0.55454355] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.27758554 0.56502    0.15739444] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5795454545454546
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.82391/1 [==============================] - 0s 41ms/step - loss: 0.8239
+Evaluating y_pred, y  [0.37468845 0.39225546 0.23305605] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.25344965 0.09004426 0.6565061 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.24083869 0.61525315 0.14390816] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5568181818181818
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.09881/1 [==============================] - 0s 41ms/step - loss: 0.0988
+Evaluating y_pred, y  [0.47750297 0.41559446 0.10690259] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4089422  0.41862997 0.17242785] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.27394396 0.6468141  0.07924195] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5113636363636364
+Epoch  17
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.35581/1 [==============================] - 0s 41ms/step - loss: 0.3558
+Evaluating y_pred, y  [0.5221151  0.29503807 0.18284683] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.42824104 0.30967695 0.262082  ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.42177042 0.40498388 0.17324571] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5909090909090909
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:15:33.091340
+date and time = 18_12_2024_14_15_33
+just saved
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.61341/1 [==============================] - 0s 41ms/step - loss: 0.6134
+Evaluating y_pred, y  [0.540519   0.26766288 0.19181816] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.43169317 0.2793273  0.28897953] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34134662 0.49498728 0.16366601] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6136363636363636
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:15:40.346368
+date and time = 18_12_2024_14_15_40
+just saved
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.09071/1 [==============================] - 0s 42ms/step - loss: 0.0907
+Evaluating y_pred, y  [0.5694768  0.2741333  0.15638992] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.41660526 0.28857362 0.29482114] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.21766183 0.6810432  0.10129501] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.625
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:15:47.595876
+date and time = 18_12_2024_14_15_47
+just saved
+Epoch  18
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.25191/1 [==============================] - 0s 42ms/step - loss: 0.2519
+Evaluating y_pred, y  [0.46944755 0.36480567 0.16574678] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.37692577 0.09524299 0.5278312 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.22408198 0.70770156 0.06821644] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5681818181818182
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.89961/1 [==============================] - 0s 41ms/step - loss: 0.8996
+Evaluating y_pred, y  [0.47324845 0.39242983 0.13432175] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.38522804 0.0958959  0.5188761 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.19912209 0.7515575  0.04932039] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5795454545454546
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.04441/1 [==============================] - 0s 42ms/step - loss: 0.0444
+Evaluating y_pred, y  [0.4813179  0.41838324 0.1002989 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.45625815 0.26354146 0.2802004 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.13330527 0.81919634 0.04749838] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5454545454545454
+Epoch  19
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.32781/1 [==============================] - 0s 41ms/step - loss: 0.3278
+Evaluating y_pred, y  [0.5417956  0.28435978 0.17384458] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.43321022 0.17199801 0.3947918 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.19548936 0.69823444 0.10627615] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.65491/1 [==============================] - 0s 41ms/step - loss: 0.6549
+Evaluating y_pred, y  [0.56148964 0.2823607  0.1561497 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4312615  0.15971985 0.40901864] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.18463786 0.7230437  0.0923184 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5909090909090909
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.03671/1 [==============================] - 0s 41ms/step - loss: 0.0367
+Evaluating y_pred, y  [0.60289514 0.2855921  0.11151279] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.46930048 0.14237949 0.38831997] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.16780083 0.7721465  0.06005264] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5795454545454546
+Epoch  20
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.23441/1 [==============================] - 0s 41ms/step - loss: 0.2344
+Evaluating y_pred, y  [0.62449086 0.22907941 0.14642973] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.36993784 0.06594583 0.5641163 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.20340753 0.7064465  0.09014603] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5909090909090909
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.58631/1 [==============================] - 0s 42ms/step - loss: 0.5863
+Evaluating y_pred, y  [0.6328394  0.25507513 0.11208557] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4406227  0.10974842 0.44962883] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.17203353 0.7660089  0.06195762] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6136363636363636
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.02121/1 [==============================] - 0s 42ms/step - loss: 0.0212
+Evaluating y_pred, y  [0.66575795 0.26015028 0.07409181] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.40767428 0.18093526 0.41139048] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.14723325 0.8163115  0.03645528] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5795454545454546
+Epoch  21
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.16101/1 [==============================] - 0s 41ms/step - loss: 0.1610
+Evaluating y_pred, y  [0.66802907 0.2190414  0.11292947] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.36185342 0.04997658 0.58817   ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.18113975 0.7541741  0.06468616] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5568181818181818
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.55621/1 [==============================] - 0s 41ms/step - loss: 0.5562
+Evaluating y_pred, y  [0.66244304 0.2409355  0.09662135] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.36372116 0.14645246 0.48982638] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.15243813 0.79842925 0.04913263] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5795454545454546
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.05701/1 [==============================] - 0s 42ms/step - loss: 0.0570
+Evaluating y_pred, y  [0.27587652 0.5738222  0.1503012 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.03782678 0.9126641  0.04950911] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.05446018 0.89008415 0.05545566] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4431818181818182
+Epoch  22
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.00811/1 [==============================] - 0s 42ms/step - loss: 1.0081
+Evaluating y_pred, y  [0.51472443 0.10999319 0.37528235] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.14104836 0.30169705 0.5572546 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.14816663 0.38828126 0.46355212] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.36363636363636365
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.87191/1 [==============================] - 0s 42ms/step - loss: 0.8719
+Evaluating y_pred, y  [0.5322481  0.12250225 0.34524965] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.14266708 0.353216   0.5041169 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.14576395 0.44136822 0.41286784] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5227272727272727
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.46561/1 [==============================] - 0s 41ms/step - loss: 0.4656
+Evaluating y_pred, y  [0.5658965  0.11441193 0.31969148] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.14040804 0.46488547 0.39470652] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.14341624 0.5219175  0.33466625] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5454545454545454
+Epoch  23
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.74581/1 [==============================] - 0s 42ms/step - loss: 0.7458
+Evaluating y_pred, y  [0.54576063 0.09592395 0.3583154 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.14340366 0.401104   0.45549238] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.14800204 0.45627257 0.3957254 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5340909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.84191/1 [==============================] - 0s 41ms/step - loss: 0.8419
+Evaluating y_pred, y  [0.5471473  0.10749464 0.34535804] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.13656378 0.40050116 0.4629351 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.13913633 0.46935314 0.39151055] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5568181818181818
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.43361/1 [==============================] - 0s 41ms/step - loss: 0.4336
+Evaluating y_pred, y  [0.58301365 0.0972367  0.31974965] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.1296454  0.48214337 0.38821122] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.13501368 0.5258448  0.3391415 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5454545454545454
+Epoch  24
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.68501/1 [==============================] - 0s 41ms/step - loss: 0.6850
+Evaluating y_pred, y  [0.5578955  0.08689238 0.35521215] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.1285004  0.4293106  0.44218898] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.1343286  0.47477895 0.3908925 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5795454545454546
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.85431/1 [==============================] - 0s 42ms/step - loss: 0.8543
+Evaluating y_pred, y  [0.4449252  0.16325441 0.39182043] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.11724921 0.42702365 0.45572716] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.06654667 0.5987509  0.33470243] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5681818181818182
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.41481/1 [==============================] - 0s 42ms/step - loss: 0.4148
+Evaluating y_pred, y  [0.59007853 0.08841637 0.32150513] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.11188939 0.49544984 0.3926608 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.11895061 0.5337602  0.34728926] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5568181818181818
+Epoch  25
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.61471/1 [==============================] - 0s 41ms/step - loss: 0.6147
+Evaluating y_pred, y  [0.45241445 0.12854795 0.4190376 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.10939189 0.46572858 0.4248796 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.11784168 0.49434102 0.38781732] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5795454545454546
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.67171/1 [==============================] - 0s 42ms/step - loss: 0.6717
+Evaluating y_pred, y  [0.42797834 0.1496643  0.42235738] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.09788726 0.47357765 0.42853513] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.05258939 0.64807826 0.29933235] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.33751/1 [==============================] - 0s 42ms/step - loss: 0.3375
+Evaluating y_pred, y  [0.46803233 0.1324013  0.39956638] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.09044337 0.5526813  0.35687536] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.04508682 0.72417194 0.23074122] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5795454545454546
+Epoch  26
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.54701/1 [==============================] - 0s 43ms/step - loss: 0.5470
+Evaluating y_pred, y  [0.55211776 0.06099578 0.38688648] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.09255107 0.5018993  0.40554965] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.10499744 0.50093734 0.39406526] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5909090909090909
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.69021/1 [==============================] - 0s 41ms/step - loss: 0.6902
+Evaluating y_pred, y  [0.41889706 0.13285804 0.44824493] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.08066008 0.5053231  0.41401687] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.04129335 0.6798309  0.27887577] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6136363636363636
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.29811/1 [==============================] - 0s 42ms/step - loss: 0.2981
+Evaluating y_pred, y  [0.4644959  0.12309607 0.41240802] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.06978306 0.58797735 0.34223962] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.03321314 0.75265247 0.21413438] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+Epoch  27
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.49461/1 [==============================] - 0s 42ms/step - loss: 0.4946
+Evaluating y_pred, y  [0.5565487  0.05455328 0.388898  ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.07230315 0.53286505 0.39483172] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.08726718 0.5190257  0.39370716] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5909090909090909
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.26551/1 [==============================] - 0s 42ms/step - loss: 0.2655
+Evaluating y_pred, y  [0.40439495 0.12514164 0.47046334] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.06400613 0.52423143 0.4117624 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.03169506 0.6967917  0.2715132 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.28081/1 [==============================] - 0s 42ms/step - loss: 0.2808
+Evaluating y_pred, y  [0.43986845 0.12193556 0.43819597] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.05321086 0.60641503 0.34037408] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.02476504 0.76594126 0.20929371] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.625
+Epoch  28
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.45931/1 [==============================] - 0s 42ms/step - loss: 0.4593
+Evaluating y_pred, y  [0.42755944 0.09836654 0.47407398] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.05508412 0.5551077  0.38980815] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.02582434 0.72997    0.24420567] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6136363636363636
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.25241/1 [==============================] - 0s 42ms/step - loss: 0.2524
+Evaluating y_pred, y  [0.38731065 0.1251228  0.48756656] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.0503622  0.5359601  0.41367772] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.02437281 0.707982   0.2676452 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6136363636363636
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.26771/1 [==============================] - 0s 43ms/step - loss: 0.2677
+Evaluating y_pred, y  [0.417798   0.1251896  0.45701241] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.04170087 0.6189961  0.3393031 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.01905122 0.77586806 0.20508075] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6136363636363636
+Epoch  29
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.45301/1 [==============================] - 0s 42ms/step - loss: 0.4530
+Evaluating y_pred, y  [0.40173477 0.10093718 0.49732804] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.04409968 0.55851096 0.3973894 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.02035845 0.7340024  0.24563918] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.25721/1 [==============================] - 0s 43ms/step - loss: 0.2572
+Evaluating y_pred, y  [0.15305981 0.29371235 0.55322784] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.03891224 0.5716814  0.38940638] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.01802259 0.7422292  0.23974815] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.23391/1 [==============================] - 0s 42ms/step - loss: 0.2339
+Evaluating y_pred, y  [0.15060538 0.32956335 0.51983124] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.03169123 0.6492261  0.31908265] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.01396231 0.8015147  0.18452293] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6136363636363636
+Epoch  30
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.42461/1 [==============================] - 0s 43ms/step - loss: 0.4246
+Evaluating y_pred, y  [0.37774894 0.09549682 0.5267542 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.03487745 0.57563084 0.38949174] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.04744658 0.56107104 0.39148232] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6136363636363636
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.26711/1 [==============================] - 0s 42ms/step - loss: 0.2671
+Evaluating y_pred, y  [0.1373646  0.28617606 0.57645935] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.03245074 0.568054   0.3994952 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.01478951 0.74342155 0.24178895] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5909090909090909
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.20871/1 [==============================] - 0s 42ms/step - loss: 0.2087
+Evaluating y_pred, y  [0.03611669 0.6238141  0.34006926] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.02474007 0.67711663 0.2981433 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.01061041 0.8230015  0.16638808] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6363636363636364
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:20:35.336932
+date and time = 18_12_2024_14_20_35
+just saved
+Epoch  31
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.39881/1 [==============================] - 0s 42ms/step - loss: 0.3988
+Evaluating y_pred, y  [0.12872384 0.2748251  0.5964511 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.0273458  0.59070927 0.38194495] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.0120907  0.7662316  0.22167772] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.625
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.27861/1 [==============================] - 0s 43ms/step - loss: 0.2786
+Evaluating y_pred, y  [0.11727517 0.28882185 0.593903  ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.02609939 0.56877553 0.40512502] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.01183467 0.74703056 0.2411347 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.20601/1 [==============================] - 0s 42ms/step - loss: 0.2060
+Evaluating y_pred, y  [0.02935851 0.62780404 0.34283754] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.01992222 0.6775737  0.30250415] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.00850753 0.8252444  0.16624807] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+Epoch  32
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.35811/1 [==============================] - 0s 42ms/step - loss: 0.3581
+Evaluating y_pred, y  [0.11259733 0.29005483 0.5973478 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.02111371 0.6195576  0.35932863] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.0090887  0.79123133 0.19967997] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6363636363636364
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.27111/1 [==============================] - 0s 42ms/step - loss: 0.2711
+Evaluating y_pred, y  [0.02930095 0.5390522  0.43164685] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.02035708 0.5844413  0.39520165] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.00903835 0.7640132  0.22694845] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.18531/1 [==============================] - 0s 42ms/step - loss: 0.1853
+Evaluating y_pred, y  [0.02295057 0.6523771  0.32467234] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.01517551 0.7009927  0.28383175] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.00633861 0.8436492  0.1500122 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+Epoch  33
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.16891/1 [==============================] - 0s 42ms/step - loss: 0.1689
+Evaluating y_pred, y  [0.10305596 0.31025684 0.5866872 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.01495945 0.6973737  0.28766683] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.00602987 0.8478467  0.1461234 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.625
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.25771/1 [==============================] - 0s 43ms/step - loss: 0.2577
+Evaluating y_pred, y  [0.02312293 0.6063728  0.37050438] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.01509504 0.6635415  0.32136348] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.00621893 0.8261919  0.16758914] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6590909090909091
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:21:35.084369
+date and time = 18_12_2024_14_21_35
+just saved
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.15271/1 [==============================] - 0s 42ms/step - loss: 0.1527
+Evaluating y_pred, y  [0.01773893 0.68346345 0.29879764] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.01122132 0.7379279  0.25085077] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.00451569 0.87093663 0.12454771] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5909090909090909
+Epoch  34
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 8.15531/1 [==============================] - 0s 42ms/step - loss: 8.1553
+Evaluating y_pred, y  [8.8636798e-01 3.4543290e-04 1.1328654e-01] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [8.8553905e-01 3.4984289e-04 1.1411110e-01] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [8.87188911e-01 3.38987098e-04 1.12472124e-01] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.85081/1 [==============================] - 0s 42ms/step - loss: 0.8508
+Evaluating y_pred, y  [0.42899483 0.00703081 0.5639744 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.42856163 0.00707151 0.5643669 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.42883027 0.00694729 0.56422246] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3181818181818182
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 3.69681/1 [==============================] - 0s 43ms/step - loss: 3.6968
+Evaluating y_pred, y  [0.6308352  0.02586978 0.34329504] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.6303256  0.02591275 0.34376165] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.63172835 0.02564909 0.34262252] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+Epoch  35
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 2.95351/1 [==============================] - 0s 42ms/step - loss: 2.9535
+Evaluating y_pred, y  [0.4947287  0.05265978 0.4526115 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.494553   0.05255993 0.4528871 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.49489003 0.05237821 0.45273176] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.72341/1 [==============================] - 0s 42ms/step - loss: 0.7234
+Evaluating y_pred, y  [0.487456   0.07470462 0.43783936] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4876297  0.07441823 0.437952  ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.48755816 0.07438672 0.43805507] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 2.35541/1 [==============================] - 0s 43ms/step - loss: 2.3554
+Evaluating y_pred, y  [0.52284086 0.09639055 0.3807686 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.52351975 0.09591892 0.3805613 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.5232658  0.09604982 0.38068444] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+Epoch  36
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 2.13111/1 [==============================] - 0s 42ms/step - loss: 2.1311
+Evaluating y_pred, y  [0.4626472  0.11985115 0.4175017 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.46327227 0.11930858 0.4174191 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.46286586 0.11953394 0.41760018] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.79971/1 [==============================] - 0s 43ms/step - loss: 0.7997
+Evaluating y_pred, y  [0.45158225 0.13620521 0.41221255] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.45225537 0.13565966 0.412085  ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.451817   0.13592362 0.41225937] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.89621/1 [==============================] - 0s 43ms/step - loss: 1.8962
+Evaluating y_pred, y  [0.47463974 0.15213096 0.37322927] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4755141  0.15158036 0.3729055 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.4750399  0.15187101 0.37308905] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+Epoch  37
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.78571/1 [==============================] - 0s 42ms/step - loss: 1.7857
+Evaluating y_pred, y  [0.43291858 0.16947366 0.39760777] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4336223  0.16893885 0.39743882] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.43317693 0.16924515 0.39757785] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.86201/1 [==============================] - 0s 42ms/step - loss: 0.8620
+Evaluating y_pred, y  [0.42412812 0.18108866 0.39478317] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4248303  0.18057035 0.39459932] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.4244569  0.18084593 0.3946972 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.65681/1 [==============================] - 0s 42ms/step - loss: 1.6568
+Evaluating y_pred, y  [0.44402415 0.19323519 0.3627407 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.44492477 0.19269976 0.3623754 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.444442  0.1930317 0.3625262] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+Epoch  38
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.58551/1 [==============================] - 0s 43ms/step - loss: 1.5855
+Evaluating y_pred, y  [0.40948144 0.20703265 0.38348597] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.41018447 0.20653859 0.38327697] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.40978    0.206857   0.38336307] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.91501/1 [==============================] - 0s 42ms/step - loss: 0.9150
+Evaluating y_pred, y  [0.40233487 0.21580605 0.3818591 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.40301543 0.21535026 0.38163438] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.40257305 0.2156737  0.3817533 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.50201/1 [==============================] - 0s 42ms/step - loss: 1.5020
+Evaluating y_pred, y  [0.42133057 0.22552067 0.35314876] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.42213696 0.2250647  0.3527983 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.4216937  0.22539836 0.35290793] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+Epoch  39
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.44891/1 [==============================] - 0s 42ms/step - loss: 1.4489
+Evaluating y_pred, y  [0.39026216 0.23727842 0.3724594 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.39090297 0.23685518 0.37224182] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.39045838 0.23719648 0.37234515] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.96071/1 [==============================] - 0s 43ms/step - loss: 0.9607
+Evaluating y_pred, y  [0.38435796 0.24393608 0.37170595] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.38501668 0.24350685 0.37147647] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.38459826 0.24385093 0.3715508 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.39201/1 [==============================] - 0s 42ms/step - loss: 1.3920
+Evaluating y_pred, y  [0.40338928 0.25169042 0.34492037] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.40419438 0.25129238 0.3445133 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.40368444 0.2516565  0.34465903] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3409090909090909
+Epoch  40
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.35011/1 [==============================] - 0s 42ms/step - loss: 1.3501
+Evaluating y_pred, y  [0.37444675 0.2618519  0.36370137] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.37507144 0.2615079  0.3634207 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.37461996 0.2618653  0.36351472] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3522727272727273
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.99911/1 [==============================] - 0s 44ms/step - loss: 0.9991
+Evaluating y_pred, y  [0.37009755 0.26665077 0.36325166] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3706928  0.26631707 0.36299008] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.37026295 0.2666642  0.36307287] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.36363636363636365
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.31141/1 [==============================] - 0s 43ms/step - loss: 1.3114
+Evaluating y_pred, y  [0.39036798 0.2727708  0.33686122] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.391172   0.2724159  0.33641216] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3906276  0.27281612 0.33655635] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.36363636363636365
+Epoch  41
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.27771/1 [==============================] - 0s 43ms/step - loss: 1.2777
+Evaluating y_pred, y  [0.3629418  0.28139943 0.35565874] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.36353695 0.28112602 0.355337  ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.36306873 0.28150544 0.35542583] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.375
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.02341/1 [==============================] - 0s 43ms/step - loss: 1.0234
+Evaluating y_pred, y  [0.3612754  0.28466398 0.35406065] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.36189875 0.28439784 0.3537034 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.36141574 0.28477684 0.3538074 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3977272727272727
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.25261/1 [==============================] - 0s 42ms/step - loss: 1.2526
+Evaluating y_pred, y  [0.38401636 0.2892755  0.3267081 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3849756  0.28895766 0.32606667] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.38437018 0.28937313 0.32625666] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+Epoch  42
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.21981/1 [==============================] - 0s 42ms/step - loss: 1.2198
+Evaluating y_pred, y  [0.36354795 0.29813054 0.33832154] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.32452703 0.28528944 0.3901835 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.36374882 0.29832885 0.3379223 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.45454545454545453
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.96981/1 [==============================] - 0s 43ms/step - loss: 0.9698
+Evaluating y_pred, y  [0.38186184 0.3046392  0.313499  ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34071872 0.2926225  0.36665878] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3822143  0.30492237 0.3128633 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.45454545454545453
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.20741/1 [==============================] - 0s 43ms/step - loss: 1.2074
+Evaluating y_pred, y  [0.42621195 0.31073165 0.26305643] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.38191643 0.30228364 0.3157999 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.4268229  0.3110675  0.26210964] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.48863636363636365
+Epoch  43
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.25711/1 [==============================] - 0s 43ms/step - loss: 1.2571
+Evaluating y_pred, y  [0.4114232 0.3218435 0.2667333] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.36683416 0.31185925 0.32130662] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.4119669  0.322312   0.26572108] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.48863636363636365
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.82991/1 [==============================] - 0s 43ms/step - loss: 0.8299
+Evaluating y_pred, y  [0.439226   0.3266788  0.23409519] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.39117634 0.31952953 0.2892941 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.44003394 0.32715666 0.23280942] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4772727272727273
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.13541/1 [==============================] - 0s 43ms/step - loss: 1.1354
+Evaluating y_pred, y  [0.48775366 0.32561502 0.18663134] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.43697932 0.32446843 0.23855224] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.48896784 0.32589403 0.1851381 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4659090909090909
+Epoch  44
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.19601/1 [==============================] - 0s 43ms/step - loss: 1.1960
+Evaluating y_pred, y  [0.45128828 0.34079614 0.2079156 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.39967692 0.33525977 0.26506335] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.23421569 0.25103188 0.51475245] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4431818181818182
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.73921/1 [==============================] - 0s 43ms/step - loss: 0.7392
+Evaluating y_pred, y  [0.48119766 0.34306365 0.17573865] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.42649773 0.3420902  0.23141207] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.23378217 0.2534592  0.5127587 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4318181818181818
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.08111/1 [==============================] - 0s 43ms/step - loss: 1.0811
+Evaluating y_pred, y  [0.5343484  0.335008   0.13064359] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.47819245 0.34244743 0.17936015] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.53568345 0.33508134 0.12923516] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4659090909090909
+Epoch  45
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.53831/1 [==============================] - 0s 42ms/step - loss: 1.5383
+Evaluating y_pred, y  [0.24588913 0.2895068  0.46460414] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4243177 0.3538949 0.2217875] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.21380858 0.25804994 0.5281415 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.42045454545454547
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.65861/1 [==============================] - 0s 43ms/step - loss: 0.6586
+Evaluating y_pred, y  [0.2476498  0.29684037 0.45550984] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.46131685 0.35442612 0.18425702] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.22134244 0.2682194  0.51043814] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4431818181818182
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.09111/1 [==============================] - 0s 43ms/step - loss: 1.0911
+Evaluating y_pred, y  [0.5998979  0.3169666  0.08313556] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.5400212  0.3381306  0.12184822] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.49045393 0.34142438 0.16812173] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4431818181818182
+Epoch  46
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.45181/1 [==============================] - 0s 43ms/step - loss: 1.4518
+Evaluating y_pred, y  [0.23886226 0.3176486  0.4434891 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.46940115 0.3616528  0.16894606] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.21073432 0.28316063 0.50610507] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4431818181818182
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.55821/1 [==============================] - 0s 43ms/step - loss: 0.5582
+Evaluating y_pred, y  [0.25015888 0.33205324 0.4177879 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.5109642  0.3544402  0.13459562] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.22550511 0.29870513 0.4757897 ] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4318181818181818
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.12661/1 [==============================] - 0s 43ms/step - loss: 1.1266
+Evaluating y_pred, y  [0.6472425  0.29493397 0.05782356] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.5848709  0.32603443 0.08909463] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.6151991  0.30089614 0.0839048 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.42045454545454547
+Epoch  47
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.27151/1 [==============================] - 0s 43ms/step - loss: 1.2715
+Evaluating y_pred, y  [0.25536945 0.3647603  0.37987018] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.52711546 0.3545209  0.11836359] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.56351143 0.32558617 0.11090241] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4318181818181818
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.41401/1 [==============================] - 0s 43ms/step - loss: 1.4140
+Evaluating y_pred, y  [0.24193898 0.36590657 0.39215448] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.54247165 0.35340527 0.10412306] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.5784561  0.3236167  0.09792724] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3977272727272727
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.00621/1 [==============================] - 0s 43ms/step - loss: 1.0062
+Evaluating y_pred, y  [0.69429165 0.26778364 0.03792469] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.6321528  0.30738685 0.06046044] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.65706444 0.28332648 0.05960907] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3977272727272727
+Epoch  48
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.15991/1 [==============================] - 0s 43ms/step - loss: 1.1599
+Evaluating y_pred, y  [0.26210412 0.40001857 0.33787733] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.5725301  0.34436762 0.08310232] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.60582304 0.3141615  0.08001552] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3977272727272727
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.41291/1 [==============================] - 0s 43ms/step - loss: 1.4129
+Evaluating y_pred, y  [0.066411   0.25094858 0.68264043] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.17637922 0.36012918 0.4634916 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.6113032  0.315517   0.07317976] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.375
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.15641/1 [==============================] - 0s 43ms/step - loss: 1.1564
+Evaluating y_pred, y  [0.61794376 0.31631532 0.06574088] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.6721233 0.286674  0.0412027] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.69512343 0.26373726 0.04113926] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.36363636363636365
+Epoch  49
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.04351/1 [==============================] - 0s 43ms/step - loss: 1.0435
+Evaluating y_pred, y  [0.56997097 0.34456524 0.08546376] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.2163925  0.40598184 0.37762573] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.64669085 0.2946289  0.05868024] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.38636363636363635
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.32061/1 [==============================] - 0s 42ms/step - loss: 1.3206
+Evaluating y_pred, y  [0.17705455 0.37932527 0.44362018] tf.Tensor(2, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.18961787 0.39679933 0.41358283] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.5034199  0.3681122  0.12846787] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3522727272727273
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.50371/1 [==============================] - 0s 42ms/step - loss: 1.5037
+Evaluating y_pred, y  [0.6334348  0.31215858 0.05440666] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.68876785 0.2789535  0.03227872] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.69412583 0.26959598 0.03627817] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.38636363636363635
+Epoch  50
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.98251/1 [==============================] - 0s 43ms/step - loss: 0.9825
+Evaluating y_pred, y  [0.21007812 0.4132544  0.37666753] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.22952363 0.42949805 0.34097826] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.6370162  0.3075494  0.05543443] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3977272727272727
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.19861/1 [==============================] - 0s 43ms/step - loss: 1.1986
+Evaluating y_pred, y  [0.19022697 0.40552464 0.4042484 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.20992158 0.4250479  0.36503047] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.52159375 0.41418704 0.06421921] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.38636363636363635
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.80251/1 [==============================] - 0s 43ms/step - loss: 0.8025
+Evaluating y_pred, y  [0.65889096 0.30218357 0.03892546] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.7154524  0.26336712 0.02118059] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.69982445 0.2727037  0.02747191] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.42045454545454547
+Epoch  51
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.24771/1 [==============================] - 0s 43ms/step - loss: 1.2477
+Evaluating y_pred, y  [0.20992725 0.43157208 0.3585007 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.2346121  0.44707873 0.3183092 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.52502257 0.42149433 0.05348314] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.375
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.04761/1 [==============================] - 0s 42ms/step - loss: 1.0476
+Evaluating y_pred, y  [0.20687826 0.43928123 0.35384047] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.23834945 0.45239148 0.30925915] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.57602113 0.40678486 0.017194  ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4431818181818182
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.48181/1 [==============================] - 0s 43ms/step - loss: 0.4818
+Evaluating y_pred, y  [0.72524405 0.25501868 0.01973724] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.7923918  0.19843417 0.00917402] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.6261008  0.36565173 0.00824747] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5113636363636364
+Epoch  52
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.75051/1 [==============================] - 0s 43ms/step - loss: 0.7505
+Evaluating y_pred, y  [0.04490314 0.6416311  0.31346583] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.08133831 0.37857735 0.54008436] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34991458 0.6317376  0.01834782] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4772727272727273
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.75891/1 [==============================] - 0s 42ms/step - loss: 0.7589
+Evaluating y_pred, y  [0.11166378 0.8311347  0.05720158] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.20817497 0.4967571  0.2950679 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.20527203 0.77438533 0.02034267] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5568181818181818
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.04531/1 [==============================] - 0s 42ms/step - loss: 0.0453
+Evaluating y_pred, y  [0.09206548 0.8645651  0.04336939] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.26266277 0.4860019  0.2513353 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.16670229 0.8190483  0.01424936] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+Epoch  53
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.06301/1 [==============================] - 0s 43ms/step - loss: 0.0630
+Evaluating y_pred, y  [0.04512453 0.73985696 0.21501845] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.10866259 0.3383291  0.55300826] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.02027734 0.96588326 0.01383946] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5340909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.54861/1 [==============================] - 0s 42ms/step - loss: 0.5486
+Evaluating y_pred, y  [0.13942038 0.8246286  0.03595103] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.12269712 0.326191   0.5511119 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.04621375 0.94185364 0.01193266] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5681818181818182
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.02621/1 [==============================] - 0s 43ms/step - loss: 0.0262
+Evaluating y_pred, y  [0.13575839 0.83397555 0.0302661 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3476393  0.3909154  0.26144525] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.24264835 0.7461788  0.01117286] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6931818181818182
+This is the best eval res, saving the model...
+saving model now = 2024-12-18 14:29:18.267088
+date and time = 18_12_2024_14_29_18
+just saved
+Epoch  54
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.01971/1 [==============================] - 0s 43ms/step - loss: 0.0197
+Evaluating y_pred, y  [0.05618441 0.75649506 0.18732053] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.13352601 0.2842973  0.5821767 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.01933973 0.9727869  0.00787339] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5568181818181818
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.42801/1 [==============================] - 0s 42ms/step - loss: 0.4280
+Evaluating y_pred, y  [0.06367859 0.7706187  0.16570278] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.14198165 0.27313745 0.5848809 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.02150642 0.9730162  0.00547735] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.01821/1 [==============================] - 0s 43ms/step - loss: 0.0182
+Evaluating y_pred, y  [0.16543064 0.8116974  0.02287188] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.40130806 0.33036515 0.26832676] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.2005033  0.7916293  0.00786744] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6704545454545454
+Epoch  55
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.02141/1 [==============================] - 0s 43ms/step - loss: 0.0214
+Evaluating y_pred, y  [0.07343493 0.7420853  0.18447973] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.13832162 0.23933941 0.622339  ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.06493413 0.9316383  0.00342767] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5909090909090909
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.37801/1 [==============================] - 0s 43ms/step - loss: 0.3780
+Evaluating y_pred, y  [0.07772157 0.7582481  0.1640303 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.14349504 0.23400947 0.6224955 ] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.02425607 0.97138524 0.0043586 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.625
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.01181/1 [==============================] - 0s 43ms/step - loss: 0.0118
+Evaluating y_pred, y  [0.20386164 0.77595687 0.02018142] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.30425936 0.36964133 0.32609928] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.03967722 0.9556768  0.00464605] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6704545454545454
+Epoch  56
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.02931/1 [==============================] - 0s 42ms/step - loss: 0.0293
+Evaluating y_pred, y  [0.003168   0.98664075 0.0101913 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.00951241 0.6582413  0.33224627] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.00290348 0.9888572  0.00823934] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.5909090909090909
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.37421/1 [==============================] - 0s 43ms/step - loss: 0.3742
+Evaluating y_pred, y  [0.02850101 0.9472222  0.0242768 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.04590053 0.48365316 0.47044632] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.04139802 0.7739975  0.18460454] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.625
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.07841/1 [==============================] - 0s 43ms/step - loss: 0.0784
+Evaluating y_pred, y  [0.09622989 0.8905312  0.01323897] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.10515721 0.56973124 0.32511154] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.09624158 0.7907743  0.11298407] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6477272727272727
+Epoch  57
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.08781/1 [==============================] - 0s 43ms/step - loss: 0.0878
+Evaluating y_pred, y  [0.08350199 0.89903253 0.01746541] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.08653349 0.4993778  0.41408867] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.08569035 0.7632239  0.15108582] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.06101/1 [==============================] - 0s 42ms/step - loss: 0.0610
+Evaluating y_pred, y  [0.05207311 0.9359999  0.01192698] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.0685068  0.4871401  0.44435313] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.0408562  0.95074636 0.00839743] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.625
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.04061/1 [==============================] - 0s 43ms/step - loss: 0.0406
+Evaluating y_pred, y  [0.03995544 0.95492244 0.00512212] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.16824599 0.4567075  0.37504658] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.03802185 0.95792943 0.00404878] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+Epoch  58
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 0.05841/1 [==============================] - 0s 43ms/step - loss: 0.0584
+Evaluating y_pred, y  [0.04626011 0.9409553  0.01278468] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.13437042 0.38773707 0.47789252] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.06701939 0.7704401  0.16254054] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.625
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.05261/1 [==============================] - 0s 42ms/step - loss: 0.0526
+Evaluating y_pred, y  [0.02735772 0.8027655  0.16987683] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.1198204 0.3798183 0.5003613] tf.Tensor(2, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.02268327 0.9711336  0.00618316] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.6022727272727273
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 0.38641/1 [==============================] - 0s 42ms/step - loss: 0.3864
+Evaluating y_pred, y  [6.3208240e-01 3.6766791e-01 2.4973927e-04] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [6.2673998e-01 3.7302846e-01 2.3154695e-04] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [6.2871903e-01 3.7104222e-01 2.3877060e-04] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.42045454545454547
+Epoch  59
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.04881/1 [==============================] - 0s 43ms/step - loss: 1.0488
+Evaluating y_pred, y  [0.6302375  0.3449839  0.02477858] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.63139385 0.34516403 0.02344208] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.630939   0.3450332  0.02402777] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.36363636363636365
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.74361/1 [==============================] - 0s 43ms/step - loss: 0.7436
+Evaluating y_pred, y  [0.4692246  0.36612326 0.16465215] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4708182  0.36666307 0.16251872] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.47054484 0.3663788  0.16307639] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.375
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.07951/1 [==============================] - 0s 43ms/step - loss: 1.0795
+Evaluating y_pred, y  [0.43158895 0.34550336 0.22290769] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.43289146 0.3456265  0.22148201] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.4328422  0.3455963  0.22156142] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3977272727272727
+Epoch  60
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.03041/1 [==============================] - 0s 42ms/step - loss: 1.0304
+Evaluating y_pred, y  [0.33478343 0.36040467 0.30481195] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3341997  0.3608849  0.30491546] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.33504006 0.36087942 0.30408055] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.06621/1 [==============================] - 0s 42ms/step - loss: 1.0662
+Evaluating y_pred, y  [0.34321097 0.34394792 0.31284115] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34290516 0.3440498  0.31304497] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34365383 0.34420004 0.3121461 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.10341/1 [==============================] - 0s 44ms/step - loss: 1.1034
+Evaluating y_pred, y  [0.4034496  0.33699334 0.25955707] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.40434816 0.33700824 0.25864354] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.40452266 0.33706295 0.25841445] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+Epoch  61
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.05241/1 [==============================] - 0s 43ms/step - loss: 1.0524
+Evaluating y_pred, y  [0.33571127 0.35270035 0.3115884 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.33529824 0.35301268 0.31168908] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.33605117 0.35309353 0.31085527] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.05681/1 [==============================] - 0s 42ms/step - loss: 1.0568
+Evaluating y_pred, y  [0.34624687 0.34170604 0.3120471 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34613925 0.3418073  0.31205344] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34677628 0.34193793 0.3112858 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.09901/1 [==============================] - 0s 43ms/step - loss: 1.0990
+Evaluating y_pred, y  [0.40840203 0.33866444 0.2529336 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4095838  0.33876163 0.25165462] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.40962207 0.338778   0.25159988] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+Epoch  62
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.04931/1 [==============================] - 0s 42ms/step - loss: 1.0493
+Evaluating y_pred, y  [0.34113926 0.35389706 0.3049637 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34098846 0.35435885 0.30465272] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3416677  0.35438436 0.30394793] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.04871/1 [==============================] - 0s 43ms/step - loss: 1.0487
+Evaluating y_pred, y  [0.34892932 0.3426839  0.30838677] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34903258 0.3429137  0.30805373] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34962052 0.34300628 0.30737317] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.09101/1 [==============================] - 0s 43ms/step - loss: 1.0910
+Evaluating y_pred, y  [0.41142103 0.3414673  0.24711171] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.41282535 0.3416515  0.24552312] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.41277733 0.3416385  0.24558415] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+Epoch  63
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.04831/1 [==============================] - 0s 43ms/step - loss: 1.0483
+Evaluating y_pred, y  [0.34226322 0.35439938 0.30333737] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34233168 0.35496    0.3027084 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34287605 0.35492864 0.3021953 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.03061/1 [==============================] - 0s 43ms/step - loss: 1.0306
+Evaluating y_pred, y  [0.35508764 0.346971   0.2979414 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.35549012 0.3474213  0.29708856] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3559103  0.34743565 0.29665405] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.07881/1 [==============================] - 0s 42ms/step - loss: 1.0788
+Evaluating y_pred, y  [0.41705152 0.34573203 0.23721641] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.41868988 0.34608603 0.23522411] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.41849068 0.34598494 0.23552436] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+Epoch  64
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.04571/1 [==============================] - 0s 42ms/step - loss: 1.0457
+Evaluating y_pred, y  [0.3426417  0.35553268 0.3018256 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3429301  0.35624602 0.3008239 ] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34339073 0.35614815 0.3004611 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.02391/1 [==============================] - 0s 43ms/step - loss: 1.0239
+Evaluating y_pred, y  [0.35736114 0.34932163 0.2933173 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3580383  0.34992182 0.2920398 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.35838327 0.34986615 0.29175055] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.06791/1 [==============================] - 0s 43ms/step - loss: 1.0679
+Evaluating y_pred, y  [0.4214992  0.3497266  0.22877422] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.42342663 0.3502497  0.22632365] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.4230731  0.35007828 0.22684856] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+Epoch  65
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.04431/1 [==============================] - 0s 42ms/step - loss: 1.0443
+Evaluating y_pred, y  [0.34255397 0.3561925  0.3012536 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34304467 0.3570697  0.29988563] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34345517 0.35689932 0.29964554] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.01591/1 [==============================] - 0s 43ms/step - loss: 1.0159
+Evaluating y_pred, y  [0.36019602 0.35206863 0.28773534] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.36109486 0.35287234 0.2860328 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.36129057 0.35270086 0.28600857] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.05691/1 [==============================] - 0s 43ms/step - loss: 1.0569
+Evaluating y_pred, y  [0.42621982 0.3536928  0.22008738] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4283978  0.35437176 0.21723042] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.42793187 0.35411093 0.21795723] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+Epoch  66
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.04381/1 [==============================] - 0s 42ms/step - loss: 1.0438
+Evaluating y_pred, y  [0.34203738 0.35655388 0.30140874] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34271866 0.3575706  0.29971072] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34304953 0.35737064 0.2995799 ] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 1.00701/1 [==============================] - 0s 43ms/step - loss: 1.0070
+Evaluating y_pred, y  [0.36324906 0.3550311  0.2817199 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.3644314  0.35601595 0.2795527 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3645022  0.35579216 0.27970564] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.04491/1 [==============================] - 0s 42ms/step - loss: 1.0449
+Evaluating y_pred, y  [0.43143153 0.35823485 0.21033368] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.43380782 0.3590572  0.20713492] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.43323326 0.35872585 0.20804094] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+Epoch  67
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.04271/1 [==============================] - 0s 43ms/step - loss: 1.0427
+Evaluating y_pred, y  [0.3416791  0.35720742 0.30111346] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34256595 0.35846323 0.29897085] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.3427882  0.3581418  0.29907006] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.99821/1 [==============================] - 0s 43ms/step - loss: 0.9982
+Evaluating y_pred, y  [0.36646026 0.3584385  0.27510127] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.36789158 0.35963857 0.27246982] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.36778906 0.35928503 0.27292594] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.03441/1 [==============================] - 0s 43ms/step - loss: 1.0344
+Evaluating y_pred, y  [0.4351871  0.36221462 0.20259835] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.43776524 0.36313528 0.19909948] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.43709147 0.3627455  0.20016304] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3977272727272727
+Epoch  68
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.04411/1 [==============================] - 0s 43ms/step - loss: 1.0441
+Evaluating y_pred, y  [0.34046948 0.3569273  0.30260327] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34152934 0.35830665 0.30016398] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34169608 0.35794476 0.30035916] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.42045454545454547
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.97631/1 [==============================] - 0s 42ms/step - loss: 0.9763
+Evaluating y_pred, y  [0.3749847  0.36564866 0.25936663] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.37665087 0.36711746 0.25623164] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.376436   0.36659572 0.25696832] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.02351/1 [==============================] - 0s 43ms/step - loss: 1.0235
+Evaluating y_pred, y  [0.43859833 0.36623847 0.19516319] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.44129768 0.36732128 0.1913811 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.4405307  0.3668252  0.19264415] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3977272727272727
+Epoch  69
+i =   0
+1/1 [==============================] - ETA: 0s - loss: 1.03061/1 [==============================] - 0s 43ms/step - loss: 1.0306
+Evaluating y_pred, y  [0.34631354 0.3620657  0.29162076] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.34770134 0.36372107 0.28857765] tf.Tensor(1, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.34766415 0.36320084 0.28913504] tf.Tensor(1, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.42045454545454547
+i =   30
+1/1 [==============================] - ETA: 0s - loss: 0.96731/1 [==============================] - 0s 43ms/step - loss: 0.9673
+Evaluating y_pred, y  [0.37818447 0.3686526  0.2531629 ] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.38011166 0.37027866 0.2496097 ] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.37981886 0.36965442 0.25052676] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.4090909090909091
+i =   60
+1/1 [==============================] - ETA: 0s - loss: 1.01621/1 [==============================] - 0s 43ms/step - loss: 1.0162
+Evaluating y_pred, y  [0.44162503 0.36908513 0.18928985] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluating y_pred, y  [0.4444437  0.37029958 0.18525673] tf.Tensor(0, shape=(), dtype=int64) 0
+Evaluating y_pred, y  [0.4436381 0.3697532 0.1866087] tf.Tensor(0, shape=(), dtype=int64) 1
+Evaluate on valid set:  0.3977272727272727
+[db] p_count =  0
+[db] p_count =  1
+[db] p_count =  2
+[db] p_count =  3
+[db] p_count =  4
+[db] p_count =  5
+[db] p_count =  6
+[db] p_count =  7
+[db] p_count =  8
+[db] p_count =  9
+[db] p_count =  10
+[db] p_count =  11
+[db] p_count =  12
+[db] p_count =  13
+[db] p_count =  14
+p_count =  0
+count =  530
+p_count =  1
+count =  530
+p_count =  2
+count =  530
+p_count =  3
+count =  530
+p_count =  4
+count =  530
+p_count =  5
+count =  530
+p_count =  6
+count =  530
+p_count =  7
+count =  530
+p_count =  8
+count =  530
+p_count =  9
+count =  530
+p_count =  10
+count =  530
+p_count =  11
+count =  530
+p_count =  12
+count =  530
+p_count =  13
+count =  530
+p_count =  14
+count =  530
+Prototypes: 
+this bird is brown with white and has a long, pointy beak
+this bird is brown with white and has a long, pointy beak
+this bird is brown with white and has a long, pointy beak
+this bird is brown with white and has a long, pointy beak
+this bird is brown with white and has a long, pointy beak
+this bird is brown with some white and has a long, pointy beak
+this bird has wings that are brown and has a long black bill
+this bird is brown with white and has a long, pointy beak
+this bird is brown with white and has a long, pointy beak
+this bird is brown with white and has a long, pointy beak
+this bird is brown with white and has a long, pointy beak
+this bird is black with white and has a long, pointy beak
+this bird is brown with white and has a long, pointy beak
+this bird is brown with white and has a long, pointy beak
+this bird is white with black and has a long, pointy beak
+list of prototypes: None
+Prototype freq =  {0: 84, 1: 0, 2: 0, 3: 17, 4: 0, 5: 215, 6: 326, 7: 0, 8: 0, 9: 0, 10: 0, 11: 133, 12: 0, 13: 0, 14: 125}
+sorted : [(6, 326), (5, 215), (11, 133), (14, 125), (0, 84), (3, 17), (1, 0), (2, 0), (4, 0), (7, 0), (8, 0), (9, 0), (10, 0), (12, 0), (13, 0)]
+the number of closest sentences to each prototypes: None
+mapped prototypes: {0: 'this bird is brown with white and has a long, pointy beak', 1: 'this bird is brown with white and has a long, pointy beak', 2: 'this bird is brown with white and has a long, pointy beak', 3: 'this bird is brown with white and has a long, pointy beak', 4: 'this bird is brown with white and has a long, pointy beak', 5: 'this bird is brown with some white and has a long, pointy beak', 6: 'this bird has wings that are brown and has a long black bill', 7: 'this bird is brown with white and has a long, pointy beak', 8: 'this bird is brown with white and has a long, pointy beak', 9: 'this bird is brown with white and has a long, pointy beak', 10: 'this bird is brown with white and has a long, pointy beak', 11: 'this bird is black with white and has a long, pointy beak', 12: 'this bird is brown with white and has a long, pointy beak', 13: 'this bird is brown with white and has a long, pointy beak', 14: 'this bird is white with black and has a long, pointy beak'}

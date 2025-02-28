@@ -1,0 +1,16 @@
+Unique Sentences and Their Occurrences:
+'this bird has wings that are black and has a thickbill': 1 times
+'this is a black bird with a gray bill with a orange and white on the wingbar': 1 times
+'the breast and body of the bird is most white, with brown speckles throughout': 1 times
+'this bird is entirely black and has a large curved bill': 1 times
+'a long black bird with a stubby black beak and a medium sized neck': 1 times
+'the bird has a long curved bill that is ambered color': 1 times
+'this bird has wings that are black with a bulky bill': 1 times
+'the crown of this exotic bird is made to attract eligible females': 1 times
+'the bird has a white eyering and long secondaries that are dark grey': 1 times
+'the bird has a black eyering, short throat and a small bill': 1 times
+
+Summary:
+Total Sentences: 10
+Unique Sentences: 10
+Duplicated Sentences: 0

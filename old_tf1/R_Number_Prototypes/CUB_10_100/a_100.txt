@@ -1,0 +1,24 @@
+Unique Sentences and Their Occurrences:
+'this bird is gray and black in color, with a large black beak': 2 times
+'a large white bird with black wings and long yellow bill': 9 times
+'this is a large grey bird with a black wing and head and a long and pointy black beak': 24 times
+'this bird has black plumage, with a large head and a large black, curved beak': 13 times
+'a large bird with large black and white bill, and black wings': 1 times
+'this bird has a black head, a long black bill, and a large wingspan': 22 times
+'this is a white bird with a black wing and a large beak': 3 times
+'this bird is black with big wings and has a long, pointy beak': 1 times
+'a long black bird with a stubby black beak and a medium sized neck': 5 times
+'this is a large bird with a mostly grey bird with a yellow beak and black and white wings': 1 times
+'a black bird with a long tail and a large gray beak': 4 times
+'this bird has wings that are black and has a long black bill': 2 times
+'this bird has large black wings and a white underbelly as well as a medium sized beak': 3 times
+'this bird is black with white and has a very short beak': 5 times
+'this bird is black with red and has a very short beak': 1 times
+'this bird has wings that are grey and has a long black bill': 2 times
+'this is a large bird with dark grey wings, a white body and a large bill': 1 times
+'this is a grey bird with a black head and a large black beak': 1 times
+
+Summary:
+Total Sentences: 100
+Unique Sentences: 18
+Duplicated Sentences: 82

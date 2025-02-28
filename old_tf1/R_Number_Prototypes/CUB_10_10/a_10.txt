@@ -1,0 +1,16 @@
+Unique Sentences and Their Occurrences:
+'this bird is black with white and has a long, pointy beak': 1 times
+'this bird has a short orange bill, a black head, and a black and white mottled body': 1 times
+'this bird has a wide wing span covered in brown, grey and white feathers with a broad, blunt beak': 1 times
+'this bird is grey with white and has a long, pointy beak': 1 times
+'a long black bird with a stubby black beak and a medium sized neck': 1 times
+'this bird has wings that are black and has an orange and yellow patch': 1 times
+'this bird has wings that are black and has a thick bill': 1 times
+'this bird has a black overall body color aside from a white line around it's bill': 1 times
+'the bird has a white eyering and long secondaries that are dark grey': 1 times
+'the bird has a black eyering, short throat and a small bill': 1 times
+
+Summary:
+Total Sentences: 10
+Unique Sentences: 10
+Duplicated Sentences: 0
